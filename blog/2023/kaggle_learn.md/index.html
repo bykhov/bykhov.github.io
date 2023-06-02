@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Announcement_3 | Dima  Bykhovsky</title>
+    <title>MOOC for ML/DL Teaching | Dima  Bykhovsky</title>
     <meta name="author" content="Dima  Bykhovsky">
     <meta name="description" content="Academic blog and publication platform for thing I want to share.
 ">
@@ -39,7 +39,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.ico">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://bykhov.github.io/news/announcement_3/">
+    <link rel="canonical" href="https://bykhov.github.io/blog/2023/kaggle_learn.md/">
 
     <!-- Dark Mode -->
     
@@ -78,8 +78,8 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/blog/">blog</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Other pages -->
@@ -136,10 +136,18 @@
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Announcement_3</h1>
-    <p class="post-meta">January 15, 2016</p>
+    <h1 class="post-title">MOOC for ML/DL Teaching</h1>
+    <p class="post-meta">May 7, 2023</p>
     <p class="post-tags">
-      <a href="/blog/2016"> <i class="fas fa-calendar fa-sm"></i> 2016 </a>
+      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+        ·  
+        <a href="/blog/tag/education">
+          <i class="fas fa-hashtag fa-sm"></i> education</a>  
+          
+        ·  
+        <a href="/blog/category/teaching">
+          <i class="fas fa-tag fa-sm"></i> Teaching</a>  
+          
 
     </p>
   </header>
@@ -147,10 +155,83 @@
   <article class="post-content">
     
     <div id="markdown-content">
-      <p>A simple inline announcement with Markdown emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20"> <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20"></p>
+      # Usage of short MOOC courses for ML/DL education
+I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.
+
+Internet is full of **excellent** lectures on most of the academic subjects. These lectures may be provided as a free part of MOOC or as a standalone recording. I 
+
+
+## Motivation
+
+Procs:
+* Free of charge
+* Didactic organization of material with numerous examples.
+* A significant number of fair-level exercises with automatic assessment. These exercises are based on pre-configured Jupyter notebooks and the corresponding Python environment; they are far beyond what I could provide by myself as a lecturer. 
+* Certificate of completion in some of the courses:
+	- It is nice to add to a CV or a LinkedIn profile.
+	- Easily measurable achievement as a homework task.
+
+
+Notes:
+* Typically, no or almost no theory is provided. These courses are suitable as homework (or classwork) exercises, but they are less applicable to mind the theory gap.
+* Full solutions are typically available, either as in-course hints, as some Github repository, or even as Co-pilot hints. As a result, theoretically, a certificate may be obtained in a few minutes. Therefore, I usually combine additional proctored graded assessments for the related material.
+* No learning management system (LMS, such as Moodle) integration. 
+
+In the following posts I will try to present some of the recommended courses.
+
+## Case study - [Kaggle Learn](https://www.kaggle.com/learn)
+Kaggle has published a series of short free open-access courses. Each course typically takes a few hours to complete.
+
+Procs:
+* All procs of free MOOC courses, including Jupyter environment and free certificates.
+
+Computing environment notes:
+* It takes some time for a session to start.
+* Current Kaggle notebooks have limited debugging capabilities. Also, there is no possibility to run notebooks offline with some advanced IDE that has a variable inspector and/or breakpoints support (PyCharm, VSC, etc.).
+
+### Per course notes
+In the following, I want to outline some brief notes for some of the courses.
+
+* **Python,Pandas**: excellent courses for beginners
+* **Data Visualization**: uses only the `seaborn` package that concentrates on `DataFrame`s, without direct mention of `matplotlib`. Unfortunately, I have also not found `matplotlib` examples in other courses; for engineering calculations, it may be more useful than `seaborn`.
+* **Intro to Machine Learning**: practice decision trees and random forest with `sklearn`. No theory is provided.
+* **Intermediate Machine Learning**: extension of *Intro to Machine Learning* with additional `pandas` tricks and `xgboost`. Note, this course is based on a relatively old version of `xgboost` that still did not support categorical variables and missing values. It also missing some inherent tree-related capabilities, such as pruning and feature importance.
+* **Feature Engineering**: a few important techniques, such as PCA. Nevertheless, less recommended.
+* **Intro to Deep Learning**: excellent hands-on illustration of neural-network concept.
+* **Computer Vision**: less appreciated by students. In my opinion, this course tries to combine too many things altogether. It can be considered a guided classwork example rather than self-study homework.
 
     </div>
   </article>
+
+
+  
+    
+    <br>
+    <hr>
+    <br>
+    <ul class="list-disc pl-8"></ul>
+
+    <!-- Adds related posts to the end of an article -->
+    <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2>
+    <p class="mb-2">Here are some more articles you might like to read next:</p>
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/tensorrt_course.md/">TensorRT for Tensorflow (Coursera Project)</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/tensorrt_course/">TensorRT for Tensorflow (Coursera Project)</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/Jetson.md/">Jetson Nano Example Project</a>
+  </li>
+
 </div>
 
       
