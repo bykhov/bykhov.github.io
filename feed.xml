@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-02T08:30:51+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-02T08:34:18+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
 </subtitle><entry><title type="html">TensorRT for Tensorflow (Coursera Project)</title><link href="https://bykhov.github.io/blog/2023/tensorrt_course/" rel="alternate" type="text/html" title="TensorRT for Tensorflow (Coursera Project)" /><published>2023-05-16T00:00:00+00:00</published><updated>2023-05-16T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/tensorrt_course</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/tensorrt_course/"><![CDATA[<p>Coursera has opened for free the <a href="https://www.coursera.org/learn/tensorflow-tensorrt/home/welcome"><em>Optimize TensorFlow Models For Deployment with TensorRT</em></a> project.</p>
 
 <h3 id="basics">Basics</h3>
@@ -44,45 +44,7 @@
   </li>
   <li><code class="language-plaintext highlighter-rouge">INT8</code> conversion has taken me about 10 minutes on Colab. The videos show that Colab worked twice faster a few years ago.</li>
   <li>The certification exam is trivial.</li>
-</ul>]]></content><author><name></name></author><category term="Education" /><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[TensorRT course]]></summary></entry><entry><title type="html">TensorRT for Tensorflow (Coursera Project)</title><link href="https://bykhov.github.io/blog/2023/tensorrt_course.md/" rel="alternate" type="text/html" title="TensorRT for Tensorflow (Coursera Project)" /><published>2023-05-16T00:00:00+00:00</published><updated>2023-05-16T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/tensorrt_course.md</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/tensorrt_course.md/"><![CDATA[Coursera has opened for free the [_Optimize TensorFlow Models For Deployment with TensorRT_](https://www.coursera.org/learn/tensorflow-tensorrt/home/welcome) project.
-
-### Basics
-*Goal:* Speed up Tensorflow model inference performance.
-
-*Time-length*: 1.5-2 hours
-
-*Prerequisite*: experience with pre-trained Tensorflow models.
-
-*Reference*: [Accelerating Inference in TensorFlow with TensorRT User Guide](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html)
-
-### Procs
-* Nice explanatory videos.
-* You have to type a lot, but it does encourage you to understand things better (didactic trick).
-* Comparison to Nvidia's [alternative](https://courses.nvidia.com/courses/course-v1:DLI+L-FX-18+V2/):
-	- Seems to explain better
-	- Colab instead fully pre-configured dedicated virtual machine
-	- Toy database instead of the 'real' one
-	- Headache of outdated Colab configuration
-* Certificate
-
-### Notes
-
-* Making things work:
-
-* The configuration is outdated. The following installation procedure is to be used ([Nvidia doc](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)):
-    ```python
-    %%bash
-    sudo apt install python3-libnvinfer
-    python3 -m pip install --upgrade tensorrt
-    ```
-* The result may be also verified by
-    ```python
-    import tensorrt
-    print(tensorrt.__version__)
-    ```
-
-* `INT8` conversion has taken me about 10 minutes on Colab. The videos show that Colab worked twice faster a few years ago.
-* The certification exam is trivial.]]></content><author><name></name></author><category term="Education" /><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[TensorRT course]]></summary></entry><entry><title type="html">Jetson Nano Example Project</title><link href="https://bykhov.github.io/blog/2023/Jetson/" rel="alternate" type="text/html" title="Jetson Nano Example Project" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/Jetson</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/Jetson/"><![CDATA[<h2 id="jetson-nano-experience">Jetson Nano Experience</h2>
+</ul>]]></content><author><name></name></author><category term="Education" /><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[TensorRT course]]></summary></entry><entry><title type="html">Jetson Nano Example Project</title><link href="https://bykhov.github.io/blog/2023/Jetson/" rel="alternate" type="text/html" title="Jetson Nano Example Project" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/Jetson</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/Jetson/"><![CDATA[<h2 id="jetson-nano-experience">Jetson Nano Experience</h2>
 <ul>
   <li>I want to debrief my experience with the Jetson Nano card as a part of the Nvidia <a href="https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs">certification program</a></li>
   <li>It follows <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/">Getting Started with AI on Jetson Nano</a> course by Nvidia.</li>
@@ -151,59 +113,7 @@
 <p>Nice and convenient. It is still not clear for me if current-limiting resistor of \(220 \Omega\) is obligatory, since LED light is almost invisible.</p>
 
 <h3 id="repository">Repository</h3>
-<p>Overall, the <a href="https://github.com/bykhov/jetson">repository</a> provides an overview of my experiments of using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.</p>]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">Jetson Nano Example Project</title><link href="https://bykhov.github.io/blog/2023/Jetson.md/" rel="alternate" type="text/html" title="Jetson Nano Example Project" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/Jetson.md</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/Jetson.md/"><![CDATA[## Jetson Nano Experience
-* I want to debrief my experience with the Jetson Nano card as a part of the Nvidia [certification program](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
-* It follows [Getting Started with AI on Jetson Nano](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/) course by Nvidia.
-
-### Configuration
-* Configuration of a card is non-trivial if you want something beyond basic configuration or a standard Docker container. 
-* Some things require timely compilation from scratch. I found myself too used to everything pre-compiled in the Windows environment.
-* I have unsuccessfully tried to configure a Linux host for Jetson on my Windows machine by WSL2. The particular challenge was the USB connector  [configuration](https://learn.microsoft.com/en-us/windows/wsl/connect-usb).
-* Creating of custom Docker containers is an important skill. The building scripts for all important containers are provided. There is a nice free MOOC course [DevOps with Docker](https://devopswithdocker.com/) that I have started. However, my current responsibilities did not allow me to delve deeply into the subject.
-
-### [Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)
-* There are too many ways to install the same package (I have also tried Miniconda [installation](https://medium.com/@seehleung/how-to-setup-a-jetson-nano-for-ai-projects-in-2021-f8d0ac557966) for Jetson), not including option for multiple environments:
-    ```bash
-    pip install matplotlib
-    sudo pip install matplotlib
-    sudo apt install python3-matplotlib
-    conda install matplotlib
-    ```
-I have tried to be consistent with `sudo pip install`
-
-* Sometimes `pip` option `--ignore-installed` may help for some errors.
-* Sometimes `pip` option `--no-dependencies` may help to prevent overwriting the pre-installed OpenCV.
-* Symbolic links may be required.
-* Path in `~/.bashrc` may be required.
-
-### Camera
-* There are at least two main interfaces for the camera: [GStreamer](https://gstreamer.freedesktop.org/) and OpenCV. I have used OpenCV for its simpler interface. Nevertheless, the usage of real-time video requires GStreamer.
-
-### Tensorflow
-I prefer Tensorflow for its simplicity. Some points to note are:
-* Theoretically, up to version 2.7.0 is supported - I have succeeded only 2.6.2, which is also nice.
-* Some sub-package was too challenging to install: e.g. `addons, tesnorflow_io`. 
-* Success with `tensorflow-hub` with some tweaks - it is probably the most useful part for out-of-the-box applications.
-* Speed-up by TensorRT is required.  I have even taken a free project on Coursera ([certificate](https://coursera.org/share/678fc097e9f7fb2e99b11a569bb6cb08), [review](https://bykhov.github.io/posts/tensorrt_course/) and somewhat inspected a similar [course](https://courses.nvidia.com/courses/course-v1:DLI+L-FX-18+V2/course/) by Nvidia (that is free for me as an academic ambassador). Have not applied yet, nevertheless, it can be an important subject to present to students in the future, not just in Jeston Nano context.
-
-### Copy files from Windows host
-To copy files by SSH from Windows host ([ref](https://www.addictivetips.com/ubuntu-linux-tips/transfer-files-to-linux-from-windows-10-over-ssh/)): 
-* `scp` command:
-`scp Filepathinwindows username@ubuntuserverip:linuxserverpath`
-	
-	Example: `scp .\test.txt nano@192.168.55.1:~/`
-* [WinSCP](https://winscp.net/)
-
-### IDE
-* The card does not support serious IDE due to memory and CPU limitations.
-* Jupyter Notebook and Jupyter Lab worked fine with some essential modern extensions, such as variable inspection.  However, I have encountered some problems with images inside Jupyter.
-* Remote SSL is fantastic. While not so convenient for image presentation, it has all the advantages of a modern IDE.
-
-### LEDs
-Nice and convenient. It is still not clear for me if current-limiting resistor of $$220 \Omega$$ is obligatory, since LED light is almost invisible.
-
-### Repository
-Overall, the [repository]( https://github.com/bykhov/jetson) provides an overview of my experiments of using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn/"><![CDATA[<h1 id="usage-of-short-mooc-courses-for-mldl-education">Usage of short MOOC courses for ML/DL education</h1>
+<p>Overall, the <a href="https://github.com/bykhov/jetson">repository</a> provides an overview of my experiments of using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.</p>]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn/"><![CDATA[<h1 id="usage-of-short-mooc-courses-for-mldl-education">Usage of short MOOC courses for ML/DL education</h1>
 <p>I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.</p>
 
 <p>The Internet is full of excellent lectures on most academic subjects. These lectures may be provided as a free part of MOOC or as a standalone recording. I believe my students deserve to study from the <strong>best lecturers on the planet</strong> as a part of my courses, so sometimes I use flipped classroom principle with carefully picked online lectures.</p>
@@ -257,50 +167,7 @@ Overall, the [repository]( https://github.com/bykhov/jetson) provides an overvie
   <li><strong>Feature Engineering</strong>: a few important techniques, such as PCA. Nevertheless, less recommended.</li>
   <li><strong>Intro to Deep Learning</strong>: excellent hands-on illustration of neural-network concept.</li>
   <li><strong>Computer Vision</strong>: less appreciated by students. In my opinion, this course tries to combine too many things altogether. It can be considered a guided classwork example rather than self-study homework.</li>
-</ul>]]></content><author><name></name></author><category term="Teaching" /><category term="education" /><summary type="html"><![CDATA[Usage of short MOOC courses for ML/DL education I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn.md/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn.md</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn.md/"><![CDATA[# Usage of short MOOC courses for ML/DL education
-I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.
-
-Internet is full of **excellent** lectures on most of the academic subjects. These lectures may be provided as a free part of MOOC or as a standalone recording. I 
-
-
-## Motivation
-
-Procs:
-* Free of charge
-* Didactic organization of material with numerous examples.
-* A significant number of fair-level exercises with automatic assessment. These exercises are based on pre-configured Jupyter notebooks and the corresponding Python environment; they are far beyond what I could provide by myself as a lecturer. 
-* Certificate of completion in some of the courses:
-	- It is nice to add to a CV or a LinkedIn profile.
-	- Easily measurable achievement as a homework task.
-
-
-Notes:
-* Typically, no or almost no theory is provided. These courses are suitable as homework (or classwork) exercises, but they are less applicable to mind the theory gap.
-* Full solutions are typically available, either as in-course hints, as some Github repository, or even as Co-pilot hints. As a result, theoretically, a certificate may be obtained in a few minutes. Therefore, I usually combine additional proctored graded assessments for the related material.
-* No learning management system (LMS, such as Moodle) integration. 
-
-In the following posts I will try to present some of the recommended courses.
-
-## Case study - [Kaggle Learn](https://www.kaggle.com/learn)
-Kaggle has published a series of short free open-access courses. Each course typically takes a few hours to complete.
-
-Procs:
-* All procs of free MOOC courses, including Jupyter environment and free certificates.
-
-Computing environment notes:
-* It takes some time for a session to start.
-* Current Kaggle notebooks have limited debugging capabilities. Also, there is no possibility to run notebooks offline with some advanced IDE that has a variable inspector and/or breakpoints support (PyCharm, VSC, etc.).
-
-### Per course notes
-In the following, I want to outline some brief notes for some of the courses.
-
-* **Python,Pandas**: excellent courses for beginners
-* **Data Visualization**: uses only the `seaborn` package that concentrates on `DataFrame`s, without direct mention of `matplotlib`. Unfortunately, I have also not found `matplotlib` examples in other courses; for engineering calculations, it may be more useful than `seaborn`.
-* **Intro to Machine Learning**: practice decision trees and random forest with `sklearn`. No theory is provided.
-* **Intermediate Machine Learning**: extension of *Intro to Machine Learning* with additional `pandas` tricks and `xgboost`. Note, this course is based on a relatively old version of `xgboost` that still did not support categorical variables and missing values. It also missing some inherent tree-related capabilities, such as pruning and feature importance.
-* **Feature Engineering**: a few important techniques, such as PCA. Nevertheless, less recommended.
-* **Intro to Deep Learning**: excellent hands-on illustration of neural-network concept.
-* **Computer Vision**: less appreciated by students. In my opinion, this course tries to combine too many things altogether. It can be considered a guided classwork example rather than self-study homework.]]></content><author><name></name></author><category term="Teaching" /><category term="education" /><summary type="html"><![CDATA[# Usage of short MOOC courses for ML/DL education I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.]]></summary></entry><entry><title type="html">2nd IEEE Conference on Machine Learning in Engineering</title><link href="https://bykhov.github.io/blog/2023/MLE2/" rel="alternate" type="text/html" title="2nd IEEE Conference on Machine Learning in Engineering" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/MLE2</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/MLE2/"><![CDATA[<h3 id="short-debriefing-of-the-mle-conference">Short debriefing of the <a href="https://en.sce.ac.il/news/mle_2023_conference">MLE Conference</a></h3>
+</ul>]]></content><author><name></name></author><category term="Teaching" /><category term="education" /><summary type="html"><![CDATA[Usage of short MOOC courses for ML/DL education I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.]]></summary></entry><entry><title type="html">2nd IEEE Conference on Machine Learning in Engineering</title><link href="https://bykhov.github.io/blog/2023/MLE2/" rel="alternate" type="text/html" title="2nd IEEE Conference on Machine Learning in Engineering" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/MLE2</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/MLE2/"><![CDATA[<h3 id="short-debriefing-of-the-mle-conference">Short debriefing of the <a href="https://en.sce.ac.il/news/mle_2023_conference">MLE Conference</a></h3>
 
 <p>Some positive points:</p>
 <ul>
@@ -327,27 +194,4 @@ In the following, I want to outline some brief notes for some of the courses.
   <li>More in-house PR (both campuses)</li>
 </ul>
 
-<p>Photos: <a href="https://www.facebook.com/SCE.Bsc/posts/pfbid0YtBdVnLMFF3QW2PUPEhWU3VV2DABrBB96svTN2vbmkurvVJFUzfkHexyuDqx8Bwyl">Facebook post</a></p>]]></content><author><name></name></author><category term="SCE" /><category term="Conference" /><category term="debriefing" /><summary type="html"><![CDATA[Short debriefing of the MLE Conference]]></summary></entry><entry><title type="html">2nd IEEE Conference on Machine Learning in Engineering</title><link href="https://bykhov.github.io/blog/2023/MLE2.md/" rel="alternate" type="text/html" title="2nd IEEE Conference on Machine Learning in Engineering" /><published>2023-05-03T00:00:00+00:00</published><updated>2023-05-03T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/MLE2.md</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/MLE2.md/"><![CDATA[### Short debriefing of the [MLE Conference](https://en.sce.ac.il/news/mle_2023_conference)
-
-<!--more-->
-
-Some positive points:
-* Logo permission from IEEE Israel (thanks to Shmuel Auster)
-* Nice refreshments (special thanks to Victor Kagalovsky and Regina Vaisman)
-* Excellent visiting lecturers and great student engagement in these lectures
-* Timely website updates (thanks to Shay Shabtay) 
-
-What we should have done better:
-* Actively promoting of [Sensor special issue](https://www.mdpi.com/journal/sensors/special_issues/E7RBRQ027K)
-* Conference plan booklet
-* Ashdod campus involvement
-* Pitch lectures (1-2 minutes) for poster presenters
-
-Next time nice to have:
-* Rollup at the entrance
-* Name tags
-* More students
-* Demos
-* More in-house PR (both campuses)
-
-Photos: [Facebook post](https://www.facebook.com/SCE.Bsc/posts/pfbid0YtBdVnLMFF3QW2PUPEhWU3VV2DABrBB96svTN2vbmkurvVJFUzfkHexyuDqx8Bwyl)]]></content><author><name></name></author><category term="SCE" /><category term="Conference" /><category term="debriefing" /><summary type="html"><![CDATA[### Short debriefing of the [MLE Conference](https://en.sce.ac.il/news/mle_2023_conference)]]></summary></entry></feed>
+<p>Photos: <a href="https://www.facebook.com/SCE.Bsc/posts/pfbid0YtBdVnLMFF3QW2PUPEhWU3VV2DABrBB96svTN2vbmkurvVJFUzfkHexyuDqx8Bwyl">Facebook post</a></p>]]></content><author><name></name></author><category term="SCE" /><category term="Conference" /><category term="debriefing" /><summary type="html"><![CDATA[Short debriefing of the MLE Conference]]></summary></entry></feed>
