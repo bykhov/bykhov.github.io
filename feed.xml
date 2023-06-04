@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-04T12:07:30+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-04T12:10:33+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
 </subtitle><entry><title type="html">TensorRT for Tensorflow (Coursera Project)</title><link href="https://bykhov.github.io/blog/2023/tensorrt_course/" rel="alternate" type="text/html" title="TensorRT for Tensorflow (Coursera Project)" /><published>2023-05-16T00:00:00+00:00</published><updated>2023-05-16T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/tensorrt_course</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/tensorrt_course/"><![CDATA[<p>Coursera has opened for free the <a href="https://www.coursera.org/learn/tensorflow-tensorrt/home/welcome"><em>Optimize TensorFlow Models For Deployment with TensorRT</em></a> project.</p>
 
 <h3 id="basics">Basics</h3>
@@ -113,7 +113,59 @@
 <p>Nice and convenient. It is still not clear for me if current-limiting resistor of \(220 \Omega\) is obligatory, since LED light is almost invisible.</p>
 
 <h3 id="repository">Repository</h3>
-<p>Overall, the <a href="https://github.com/bykhov/jetson">repository</a> provides an overview of my experiments of using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.</p>]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn/"><![CDATA[<h1 id="usage-of-short-mooc-courses-for-mldl-education">Usage of short MOOC courses for ML/DL education</h1>
+<p>Overall, the <a href="https://github.com/bykhov/jetson">repository</a> provides an overview of my experiments of using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.</p>]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">pycatch22 example</title><link href="https://bykhov.github.io/blog/2023/feature_extraction/" rel="alternate" type="text/html" title="pycatch22 example" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/feature_extraction</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/feature_extraction/"><![CDATA[<h1 id="time-series-signals-classification-by-feature-extraction-with-pycatch22-example">Time series (signals) classification by feature extraction with PyCatch22 example</h1>
+
+<h2 id="preface">Preface</h2>
+
+<p>The idea of feature extraction in the context of time series (signal) classification is as follows:</p>
+<ol>
+  <li>The signal is divided into constant-length frames (also termed <em>segments</em>).</li>
+  <li>Some descriptive statistics values are calculated for each frame.</li>
+  <li>Descriptive values are fed into a classifier.</li>
+</ol>
+
+<p>The basic assumptions for this tutorial are:</p>
+<ul>
+  <li>Uni-variate data. The extension to multi-variate data is almost trivial and is covered in the bottom note.</li>
+  <li>The signal is a result of fixed sampling frequency without any <code class="language-plaintext highlighter-rouge">NaN</code>s (missing values).</li>
+</ul>
+
+<h2 id="signal-segmentation">Signal segmentation</h2>
+<p>There are two common approaches for signal segmentation. The first one is appropriate for all kinds of signals, including highly dynamic ones.
+The second one is used <strong>only for stationary signals</strong> when basic statistics over time remain approximately constant.
+These approaches are also highly related to the train-test split.</p>
+
+<h3 id="general-segmentation">General segmentation</h3>
+<p>The signal is divided into constant-length segments with some constant or random step between them. The goal of the inter-segment step is to remove (or at least reduce) statistical dependency between the end of the previous segment and the beginning of the following one.</p>
+
+<p><img src="/assets/img/ts/segmentation1.svg" alt="Segmentation" /></p>
+
+<p>The buffer is required to <em>remove the temporal correlation</em> between train and test segments. It may be constant or random. Note that a buffer is not required between train segments that may also be either adjacent or overlapping.</p>
+
+<p>Summary:</p>
+<ul>
+  <li>Test segments require a buffer from both sides.</li>
+  <li>Train segments may be either overlapped, adjacent or buffered.</li>
+</ul>
+
+<h3 id="stationary-signals">Stationary signals</h3>
+<p>In the case of a stationary signal, we start with a buffered train-test split of a signal. Then, both the train and test parts of the signal are divided into constant-length segments. These segments for both train and test may be either adjacent, overlapping or buffered.</p>
+
+<p><img src="/assets/img/ts/segmentation2.svg" alt="Stationary segmentation" /></p>
+
+<h2 id="feature-extraction">Feature extraction</h2>
+<p>Each feature extractor is some mapping function \(R^L\rightarrow R\), also sometimes, two or more values are produced. 
+An example of such a mapping function is a mean of all segment values or its standard deviation.</p>
+
+<p>Numerous features are applied for each segment, such that each segment is a transposed vector of numbers that represents a multi-dimensional point in features-projected sub-space. For all segments, these features are organized in a data matrix \(X\). The vector \(y\) is generated accordingly.</p>
+
+<p><img src="/assets/img/ts/segmentation3.svg" alt="Feature extraction" /></p>
+
+<h2 id="classification">Classification</h2>
+<p>The classification is performed using the feature vectors of each segment. All commonly used techniques, such as normalization and feature selection, may also be applied.</p>
+
+<h2 id="multi-variate-extension">Multi-variate extension</h2>
+<p>When multivariate signal classification is required, features are evaluated for each signal dimension.</p>]]></content><author><name></name></author><category term="TS" /><category term="education" /><category term="python" /><summary type="html"><![CDATA[Time series (signals) classification by feature extraction]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn/"><![CDATA[<h1 id="usage-of-short-mooc-courses-for-mldl-education">Usage of short MOOC courses for ML/DL education</h1>
 <p>I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.</p>
 
 <p>The Internet is full of excellent lectures on most academic subjects. These lectures may be provided as a free part of MOOC or as a standalone recording. I believe my students deserve to study from the <strong>best lecturers on the planet</strong> as a part of my courses, so sometimes I use flipped classroom principle with carefully picked online lectures.</p>
