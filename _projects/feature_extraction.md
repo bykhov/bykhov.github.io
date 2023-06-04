@@ -7,7 +7,7 @@ description: Time series (signals) classification by feature extraction
 importance: 3
 category: current
 toc:
-  sidebar: left
+  sidebar: top
   max_level: 5
 ---
 
@@ -54,5 +54,9 @@ Numerous features are applied for each segment, such that each segment is a tran
 
 ![Feature extraction](/assets/img/ts/segmentation3.svg)
 
+
 ## Classification
 The classification is performed using the feature vectors of each segment. All commonly used techniques, such as normalization and feature selection, may also be applied.
+
+## Multi-variate extension
+When multivariate signal classification is required, features are evaluated for each signal dimension.
