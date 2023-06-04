@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>debriefing | Dima  Bykhovsky</title>
+    <title>pycatch22 example | Dima  Bykhovsky</title>
     <meta name="author" content="Dima  Bykhovsky">
     <meta name="description" content="Academic blog and publication platform for thing I want to share.
 ">
@@ -39,7 +39,7 @@
     <link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://bykhov.github.io/blog/tag/debriefing/">
+    <link rel="canonical" href="https://bykhov.github.io/projects/feature_extraction/">
 
     <!-- Dark Mode -->
     
@@ -78,8 +78,8 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
 
               <!-- Other pages -->
@@ -114,41 +114,115 @@
     <!-- Content -->
     <div class="container mt-5">
       
-        <div class="post">
+        <!-- _layouts/post.html -->
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"> <i class="fas fa-hashtag fa-sm"></i> debriefing </h1>
-    <p class="post-description"> an archive of posts with this tag </p>
+    <h1 class="post-title">pycatch22 example</h1>
+    <p class="post-meta">May 10, 2023</p>
+    <p class="post-tags">
+      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+        ·  
+        <a href="/blog/tag/education">
+          <i class="fas fa-hashtag fa-sm"></i> education</a>  
+          <a href="/blog/tag/python">
+          <i class="fas fa-hashtag fa-sm"></i> python</a>  
+          
+        ·  
+        <a href="/blog/category/timeseries">
+          <i class="fas fa-tag fa-sm"></i> TimeSeries</a>  
+          
+
+    </p>
   </header>
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        <tr>
-          <th scope="row">May 16, 2023</th>
-          <td>
-              <a class="post-link" href="/blog/2023/tensorrt_course/">TensorRT for Tensorflow (Coursera Project)</a>
-          </td>
-        </tr>
-      
-        <tr>
-          <th scope="row">May 10, 2023</th>
-          <td>
-              <a class="post-link" href="/blog/2023/Jetson/">Jetson Nano Example Project</a>
-          </td>
-        </tr>
-      
-        <tr>
-          <th scope="row">May 3, 2023</th>
-          <td>
-              <a class="post-link" href="/blog/2023/MLE2/">2nd IEEE Conference on Machine Learning in Engineering</a>
-          </td>
-        </tr>
-      
-      </table>
+  <article class="post-content">
+    
+    <div id="markdown-content">
+      <h1 id="time-series-signals-classification-by-feature-extraction-with-pycatch22-example">Time series (signals) classification by feature extraction with PyCatch22 example</h1>
+
+<h2 id="preface">Preface</h2>
+
+<p>The idea of feature extraction in the context of time series (signal) classification is as follows:</p>
+<ol>
+  <li>The signal is divided into constant-length frames (also termed <em>segments</em>).</li>
+  <li>Some descriptive statistics values are calculated for each frame.</li>
+  <li>Descriptive values are fed into a classifier.</li>
+</ol>
+
+<p>Basic assumptions for this tutorial are:</p>
+<ul>
+  <li>Uni-variate data. The extension to multi-variate data is almost trivial and is covered in the bottom note.</li>
+  <li>The signal is a result of fixed sampling frequency without any <code class="language-plaintext highlighter-rouge">NaN</code>s (missing values).</li>
+</ul>
+
+<h2 id="signal-segmentation">Signal segmentation</h2>
+<p>There are two common approaches for signal segmentation. The first one is appropriate for all kind signals, including highly dynamic ones.
+The second one is used <strong>only for stationary signals</strong>, when basic statistics over time remain approximately constant.
+These approaches are also highly related to the train-test split.</p>
+
+<h3 id="general-segmentation">General segmentation</h3>
+<p>The signal is divided into constant-length segments with some constant or random step between them. The goal of the inter-segment step is to remove (or at least reduce) statistical dependency between the end of the previous segment and the beginning of the following one.</p>
+
+<p><img src="segmentation1.svg" alt="Segmentation"></p>
+
+<p>The buffer is required to <em>remove temporal correlation</em> between train and test segments. It may be constant or random. Note, buffer is not required between train segments that may also be either adjacent or overlapping.</p>
+
+<p>Summary:</p>
+<ul>
+  <li>Test segments require buffer from both sides.</li>
+  <li>Train segments may be either overlapped, adjacent and buffered.</li>
+</ul>
+
+<h3 id="stationary-signals">Stationary signals</h3>
+<p>In the case of stationary signal, we start with buffered train-test split of a signal. Then, both train and test parts of the signal are divided into constant-length segments. These segments for both train and test may be either adjacent, overlapping or buffered.</p>
+
+<p><img src="segmentation2.svg" alt="Stationary segmentation"></p>
+
+<h2 id="feature-extraction">Feature extraction</h2>
+<p>Each feature extractor is some mapping function \(R^L\rightarrow R\), also sometimes two or more values are produced. 
+An example of such mapping function is a mean of all segment values or its standard deviation.</p>
+
+<p>Numerous features are applied for each segment, such that each segment is a vector of numbers that represent a multi-dimensional point in features-projected sub-space. For all segments, these features are organized in data matrix \(X\).</p>
+
+<h3 id="normalization--feature-selection">Normalization &amp; feature selection</h3>
+<p>Normalization</p>
+<h2 id="classification">Classification</h2>
+
+<h3 id="majority-vote">Majority vote</h3>
+
     </div>
   </article>
+
+
+  
+    
+    <br>
+    <hr>
+    <br>
+    <ul class="list-disc pl-8"></ul>
+
+    <!-- Adds related posts to the end of an article -->
+    <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2>
+    <p class="mb-2">Here are some more articles you might like to read next:</p>
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/tensorrt_course/">TensorRT for Tensorflow (Coursera Project)</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/Jetson/">Jetson Nano Example Project</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/kaggle_learn/">MOOC for ML/DL Teaching</a>
+  </li>
 
 </div>
 
