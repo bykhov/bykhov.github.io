@@ -5,7 +5,7 @@ tags: education python
 layout: post
 description: Time series (signals) classification by feature extraction
 importance: 3
-category: current
+category: TS
 toc: true
 ---
 
