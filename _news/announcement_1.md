@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-28 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Switching from [chirpy-starter)](https://github.com/cotes2020/chirpy-starter) template to [al-folio](https://github.com/alshedivat/al-folio) template.
