@@ -6,7 +6,7 @@ description: I am teaching random processes, signal processing, machine and deep
 nav: true
 toc:
   sidebar: left
-  max_level: 3
+  max_level: 5
 nav_order: 5
 ---
 
