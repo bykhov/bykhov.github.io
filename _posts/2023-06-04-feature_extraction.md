@@ -1,6 +1,6 @@
 ---
-title: pycatch22 example
-date: 2023-05-10
+title: pycatch22 example (currently in draft)
+date: 2023-06-04
 tags: education python
 layout: post
 description: Time series (signals) classification by feature extraction
