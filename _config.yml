@@ -16,10 +16,12 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon16: favicon-16x16.png
-icon32: favicon-32x32.png
-icon_android: android-chrome-192x192.png
+icon: favicons/favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon16: favicons/favicon-16x16.png
+icon32: favicons/favicon-32x32.png
+icon_android: favicons/android-chrome-192x192.png
+icon_apple: favicons/apple-touch-icon.png
+
 
 url: https://bykhov.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
