@@ -8,7 +8,6 @@ importance: 3
 category: current
 toc:
   sidebar: top
-  max_level: 5
 ---
 
 # Time series (signals) classification by feature extraction with PyCatch22 example
