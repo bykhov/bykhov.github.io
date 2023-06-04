@@ -300,6 +300,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
             <div class="social">
               <div class="contact-icons">
                 <a href="mailto:%64%6D%69%74%72%62%79@%61%63.%73%63%65.%61%63.%69%6C" title="email"><i class="fas fa-envelope"></i></a>
+            <a href="https://scholar.google.com/citations?user=CnXQntIAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
             <a href="https://github.com/bykhov" title="GitHub"><i class="fab fa-github"></i></a>
             <a href="https://www.linkedin.com/in/dimabykhov" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             <a href="/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
@@ -323,7 +324,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2023 Dima  Bykhovsky. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+        &copy; Copyright 2023 Dima  Bykhovsky. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 Last updated: June 04, 2023.
       </div>
     </footer>
