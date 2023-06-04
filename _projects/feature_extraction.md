@@ -6,6 +6,9 @@ layout: post
 description: Time series (signals) classification by feature extraction
 importance: 3
 category: current
+toc:
+  sidebar: left
+  max_level: 5
 ---
 
 # Time series (signals) classification by feature extraction with PyCatch22 example
