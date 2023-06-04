@@ -4,6 +4,7 @@ date: 2023-05-10
 categories: TimeSeries
 tags: education python
 layout: post
+description: Feature extraction of time series
 ---
 
 # Time series (signals) classification by feature extraction with PyCatch22 example
