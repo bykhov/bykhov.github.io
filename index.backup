@@ -116,7 +116,7 @@
           <h1 class="post-title">
            <span class="font-weight-bold">Dima</span>  Bykhovsky
           </h1>
-          <p class="desc"><a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.</p>
+          <p class="desc"><a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.</p>
         </header>
 
         <article>
@@ -126,13 +126,38 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/prof_pic-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/prof_pic-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/prof_pic-1400.webp"></source>
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 480px)" 
+        srcset="/assets/img/prof_pic-480.webp"
+      />
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 800px)" 
+        srcset="/assets/img/prof_pic-800.webp"
+      />
+    <source 
+        class="responsive-img-srcset"
+        media="(max-width: 1400px)" 
+        srcset="/assets/img/prof_pic-1400.webp"
+      />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="prof_pic.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img 
+      src="/assets/img/prof_pic.jpg"
+      class="img-fluid z-depth-1 rounded"  
+      width="auto" 
+      height="auto" 
+       
+       
+       
+       
+      alt="prof_pic.jpg" 
+       
+      
+      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+    />
 
   </picture>
 
@@ -155,9 +180,15 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
           <!-- News -->
           <h2><a href="/news/" style="color: inherit;">news</a></h2>          <div class="news">
-            <div class="table-responsive">
+            <div class="table-responsive" >
               <table class="table table-sm table-borderless">
               
+                <tr>
+                  <th scope="row">May 31, 2023</th>
+                  <td>
+                    <a class="news-title" href="/news/announcement_3/">Meeting with the Faculty of Agriculture, Food and Environment at HUJI/Rehovot.</a>
+                  </td>
+                </tr>
                 <tr>
                   <th scope="row">May 30, 2023</th>
                   <td>
@@ -169,13 +200,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
                   <th scope="row">May 28, 2023</th>
                   <td>
                     Switching from <a href="https://github.com/cotes2020/chirpy-starter">chirpy-starter</a> template to <a href="https://github.com/alshedivat/al-folio">al-folio</a> template.
-
-                  </td>
-                </tr>
-                <tr>
-                  <th scope="row">Jan 15, 2016</th>
-                  <td>
-                    A simple inline announcement with Markdown emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20"> <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">
 
                   </td>
                 </tr>
@@ -215,10 +239,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
           <!-- Selected papers -->
           <h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
           <div class="publications">
-            <ol class="bibliography"><li>
-<!-- _layouts/bib.html -->
+            <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://journals.aps.org/">PhysRev</a></abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge" ><a href="https://journals.aps.org/">PhysRev</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="PhysRev.47.777" class="col-sm-8">
@@ -228,8 +251,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
         <div class="author">
         
 
-        A. Einstein, <a href="https://en.wikipedia.org/wiki/Boris_Podolsky">B. Podolsky</a>, and <a href="https://en.wikipedia.org/wiki/Nathan_Rosen">N. Rosen</a>
-</div>
+        A. Einstein,&nbsp;<a href="https://en.wikipedia.org/wiki/Boris_Podolsky">B. Podolsky</a>,&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Nathan_Rosen">N. Rosen</a></div>
 
         <!-- Journal/Book title and date -->
         
@@ -249,8 +271,16 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
           </div>
           
           <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1103/PhysRev.47.777"></span>
-              <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-doi="10.1103/PhysRev.47.777"
+              
+              ></span>
+              <span class="__dimensions_badge_embed__"
+              
+                data-doi="10.1103/PhysRev.47.777"
+              
+              data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
           </div>
 
           <!-- Hidden abstract block -->
@@ -290,7 +320,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2023 Dima  Bykhovsky. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+        &copy; Copyright 2023 Dima  Bykhovsky. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 Last updated: June 04, 2023.
       </div>
     </footer>
