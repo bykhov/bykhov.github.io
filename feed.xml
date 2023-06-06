@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-05T08:56:17+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-06T13:02:04+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
 </subtitle><entry><title type="html">Tranformers full-length lecture - Andrej Karpathy</title><link href="https://bykhov.github.io/blog/2023/transformers/" rel="alternate" type="text/html" title="Tranformers full-length lecture - Andrej Karpathy" /><published>2023-06-04T00:00:00+00:00</published><updated>2023-06-04T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/transformers</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/transformers/"><![CDATA[<p>CS25 Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy</p>
 
 <p><a href="https://youtu.be/XfpMkf4rD6E">Youtube recording</a></p>]]></content><author><name></name></author><category term="DL" /><summary type="html"><![CDATA[CS25 Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy]]></summary></entry><entry><title type="html">TensorRT for Tensorflow (Coursera Project)</title><link href="https://bykhov.github.io/blog/2023/tensorrt_course/" rel="alternate" type="text/html" title="TensorRT for Tensorflow (Coursera Project)" /><published>2023-05-16T00:00:00+00:00</published><updated>2023-05-16T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/tensorrt_course</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/tensorrt_course/"><![CDATA[<p>Coursera has opened for free the <a href="https://www.coursera.org/learn/tensorflow-tensorrt/home/welcome"><em>Optimize TensorFlow Models For Deployment with TensorRT</em></a> project.</p>
@@ -49,20 +49,20 @@
 </ul>]]></content><author><name></name></author><category term="Education" /><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[TensorRT course]]></summary></entry><entry><title type="html">Jetson Nano Example Project</title><link href="https://bykhov.github.io/blog/2023/Jetson/" rel="alternate" type="text/html" title="Jetson Nano Example Project" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/Jetson</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/Jetson/"><![CDATA[<h2 id="jetson-nano-experience">Jetson Nano Experience</h2>
 <ul>
   <li>I want to debrief my experience with the Jetson Nano card as a part of the Nvidia <a href="https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs">certification program</a></li>
-  <li>It follows <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/">Getting Started with AI on Jetson Nano</a> course by Nvidia.</li>
+  <li>It follows the <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/">Getting Started with AI on Jetson Nano</a> course by Nvidia.</li>
 </ul>
 
 <h3 id="configuration">Configuration</h3>
 <ul>
   <li>Configuration of a card is non-trivial if you want something beyond basic configuration or a standard Docker container.</li>
   <li>Some things require timely compilation from scratch. I found myself too used to everything pre-compiled in the Windows environment.</li>
-  <li>I have unsuccessfully tried to configure a Linux host for Jetson on my Windows machine by WSL2. The particular challenge was the USB connector  <a href="https://learn.microsoft.com/en-us/windows/wsl/connect-usb">configuration</a>.</li>
-  <li>Creating of custom Docker containers is an important skill. The building scripts for all important containers are provided. There is a nice free MOOC course <a href="https://devopswithdocker.com/">DevOps with Docker</a> that I have started. However, my current responsibilities did not allow me to delve deeply into the subject.</li>
+  <li>I have unsuccessfully tried configuring a Linux host for Jetson on my Windows machine by WSL2. The particular challenge was the USB <a href="https://learn.microsoft.com/en-us/windows/wsl/connect-usb">configuration</a> for communication with Jetson.</li>
+  <li>Creating custom Docker containers is an important skill. The building scripts for all important containers are provided. There is a nice free MOOC course <a href="https://devopswithdocker.com/">DevOps with Docker</a> that I have started. However, my current responsibilities prevented me from delving deeply into the subject.</li>
 </ul>
 
 <h3 id="dependency-hell"><a href="https://en.wikipedia.org/wiki/Dependency_hell">Dependency hell</a></h3>
 <ul>
-  <li>There are too many ways to install the same package (I have also tried Miniconda <a href="https://medium.com/@seehleung/how-to-setup-a-jetson-nano-for-ai-projects-in-2021-f8d0ac557966">installation</a> for Jetson), not including option for multiple environments:
+  <li>There are too many ways to install the same package (I have also tried Miniconda <a href="https://medium.com/@seehleung/how-to-setup-a-jetson-nano-for-ai-projects-in-2021-f8d0ac557966">installation</a> for Jetson), not including the option for multiple environments:
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  pip <span class="nb">install </span>matplotlib
   <span class="nb">sudo </span>pip <span class="nb">install </span>matplotlib
   <span class="nb">sudo </span>apt <span class="nb">install </span>python3-matplotlib
@@ -70,10 +70,10 @@
 </code></pre></div>    </div>
     <p>I have tried to be consistent with <code class="language-plaintext highlighter-rouge">sudo pip install</code></p>
   </li>
-  <li>Sometimes <code class="language-plaintext highlighter-rouge">pip</code> option <code class="language-plaintext highlighter-rouge">--ignore-installed</code> may help for some errors.</li>
+  <li>Sometimes <code class="language-plaintext highlighter-rouge">pip</code> option <code class="language-plaintext highlighter-rouge">--ignore-installed</code> may help with some errors.</li>
   <li>Sometimes <code class="language-plaintext highlighter-rouge">pip</code> option <code class="language-plaintext highlighter-rouge">--no-dependencies</code> may help to prevent overwriting the pre-installed OpenCV.</li>
   <li>Symbolic links may be required.</li>
-  <li>Path in <code class="language-plaintext highlighter-rouge">~/.bashrc</code> may be required.</li>
+  <li>Edit path in <code class="language-plaintext highlighter-rouge">~/.bashrc</code> may be required.</li>
 </ul>
 
 <h3 id="camera">Camera</h3>
@@ -86,8 +86,8 @@
 <ul>
   <li>Theoretically, up to version 2.7.0 is supported - I have succeeded only 2.6.2, which is also nice.</li>
   <li>Some sub-package was too challenging to install: e.g. <code class="language-plaintext highlighter-rouge">addons, tesnorflow_io</code>.</li>
-  <li>Success with <code class="language-plaintext highlighter-rouge">tensorflow-hub</code> with some tweaks - it is probably the most useful part for out-of-the-box applications.</li>
-  <li>Speed-up by TensorRT is required.  I have even taken a free project on Coursera (<a href="https://coursera.org/share/678fc097e9f7fb2e99b11a569bb6cb08">certificate</a>, <a href="https://bykhov.github.io/posts/tensorrt_course/">review</a> and somewhat inspected a similar <a href="https://courses.nvidia.com/courses/course-v1:DLI+L-FX-18+V2/course/">course</a> by Nvidia (that is free for me as an academic ambassador). Have not applied yet, nevertheless, it can be an important subject to present to students in the future, not just in Jeston Nano context.</li>
+  <li>Succeed with <code class="language-plaintext highlighter-rouge">tensorflow-hub</code> with some tweaks - it is probably the most useful part for out-of-the-box applications.</li>
+  <li>Speed-up by TensorRT is required.  I have even taken a free project on Coursera (<a href="https://coursera.org/share/678fc097e9f7fb2e99b11a569bb6cb08">certificate</a>, <a href="https://bykhov.github.io/posts/tensorrt_course/">review</a> and somewhat inspected a similar <a href="https://courses.nvidia.com/courses/course-v1:DLI+L-FX-18+V2/course/">course</a> by Nvidia (that is free for me as an academic ambassador). Still waiting to apply, it can be an important subject to present to students in the future, not just in the Jetson Nano context.</li>
 </ul>
 
 <h3 id="copy-files-from-windows-host">Copy files from Windows host</h3>
@@ -112,10 +112,10 @@
 </ul>
 
 <h3 id="leds">LEDs</h3>
-<p>Nice and convenient. It is still not clear for me if current-limiting resistor of \(220 \Omega\) is obligatory, since LED light is almost invisible.</p>
+<p>Nice and convenient. I still need clarification on whether a current-limiting resistor of \(220 \Omega\) is obligatory, since LED light is almost invisible.</p>
 
 <h3 id="repository">Repository</h3>
-<p>Overall, the <a href="https://github.com/bykhov/jetson">repository</a> provides an overview of my experiments of using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.</p>]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn/"><![CDATA[<h1 id="usage-of-short-mooc-courses-for-mldl-education">Usage of short MOOC courses for ML/DL education</h1>
+<p>Overall, the <a href="https://github.com/bykhov/jetson">repository</a> provides an overview of my experiments using the Jetson Nano for various tasks, including camera integration, face detection, and person-presence detection.</p>]]></content><author><name></name></author><category term="MOOC" /><category term="education" /><category term="debriefing" /><summary type="html"><![CDATA[Jetson Nano certification]]></summary></entry><entry><title type="html">MOOC for ML/DL Teaching</title><link href="https://bykhov.github.io/blog/2023/kaggle_learn/" rel="alternate" type="text/html" title="MOOC for ML/DL Teaching" /><published>2023-05-07T00:00:00+00:00</published><updated>2023-05-07T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/kaggle_learn</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/kaggle_learn/"><![CDATA[<h1 id="usage-of-short-mooc-courses-for-mldl-education">Usage of short MOOC courses for ML/DL education</h1>
 <p>I am using free MOOC courses in my teaching, while each certificate is considered binary-graded homework. Careful picking of appropriate MOOC courses gives the students an opportunity for self-paced didactic learning of the material combined with hands-on experience.</p>
 
 <p>The Internet is full of excellent lectures on most academic subjects. These lectures may be provided as a free part of MOOC or as a standalone recording. I believe my students deserve to study from the <strong>best lecturers on the planet</strong> as a part of my courses, so sometimes I use flipped classroom principle with carefully picked online lectures.</p>
