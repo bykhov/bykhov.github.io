@@ -8,4 +8,6 @@ related_posts: false
 
 Official [Facebook coverage](https://www.facebook.com/photo/?fbid=624729809675980&set=a.452216120260684). 
 
-Person of interest: [Prof. Maggie Levy](https://plantpathology.agri.huji.ac.il/people/marganit-levy) as a possible collaborator.
+Persons of interest as a possible collaborators: 
+* [Maggie Levy](https://plantpathology.agri.huji.ac.il/people/marganit-levy) 
+* [Ittai Herrmann](https://plantscience.agri.huji.ac.il/ittai-herrmann)
