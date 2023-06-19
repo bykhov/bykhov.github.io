@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-19T14:35:57+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://bykhov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bykhov.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-19T14:39:27+00:00</updated><id>https://bykhov.github.io/feed.xml</id><title type="html">blank</title><subtitle>Academic blog and publication platform for thing I want to share.
 </subtitle><entry><title type="html">Tranformers full-length lecture - Andrej Karpathy</title><link href="https://bykhov.github.io/blog/2023/transformers/" rel="alternate" type="text/html" title="Tranformers full-length lecture - Andrej Karpathy" /><published>2023-06-04T00:00:00+00:00</published><updated>2023-06-04T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/transformers</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/transformers/"><![CDATA[<p>CS25 Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy</p>
 
 <p><a href="https://youtu.be/XfpMkf4rD6E">Youtube recording</a></p>]]></content><author><name></name></author><category term="DL" /><summary type="html"><![CDATA[CS25 Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy]]></summary></entry><entry><title type="html">TensorRT for Tensorflow (Coursera Project)</title><link href="https://bykhov.github.io/blog/2023/tensorrt_course/" rel="alternate" type="text/html" title="TensorRT for Tensorflow (Coursera Project)" /><published>2023-05-16T00:00:00+00:00</published><updated>2023-05-16T00:00:00+00:00</updated><id>https://bykhov.github.io/blog/2023/tensorrt_course</id><content type="html" xml:base="https://bykhov.github.io/blog/2023/tensorrt_course/"><![CDATA[<p>Coursera has opened for free the <a href="https://www.coursera.org/learn/tensorflow-tensorrt/home/welcome"><em>Optimize TensorFlow Models For Deployment with TensorRT</em></a> project.</p>
@@ -30,12 +30,16 @@
 <h3 id="notes">Notes</h3>
 
 <ul>
-  <li>Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used (<a href="https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html">Nvidia doc</a>):
+  <li>
+    <p>Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used (<a href="https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html">Nvidia doc</a>):</p>
+
     <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="o">%%</span><span class="n">bash</span>
   <span class="n">sudo</span> <span class="n">apt</span> <span class="n">install</span> <span class="n">python3</span><span class="o">-</span><span class="n">libnvinfer</span>
   <span class="n">python3</span> <span class="o">-</span><span class="n">m</span> <span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">upgrade</span> <span class="n">tensorrt</span>
 </code></pre></div>    </div>
+
     <p>The result may also be  verified by</p>
+
     <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="kn">import</span> <span class="n">tensorrt</span>
   <span class="nf">print</span><span class="p">(</span><span class="n">tensorrt</span><span class="p">.</span><span class="n">__version__</span><span class="p">)</span>
 </code></pre></div>    </div>

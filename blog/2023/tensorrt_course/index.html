@@ -170,13 +170,17 @@
 <h3 id="notes">Notes</h3>
 
 <ul>
-  <li>Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used (<a href="https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html" rel="external nofollow noopener" target="_blank">Nvidia doc</a>):
+  <li>
+    <p>Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used (<a href="https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html" rel="external nofollow noopener" target="_blank">Nvidia doc</a>):</p>
+
     <div class="language-python highlighter-rouge">
 <div class="highlight"><pre class="highlight"><code>  <span class="o">%%</span><span class="n">bash</span>
   <span class="n">sudo</span> <span class="n">apt</span> <span class="n">install</span> <span class="n">python3</span><span class="o">-</span><span class="n">libnvinfer</span>
   <span class="n">python3</span> <span class="o">-</span><span class="n">m</span> <span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">upgrade</span> <span class="n">tensorrt</span>
 </code></pre></div>    </div>
+
     <p>The result may also be  verified by</p>
+
     <div class="language-python highlighter-rouge">
 <div class="highlight"><pre class="highlight"><code>  <span class="kn">import</span> <span class="n">tensorrt</span>
   <span class="nf">print</span><span class="p">(</span><span class="n">tensorrt</span><span class="p">.</span><span class="n">__version__</span><span class="p">)</span>
