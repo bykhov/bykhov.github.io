@@ -30,16 +30,14 @@ Coursera has opened for free the [_Optimize TensorFlow Models For Deployment wit
 
 ### Notes
 
-* Making things work:
-
-* The configuration is outdated. The following installation procedure is to be used ([Nvidia doc](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)):
+* Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used ([Nvidia doc](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)):
     ```python
     %%bash
     sudo apt install python3-libnvinfer
     python3 -m pip install --upgrade tensorrt
     ```
-* The result may be also verified by
-    ```python
+	The result may also be  verified by
+	```python
     import tensorrt
     print(tensorrt.__version__)
     ```
