@@ -170,17 +170,13 @@
 <h3 id="notes">Notes</h3>
 
 <ul>
-  <li>
-    <p>Making things work:</p>
-  </li>
-  <li>The configuration is outdated. The following installation procedure is to be used (<a href="https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html" rel="external nofollow noopener" target="_blank">Nvidia doc</a>):
+  <li>Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used (<a href="https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html" rel="external nofollow noopener" target="_blank">Nvidia doc</a>):
     <div class="language-python highlighter-rouge">
 <div class="highlight"><pre class="highlight"><code>  <span class="o">%%</span><span class="n">bash</span>
   <span class="n">sudo</span> <span class="n">apt</span> <span class="n">install</span> <span class="n">python3</span><span class="o">-</span><span class="n">libnvinfer</span>
   <span class="n">python3</span> <span class="o">-</span><span class="n">m</span> <span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">upgrade</span> <span class="n">tensorrt</span>
 </code></pre></div>    </div>
-  </li>
-  <li>The result may be also verified by
+    <p>The result may also be  verified by</p>
     <div class="language-python highlighter-rouge">
 <div class="highlight"><pre class="highlight"><code>  <span class="kn">import</span> <span class="n">tensorrt</span>
   <span class="nf">print</span><span class="p">(</span><span class="n">tensorrt</span><span class="p">.</span><span class="n">__version__</span><span class="p">)</span>
@@ -232,7 +228,7 @@
     <footer class="fixed-bottom">
       <div class="container mt-0">
         © Copyright 2023 Dima  Bykhovsky. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
-Last updated: June 14, 2023.
+Last updated: June 19, 2023.
       </div>
     </footer>
 
