@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://bykhov.github.io/news/ann0_MLE_conf/</loc>
+<lastmod>2023-05-03T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://bykhov.github.io/news/ann1_theme/</loc>
 <lastmod>2023-05-28T00:00:00+00:00</lastmod>
 </url>
@@ -60,10 +64,16 @@
 <loc>https://bykhov.github.io/teaching/</loc>
 </url>
 <url>
-<loc>https://bykhov.github.io/blog/tag/debriefing/</loc>
+<loc>https://bykhov.github.io/blog/tag/takeaways/</loc>
 </url>
 <url>
 <loc>https://bykhov.github.io/blog/tag/education/</loc>
+</url>
+<url>
+<loc>https://bykhov.github.io/blog/tag/self-learner/</loc>
+</url>
+<url>
+<loc>https://bykhov.github.io/blog/tag/debriefing/</loc>
 </url>
 <url>
 <loc>https://bykhov.github.io/blog/category/sce/</loc>
@@ -76,6 +86,9 @@
 </url>
 <url>
 <loc>https://bykhov.github.io/blog/category/mooc/</loc>
+</url>
+<url>
+<loc>https://bykhov.github.io/blog/category/ml-dl/</loc>
 </url>
 <url>
 <loc>https://bykhov.github.io/blog/category/education/</loc>

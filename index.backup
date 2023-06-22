@@ -213,6 +213,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
                   </td>
                 </tr>
+                <tr>
+                  <th scope="row">May 3, 2023</th>
+                  <td>
+                    Chaired <a href="https://www.facebook.com/SCE.Bsc/posts/pfbid0YtBdVnLMFF3QW2PUPEhWU3VV2DABrBB96svTN2vbmkurvVJFUzfkHexyuDqx8Bwyl">MLE Conference</a> in SCE
+
+                  </td>
+                </tr>
               </table>
             </div>
           </div>
@@ -332,7 +339,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <footer class="fixed-bottom">
       <div class="container mt-0">
         &copy; Copyright 2023 Dima  Bykhovsky. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-Last updated: June 19, 2023.
+Last updated: June 22, 2023.
       </div>
     </footer>
 
