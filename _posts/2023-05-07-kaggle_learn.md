@@ -1,8 +1,8 @@
 ---
 title: MOOC for ML/DL Teaching
 date: 2023-05-07
-categories: Teaching
-tags: education     # TAG names should always be lowercase
+categories: Teaching MOOC
+tags: education self-learner takeaways
 layout: post
 ---
 

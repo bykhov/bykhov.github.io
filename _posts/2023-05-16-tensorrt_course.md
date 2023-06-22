@@ -47,3 +47,4 @@ Coursera has opened for free the [_Optimize TensorFlow Models For Deployment wit
 
 * `INT8` conversion has taken me about 10 minutes on Colab. The videos show that Colab worked twice faster a few years ago.
 * The certification exam is trivial.
+* Supplementary [video and presentation](https://developer.nvidia.com/gtc/2020/video/s22408) on the subject by Nvidia 
