@@ -3,8 +3,8 @@ layout: post
 title: TensorRT for Tensorflow (Coursera Project)
 description: TensorRT course
 date: 2023-05-16
-categories: Education MOOC
-tags: education debriefing     # TAG names should always be lowercase
+categories: MOOC ML/DL
+tags: education takeaways self-learner     # TAG names should always be lowercase
 ---
 
 Coursera has opened for free the [_Optimize TensorFlow Models For Deployment with TensorRT_](https://www.coursera.org/learn/tensorflow-tensorrt/home/welcome) project.
@@ -30,7 +30,7 @@ Coursera has opened for free the [_Optimize TensorFlow Models For Deployment wit
 
 ### Notes
 
-* Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used ([Nvidia doc](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)):
+*   Making things work require some fixes, since the configuration is outdated. The following installation procedure is to be used ([Nvidia doc](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)):
  
     ```python
     %%bash

@@ -1,9 +1,10 @@
 ---
-title: Tranformers full-length lecture - Andrej Karpathy
+title: Transformers full-length lecture - Andrej Karpathy
 date: 2023-06-04
 layout: post
 importance: 3
-category: DL
+category: ML/DL
+tags: self-learner
 ---
 CS25 Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy
 
