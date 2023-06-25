@@ -20,4 +20,4 @@ My name is Dima Bykhovsky, and I am a faculty member at [SCE](https://www.sce.ac
 
 My official college [homepage](https://en.sce.ac.il/faculty/bykhovsky) and Google scholar [profile](https://scholar.google.co.il/citations?user=CnXQntIAAAAJ).
 
-This site is under **construction!**
+This site is currently under **construction!**
