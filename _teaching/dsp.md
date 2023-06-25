@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Signal Processing
-description: DSP
+description: Digital Signal Processing Course
 importance: 3
 category: previous
 ---
