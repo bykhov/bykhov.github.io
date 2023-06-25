@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: teaching
 permalink: /teaching/
 description: A collection of my courses.
 nav: true
