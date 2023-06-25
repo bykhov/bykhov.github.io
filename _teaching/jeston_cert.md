@@ -9,7 +9,7 @@ category: current
 ---
 
 
-Looking for a small group of students interested in implementing deep learning on the Jetson Nano platform.
+Looking for a small group of students interested in implementing deep learning on the [Jetson Nano platform](https://developer.nvidia.com/embedded/jetson-nano-developer-kit).
 
 * **Goal**: deep learning, Linux, low-resource platform
 
