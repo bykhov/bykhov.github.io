@@ -6,7 +6,7 @@ description: A collection of my courses.
 nav: true
 nav_order: 3
 display_categories: [current, previous]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/teaching.md -->
