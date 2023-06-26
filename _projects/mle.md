@@ -4,6 +4,7 @@ title: MLE Conference
 description: Machine Learning in Engineering Conference
 importance: 3
 category: previous
+related_posts: true
 ---
 
 Two conferences co-chaired (with [Dr. Natalia Vanetik](https://en.sce.ac.il/faculty/natalia-vanetik)):
