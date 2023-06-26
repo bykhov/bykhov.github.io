@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MLE Conference
+title: MLE Conferences
 description: Machine Learning in Engineering Conference
 importance: 3
 category: previous
