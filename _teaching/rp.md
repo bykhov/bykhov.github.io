@@ -4,6 +4,7 @@ title: Random Processes
 description: Random Processes Course
 importance: 3
 category: current
+img: https://github.com/bykhov/generate_corr_sequence/blob/main/examples/default_samples.png?raw=true
 ---
 
 Started teaching in 2017.

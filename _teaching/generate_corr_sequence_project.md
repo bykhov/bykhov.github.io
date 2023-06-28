@@ -2,8 +2,7 @@
 layout: page
 title: Undergraduate Project Proposal
 date: 2023-05-14
-description: Extension of `generate_corr_sequence` package
-img: https://github.com/bykhov/generate_corr_sequence/blob/main/examples/default_samples.png?raw=true
+description: Extension of "generate_corr_sequence" package
 importance: 3
 category: current
 ---
