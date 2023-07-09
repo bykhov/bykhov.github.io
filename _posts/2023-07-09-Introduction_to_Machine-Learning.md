@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Machine Learning
+title: Introduction to Machine Learning - Free Course from Coursera 
 description: Free useless course from Coursera
 date: 2023-07-09
 categories: MOOC
