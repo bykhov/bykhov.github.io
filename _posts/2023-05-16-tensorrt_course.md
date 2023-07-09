@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TensorRT for Tensorflow (Coursera Project)
+title: TensorRT for Tensorflow (Free Coursera Project)
 description: TensorRT course
 date: 2023-05-16
 categories: MOOC ML/DL
