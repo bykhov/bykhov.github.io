@@ -18,6 +18,8 @@ Coursera has opened for free the [_Optimize TensorFlow Models For Deployment wit
 
 *Reference*: [Accelerating Inference in TensorFlow with TensorRT User Guide](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html)
 
+My rating: ★★★★
+
 ### Procs
 * Nice explanatory videos.
 * You have to type a lot, but it does encourage you to understand things better (didactic trick).
@@ -27,6 +29,7 @@ Coursera has opened for free the [_Optimize TensorFlow Models For Deployment wit
 	- Toy database instead of the 'real' one
 	- Headache of outdated Colab configuration
 * Certificate
+
 
 ### Notes
 
@@ -48,3 +51,4 @@ Coursera has opened for free the [_Optimize TensorFlow Models For Deployment wit
 * `INT8` conversion has taken me about 10 minutes on Colab. The videos show that Colab worked twice faster a few years ago.
 * The certification exam is trivial.
 * Supplementary [video and presentation](https://developer.nvidia.com/gtc/2020/video/s22408) on the subject by Nvidia 
+
