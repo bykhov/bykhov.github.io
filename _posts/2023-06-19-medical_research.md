@@ -11,3 +11,5 @@ While most of the examples in the course are related to evidence‐based medicin
 
 I believe this course is **obligatory** for every post-graduate student as an orientation course.
 
+My rating: ★★★★★
+
