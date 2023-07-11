@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-07-4
+date: 2023-07-04
 inline: false
 related_posts: true
 title: Visit of graduate students from China
