@@ -1,0 +1,38 @@
+@Article{guri2019air,
+  author  = {Guri, Mordechai and Bykhovsky, Dima},
+  journal = {Computers & Security},
+  title   = {air-jumper: Covert air-gap exfiltration/infiltration via security cameras & infrared (IR)},
+  year    = {2019},
+  pages   = {15--29},
+  volume  = {82},
+}
+
+@Article{guri2019powerhammer,
+  author  = {Guri, Mordechai and Zadov, Boris and Bykhovsky, Dima and Elovici, Yuval},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  title   = {PowerHammer: Exfiltrating data from air-gapped computers through power lines},
+  year    = {2019},
+  pages   = {1879--1890},
+  volume  = {15},
+}
+
+@InProceedings{guri2019ctrl,
+  author       = {Guri, Mordechai and Zadov, Boris and Bykhovsky, Dima and Elovici, Yuval},
+  booktitle    = {IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)},
+  title        = {Ctrl-Alt-LED: Leaking data from air-gapped computers via keyboard LEDs},
+  year         = {2019},
+  organization = {IEEE},
+  pages        = {801--810},
+  volume       = {1},
+}
+
+@InProceedings{guri2019brightness,
+  author       = {Guri, Mordechai and Bykhovsky, Dima and Elovici, Yuval},
+  booktitle    = {IEEE 12th CMI Conference on Cybersecurity and Privacy (CMI)},
+  title        = {Brightness: Leaking sensitive data from air-gapped workstations via screen brightness},
+  year         = {2019},
+  organization = {IEEE},
+  pages        = {1--6},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
