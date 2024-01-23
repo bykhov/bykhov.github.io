@@ -8,5 +8,5 @@ categories: publication
 tags: conference
 ---
 
-Paper authored by [Mordechai Guri](www.covertchannels.com) and me, 
+Paper authored by [Mordechai Guri](https://www.covertchannels.com) and me, 
 titled "BACKLIGHT-LEAKER: Data Leak from Air-Gapped Computers by Exploiting the LCD Backlight Hardware" has been accepted at COMCAS 2023, in a session related to the Communications and Sensors track.
