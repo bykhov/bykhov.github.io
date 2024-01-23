@@ -1,0 +1,39 @@
+# https://github.com/jmrplens/jmrplens.github.io/blob/ce8b5b67dbc5a37dafe9083681b92a6746640b13/_data/cv.yml
+# https://jmrp.io/cv/
+#- title: General Information
+  #type: map
+  #contents:
+    #- name: Full Name
+    #  value: Dima Bykhovsky
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    #- name: Languages
+    #  value: English, Hebrew, Russian
+- title: Formal Education
+  type: time_table
+  contents:
+    - title: PhD 
+      institution: Ben-Gurion University (BGU)
+      department: Electro-Optics and Photonics Unit (now part of Department of Electrical and Computer Engineering)
+      #(<a href="http://www.upv.es/en"><b>UPV</b></a>)
+      year: 2014
+      maindescription: Optical wireless communication
+      
+    - title: MSc
+      institution: Ben-Gurion University (BGU)
+      department: Electro-Optics and Photonics Unit (now part of Department of Electrical and Computer Engineering)
+      year: 2004
+      
+    - title: BSc
+      institution: Ben-Gurion University (BGU)
+      department: Electrical and Computer Engineering
+      year: 1999
+      
+- title: Certificates
+  type: nested_list
+  contents:
+    category: Machine Learning    
+    items:
+      - name: CSMM.102x: Machine Learning
+        school: ColumbiaX (edX platform)
+         
