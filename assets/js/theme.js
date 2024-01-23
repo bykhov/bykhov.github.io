@@ -8,12 +8,13 @@ let toggleTheme = (theme) => {
   }
 };
 
+
 let setTheme = (theme) => {
   transTheme();
   setHighlight(theme);
   setGiscusTheme(theme);
   // if mermaid is not defined, do nothing
-  if (typeof mermaid !== "undefined") {
+  if (typeof mermaid !== 'undefined') {
     setMermaidTheme(theme);
   }
 
@@ -42,6 +43,7 @@ let setTheme = (theme) => {
         bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Light");
       }
     }
+
   } else {
     document.documentElement.removeAttribute("data-theme");
   }
@@ -51,10 +53,14 @@ let setTheme = (theme) => {
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
     medium_zoom.update({
-      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
+      background:
+        getComputedStyle(document.documentElement).getPropertyValue(
+          "--global-bg-color"
+        ) + "ee", // + 'ee' for trasparency.
     });
   }
 };
+
 
 let setHighlight = (theme) => {
   if (theme == "dark") {
@@ -65,6 +71,7 @@ let setHighlight = (theme) => {
     document.getElementById("highlight_theme_light").media = "";
   }
 };
+
 
 let setGiscusTheme = (theme) => {
   function sendMessage(message) {
@@ -80,6 +87,7 @@ let setGiscusTheme = (theme) => {
   });
 };
 
+
 let addMermaidZoom = (records, observer) => {
   var svgs = d3.selectAll(".mermaid svg");
   svgs.each(function () {
@@ -94,6 +102,7 @@ let addMermaidZoom = (records, observer) => {
   observer.disconnect();
 };
 
+
 let setMermaidTheme = (theme) => {
   if (theme == "light") {
     // light theme name in mermaid is 'default'
@@ -102,15 +111,15 @@ let setMermaidTheme = (theme) => {
   }
 
   /* Re-render the SVG, based on https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_includes/mermaid.html */
-  document.querySelectorAll(".mermaid").forEach((elem) => {
+  document.querySelectorAll('.mermaid').forEach((elem) => {
     // Get the code block content from previous element, since it is the mermaid code itself as defined in Markdown, but it is hidden
     let svgCode = elem.previousSibling.childNodes[0].innerHTML;
-    elem.removeAttribute("data-processed");
+    elem.removeAttribute('data-processed');
     elem.innerHTML = svgCode;
   });
 
   mermaid.initialize({ theme: theme });
-  window.mermaid.init(undefined, document.querySelectorAll(".mermaid"));
+  window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));
 
   const observable = document.querySelector(".mermaid svg");
   if (observable !== null) {
@@ -120,12 +129,14 @@ let setMermaidTheme = (theme) => {
   }
 };
 
+
 let transTheme = () => {
   document.documentElement.classList.add("transition");
   window.setTimeout(() => {
     document.documentElement.classList.remove("transition");
   }, 500);
 };
+
 
 let initTheme = (theme) => {
   if (theme == null || theme == "null") {
@@ -138,12 +149,14 @@ let initTheme = (theme) => {
   setTheme(theme);
 };
 
+
 initTheme(localStorage.getItem("theme"));
 
-document.addEventListener("DOMContentLoaded", function () {
-  const mode_toggle = document.getElementById("light-toggle");
 
-  mode_toggle.addEventListener("click", function () {
-    toggleTheme(localStorage.getItem("theme"));
-  });
+document.addEventListener('DOMContentLoaded', function() {
+    const mode_toggle = document.getElementById("light-toggle");
+
+    mode_toggle.addEventListener("click", function() {
+        toggleTheme(localStorage.getItem("theme"));
+    });
 });
