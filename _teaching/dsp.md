@@ -10,6 +10,8 @@ Years: 2014-2023 (10 times)
 
 Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), co-authored with [Tom Trigano](https://en.sce.ac.il/faculty/tom).
 
+---
+
 Recordings 2022-2023 (another link=another host for same lectures):
 * Session A:
 	* Lec1 - Introduction: [link](https://sce-ac-il.zoom.us/rec/share/ewyZsbatN7WCePMsePsFcP2w7-S-g4vf1kWxqmXUVq0KPBsQ0znd64B9G5iIA71r.BDkrWuDwMlomA3zu?startTime=1666530774000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b5/b5412d4713131032ad87581e419747f4bf5bb88c.mp4)
@@ -39,6 +41,8 @@ Recordings 2021-2022:
 * Midterm Solution: [Q1](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143134000), [Q2](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143577000), [Q3](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143663000), [Q4](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143760000)
 * [Project Guidelines](https://sce-ac-il.zoom.us/rec/share/7zTgEf-8F4SfwGQR1yEcnN3D6BlGzK0vcF1bSsARQ10k5QqWOzW82U3U63jNfzvN.rMFYpjudxUUKNX39?startTime=1639324453000)
 
+---
+
 Recordings 2020-2021 (Covid year):
 
 * Session A: 
@@ -52,16 +56,18 @@ Recordings 2020-2021 (Covid year):
 	* [Lec8](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/94/943123a6a57714249432a09dfc45d3c92b29c3cf.mp4)
 	* [Lec9](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/46/4672d3b4d68794f739f1b8c0bd7857b312372f4b.mp4)
 
-Session B:
-* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d3/d34390907615573dd9f5d8124fc3114319851f81.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/88/88f1cead7b1577809ea39a0a8ad72deee39b3dee.mp4)
-* [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/65/6511f2aeae9c750cb538561104783fa5ef8871ea.mp4)
-* [Lec3](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/69/696f050863dcedf36e6694c67d401f21fc0f2afb.mp4)
-* [Lec4](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/c3/c3ca5897c055830935f0d536627dd51f0e9bb7e1.mp4)
-* [Lec5](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9a/9ab86b7675cd158d9a0246bdf8093bdf85656d39.mp4)
-* [Lec6](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/24/2471730f08a063d11c12ab0e6f93d5fc221dde9e.mp4)
-* [Lec7](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a4/a4706f8b03f48af661723516fd361d4c6a3ca7cf.mp4)
-* [Lec8](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/0c/0c15041abdba29b738e9c54647cf7e7a826f02c5.mp4)
-* [Lec9](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d6/d6dd8f401b7cdcaaa44379080820418a89732cb9.mp4)
+* Session B:
+	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d3/d34390907615573dd9f5d8124fc3114319851f81.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/88/88f1cead7b1577809ea39a0a8ad72deee39b3dee.mp4)
+	* [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/65/6511f2aeae9c750cb538561104783fa5ef8871ea.mp4)
+	* [Lec3](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/69/696f050863dcedf36e6694c67d401f21fc0f2afb.mp4)
+	* [Lec4](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/c3/c3ca5897c055830935f0d536627dd51f0e9bb7e1.mp4)
+	* [Lec5](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9a/9ab86b7675cd158d9a0246bdf8093bdf85656d39.mp4)
+	* [Lec6](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/24/2471730f08a063d11c12ab0e6f93d5fc221dde9e.mp4)
+	* [Lec7](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a4/a4706f8b03f48af661723516fd361d4c6a3ca7cf.mp4)
+	* [Lec8](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/0c/0c15041abdba29b738e9c54647cf7e7a826f02c5.mp4)
+	* [Lec9](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d6/d6dd8f401b7cdcaaa44379080820418a89732cb9.mp4)
+
+---
 
 During some of the years, it was a project-oriented course with projects like:
 * Distinguish between switch-mode and linear load. A split-core current transformer  [(ECS1030-L72)](https://www.sparkfun.com/products/11005) was used as a sensor connected to the microphone port.

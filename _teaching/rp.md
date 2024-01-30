@@ -8,15 +8,19 @@ img: https://github.com/bykhov/generate_corr_sequence/blob/main/examples/default
 ---
 
 Started teaching in 2017.
-* Course [Lecture Notes](https://bykhov.github.io/rp/RP_Book.pdf) (in Hebrew), updated each year.
-* Related [publication](https://doi.org/10.1109/TE.2020.3007853) in IEEE Transactions on Education.
-* Recordings (2021-2022) of Matlab examples:
-	- [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
-	- [Histogram](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635260355000), [Histogram - Discrete Variable](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635258416000), [Histogram - Con. RV](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635259531000)
-	- [Gaussian Distribution](https://sce-ac-il.zoom.us/rec/share/kgRcADcVU85YxLLRsqkFEcdqdzWy3jGB0l8M9WzsGOe-LU0-vtqJuikKBp0KIA8_.mdHlNhL8eB9ZcJ2a?startTime=1636566756000)
-	- Two random variables lecture: [link](https://sce-ac-il.zoom.us/rec/share/k5mPW4Zdi73yeHuI36jY0UQjs7w73gnvLcss4P_pKyW5CdcUM2HQdgMhV2AZqplQ.-_gjvYSZTT1gc_tC?startTime=1668006827000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/01/01ec32e1de956bb7d6f936f84a85526059213aa3.mp4)
-	- [Linear Prediction](https://sce-ac-il.zoom.us/rec/share/hA0qKV-6FO_45jQ6rNZeGFL_6N3GRzRnn6y0ZaiSB1a2A1bigZxJPDllIwzCelNt.ScvUV51Qd1PFk_Wn?startTime=1636280845000)
-	- [Auto-correlation](https://sce-ac-il.zoom.us/rec/share/Og3FNf94Q0K3OXd8F2ZtkBKBAuKOQbBhGoDT7yDCT5pREm6h258ndshvqp1C8OoW.7Bik0aKtHrYUC1nX?startTime=1637669237000), [cross-correlation](https://sce-ac-il.zoom.us/rec/share/Og3FNf94Q0K3OXd8F2ZtkBKBAuKOQbBhGoDT7yDCT5pREm6h258ndshvqp1C8OoW.7Bik0aKtHrYUC1nX?startTime=1637671894000)
+* Course [Lecture Notes](https://bykhov.github.io/rp/RP_Book.pdf) (in Hebrew), regularly updated.
+
+---
+
+Recordings 2021-2022, with mainly Matlab examples:
+- [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
+- [Histogram](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635260355000), [Histogram - Discrete Variable](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635258416000), [Histogram - Con. RV](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635259531000)
+- [Gaussian Distribution](https://sce-ac-il.zoom.us/rec/share/kgRcADcVU85YxLLRsqkFEcdqdzWy3jGB0l8M9WzsGOe-LU0-vtqJuikKBp0KIA8_.mdHlNhL8eB9ZcJ2a?startTime=1636566756000)
+- Two random variables lecture: [link](https://sce-ac-il.zoom.us/rec/share/k5mPW4Zdi73yeHuI36jY0UQjs7w73gnvLcss4P_pKyW5CdcUM2HQdgMhV2AZqplQ.-_gjvYSZTT1gc_tC?startTime=1668006827000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/01/01ec32e1de956bb7d6f936f84a85526059213aa3.mp4)
+- [Linear Prediction](https://sce-ac-il.zoom.us/rec/share/hA0qKV-6FO_45jQ6rNZeGFL_6N3GRzRnn6y0ZaiSB1a2A1bigZxJPDllIwzCelNt.ScvUV51Qd1PFk_Wn?startTime=1636280845000)
+- [Auto-correlation](https://sce-ac-il.zoom.us/rec/share/Og3FNf94Q0K3OXd8F2ZtkBKBAuKOQbBhGoDT7yDCT5pREm6h258ndshvqp1C8OoW.7Bik0aKtHrYUC1nX?startTime=1637669237000), [cross-correlation](https://sce-ac-il.zoom.us/rec/share/Og3FNf94Q0K3OXd8F2ZtkBKBAuKOQbBhGoDT7yDCT5pREm6h258ndshvqp1C8OoW.7Bik0aKtHrYUC1nX?startTime=1637671894000)
+
+---
 	
 Recordings 2020-2021 (Covid year):
 
@@ -47,3 +51,5 @@ Recordings 2020-2021 (Covid year):
 
 * [Summary](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/da/dabac2b07e66aebb71759eb43eef23340b8046ca.mp4)
 * [Exam-level question](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/2d/2db73ea989ab81ac8d2b4ad614e1146156007fc2.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/f2/f2fd6e2cc2bac678b8423ddf1fddf374d7eb9e3c.mp4)
+
+Related [publication](https://doi.org/10.1109/TE.2020.3007853) in IEEE Transactions on Education.
