@@ -8,11 +8,12 @@ category: previous
 
 Years: 2014-2023 (10 times)
 
+### Lecture notes
 Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), co-authored with [Tom Trigano](https://en.sce.ac.il/faculty/tom).
 
 ---
 
-Recordings 2022-2023 (another link=another host for same lectures):
+### Recordings 2022-2023 (another link=another host for same lectures):
 * Session A:
 	* Lec1 - Introduction: [link](https://sce-ac-il.zoom.us/rec/share/ewyZsbatN7WCePMsePsFcP2w7-S-g4vf1kWxqmXUVq0KPBsQ0znd64B9G5iIA71r.BDkrWuDwMlomA3zu?startTime=1666530774000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b5/b5412d4713131032ad87581e419747f4bf5bb88c.mp4)
 	* Lec2 - Z-transform: [link](https://sce-ac-il.zoom.us/rec/share/RyRJN1jeNCZ2VTTl5_OYCTy0C2Oz1q74bZEXcJlolmyv2GGQHk1q8CCDsKiVRshY.8ZmL85TXVZxj1bRK?startTime=1667139112000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/95/95e350dd83026f0bead4d6de9ef84ed37c035284.mp4)
@@ -33,7 +34,9 @@ Recordings 2022-2023 (another link=another host for same lectures):
 	* Filter Design: [link](https://sce-ac-il.zoom.us/rec/share/-5C1UTRKtzxiH4lAm44bvuwdF54ROJ185J47j2Po_dEFYFqfuqycHvB2CPy7fSD2.tDD8z525BTdd2vV4?startTime=1670778734000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/c9/c96e92a2703c7b10a93661392012973c11536f54.mp4)
 * Project Guidelines: [link](https://sce-ac-il.zoom.us/rec/share/sMNF8Iol1wik-fsUzjdELgjv7bIaDPQZU-tAG_BZyqZK8E_aGpw-FYikj4mgg_J8.XhAQuxLSCOBeaDUE?startTime=1671372913000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/68/68b7231b275ee3cf29253e0e9d17634c783eb9df.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/68/68b7231b275ee3cf29253e0e9d17634c783eb9df.mp4)
 
-Recordings 2021-2022:
+---
+
+### Recordings 2021-2022:
 * [Minimum phase](https://sce-ac-il.zoom.us/rec/share/saK9gnb4td1EQwIzrC-xI-v0u5j2IvWr3fx7KkH9ieLkG4pMIwHmBxRj-W0LoWKk.wSmS24HSVVqYGCBK?startTime=1637500904000)
 * [Sample rate conversion](https://sce-ac-il.zoom.us/rec/share/1V_DFfDtNrbj7abX_9u4x2ElQ-cUcphlFEcOlYAnBYU7JnJwRlXFLDOGO3n6SZrw.0VEPDp7BVHvLeJGZ?startTime=1637140371000)
 * [Under-sampling](https://sce-ac-il.zoom.us/rec/share/r6JiFLekD3sQzcKfjnS1K2HvvVDsn0zExOzQasly5pLri_2mWdNgC3Udo0GMNtTb.0y3bStWyhrJeg0AM?startTime=1637518341000)
@@ -43,7 +46,7 @@ Recordings 2021-2022:
 
 ---
 
-Recordings 2020-2021 (Covid year):
+### Recordings 2020-2021 (Covid year):
 
 * Session A: 
 	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b3/b3e6e6c5b477141505e4183c976ef3f5aadcc548.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/70/704465bf419c1f3a8411ade4a62c990f50877d16.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/54/549b44592f9fc01a6a41443a1e8184b651ff3823.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/f4/f4caac4942f4c92a4d1108c85acceafb24fa1c3c.mp4)
@@ -69,6 +72,8 @@ Recordings 2020-2021 (Covid year):
 
 ---
 
+### Course projects
+Course projects during project-oriented (PO) teaching
 During some of the years, it was a project-oriented course with projects like:
 * Distinguish between switch-mode and linear load. A split-core current transformer  [(ECS1030-L72)](https://www.sparkfun.com/products/11005) was used as a sensor connected to the microphone port.
 * Average step frequency by mobile phone sensors recording with mobile Matlab application.
