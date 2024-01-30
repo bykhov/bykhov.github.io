@@ -4,16 +4,19 @@ title: Digital Signal Processing
 description: Digital Signal Processing Course
 importance: 3
 category: previous
+toc:
+  sidebar: left
 ---
 
 Years: 2014-2023 (10 times)
 
-### Lecture notes
+#### Lecture notes
 Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), co-authored with [Tom Trigano](https://en.sce.ac.il/faculty/tom).
 
 ---
 
-### Recordings 2022-2023 (another link=another host for same lectures):
+#### Recordings 2022-2023 A
+Note: another link=another host for same lectures
 * Session A:
 	* Lec1 - Introduction: [link](https://sce-ac-il.zoom.us/rec/share/ewyZsbatN7WCePMsePsFcP2w7-S-g4vf1kWxqmXUVq0KPBsQ0znd64B9G5iIA71r.BDkrWuDwMlomA3zu?startTime=1666530774000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b5/b5412d4713131032ad87581e419747f4bf5bb88c.mp4)
 	* Lec2 - Z-transform: [link](https://sce-ac-il.zoom.us/rec/share/RyRJN1jeNCZ2VTTl5_OYCTy0C2Oz1q74bZEXcJlolmyv2GGQHk1q8CCDsKiVRshY.8ZmL85TXVZxj1bRK?startTime=1667139112000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/95/95e350dd83026f0bead4d6de9ef84ed37c035284.mp4)
@@ -36,7 +39,7 @@ Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), c
 
 ---
 
-### Recordings 2021-2022:
+#### Recordings 2021-2022
 * [Minimum phase](https://sce-ac-il.zoom.us/rec/share/saK9gnb4td1EQwIzrC-xI-v0u5j2IvWr3fx7KkH9ieLkG4pMIwHmBxRj-W0LoWKk.wSmS24HSVVqYGCBK?startTime=1637500904000)
 * [Sample rate conversion](https://sce-ac-il.zoom.us/rec/share/1V_DFfDtNrbj7abX_9u4x2ElQ-cUcphlFEcOlYAnBYU7JnJwRlXFLDOGO3n6SZrw.0VEPDp7BVHvLeJGZ?startTime=1637140371000)
 * [Under-sampling](https://sce-ac-il.zoom.us/rec/share/r6JiFLekD3sQzcKfjnS1K2HvvVDsn0zExOzQasly5pLri_2mWdNgC3Udo0GMNtTb.0y3bStWyhrJeg0AM?startTime=1637518341000)
@@ -46,7 +49,7 @@ Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), c
 
 ---
 
-### Recordings 2020-2021 (Covid year):
+#### Recordings 2020-2021 (Covid year)
 
 * Session A: 
 	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b3/b3e6e6c5b477141505e4183c976ef3f5aadcc548.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/70/704465bf419c1f3a8411ade4a62c990f50877d16.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/54/549b44592f9fc01a6a41443a1e8184b651ff3823.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/f4/f4caac4942f4c92a4d1108c85acceafb24fa1c3c.mp4)
@@ -72,7 +75,7 @@ Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), c
 
 ---
 
-### Course projects
+#### Course projects
 Course projects during project-oriented (PO) teaching
 During some of the years, it was a project-oriented course with projects like:
 * Distinguish between switch-mode and linear load. A split-core current transformer  [(ECS1030-L72)](https://www.sparkfun.com/products/11005) was used as a sensor connected to the microphone port.

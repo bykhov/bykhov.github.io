@@ -5,6 +5,8 @@ description: Random Processes Course
 importance: 3
 category: current
 img: https://github.com/bykhov/generate_corr_sequence/blob/main/examples/default_samples.png?raw=true
+toc:
+  sidebar: left
 ---
 
 Started teaching in 2017.
@@ -12,7 +14,7 @@ Started teaching in 2017.
 
 ---
 
-Recordings 2021-2022, with mainly Matlab examples:
+#### Recordings 2021-2022, with mainly Matlab examples
 - [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
 - [Histogram](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635260355000), [Histogram - Discrete Variable](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635258416000), [Histogram - Con. RV](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635259531000)
 - [Gaussian Distribution](https://sce-ac-il.zoom.us/rec/share/kgRcADcVU85YxLLRsqkFEcdqdzWy3jGB0l8M9WzsGOe-LU0-vtqJuikKBp0KIA8_.mdHlNhL8eB9ZcJ2a?startTime=1636566756000)
@@ -22,7 +24,7 @@ Recordings 2021-2022, with mainly Matlab examples:
 
 ---
 	
-Recordings 2020-2021 (Covid year):
+#### Recordings 2020-2021 (Covid year)
 
 * Session A:
 	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/64/64f29c805019405d2d43b974a19f7382f8c77956.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a7/a7d7e25ac5db4e1d575f7fdff8d8ca5362ca4cc1.mp4)
@@ -51,5 +53,7 @@ Recordings 2020-2021 (Covid year):
 
 * [Summary](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/da/dabac2b07e66aebb71759eb43eef23340b8046ca.mp4)
 * [Exam-level question](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/2d/2db73ea989ab81ac8d2b4ad614e1146156007fc2.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/f2/f2fd6e2cc2bac678b8423ddf1fddf374d7eb9e3c.mp4)
+
+---
 
 Related [publication](https://doi.org/10.1109/TE.2020.3007853) in IEEE Transactions on Education.
