@@ -5,7 +5,7 @@ permalink: /teaching/
 description: A collection of my courses.
 nav: true
 nav_order: 3
-display_categories: [students,current, previous]
+display_categories: [current, students, previous]
 horizontal: true
 ---
 
