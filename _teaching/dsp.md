@@ -15,7 +15,7 @@ Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), c
 
 ---
 
-#### Recordings 2022-2023 A
+#### Recordings 2022-2023
 Note: another link=another host for same lectures
 * Session A:
 	* Lec1 - Introduction: [link](https://sce-ac-il.zoom.us/rec/share/ewyZsbatN7WCePMsePsFcP2w7-S-g4vf1kWxqmXUVq0KPBsQ0znd64B9G5iIA71r.BDkrWuDwMlomA3zu?startTime=1666530774000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b5/b5412d4713131032ad87581e419747f4bf5bb88c.mp4)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Random Processes
-description: Random Processes Course
+description: Random Processes Course (starting from 2017)
 importance: 3
 category: current
 img: https://github.com/bykhov/generate_corr_sequence/blob/main/examples/default_samples.png?raw=true
@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-Started teaching in 2017.
+#### Lecture notes
 * Course [Lecture Notes](https://bykhov.github.io/rp/RP_Book.pdf) (in Hebrew), regularly updated.
 
 ---
