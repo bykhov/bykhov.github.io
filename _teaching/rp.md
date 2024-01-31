@@ -9,11 +9,14 @@ toc:
   sidebar: left
 ---
 
-#### Lecture notes
+### Recommended reading
 * Course [Lecture Notes](https://bykhov.github.io/rp/RP_Book.pdf) (in Hebrew), regularly updated.
+* Intuitive Probability and Random Processes using MATLAB® by Steven M. Kay [(link)](https://link.springer.com/book/10.1007/b104645), available online through SCE library
+* Schaum's Outline of Probability, Random Variables, and Random Processes, 3rd Edition by Hwei Hsu [(link)](https://mhebooklibrary.com/isbn/9780071824774), available online through SCE library
 
 ---
 
+### Recordings
 #### Recordings 2021-2022, with mainly Matlab examples
 - [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
 - [Histogram](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635260355000), [Histogram - Discrete Variable](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635258416000), [Histogram - Con. RV](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635259531000)
