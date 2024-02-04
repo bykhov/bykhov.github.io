@@ -8,4 +8,4 @@ img:
 ---
 
 * Started teaching in 2022.
-* [2024 edition](https://bykhov.github.io/sce_dl_2024/) (currently running)
+* [2024 edition](/suppl/dl/dl2024/)
