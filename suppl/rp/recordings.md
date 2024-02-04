@@ -5,6 +5,7 @@ toc:
 ---
 
 ### Recordings
+Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
 #### Recordings 2024
 - [Lec2](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
 
@@ -30,8 +31,8 @@ toc:
 	* Lec7: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/4e/4e041871bfebf15550e8f563973eb53126e0751f.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/74/74152e8464454085335a03caa7fe4b3d8279a6ee.mp4)
 	* [Lec8](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/32/328c469249c1be244ab37ae271cedee4f07cbf6b.mp4)
 	* Lec9: [part a](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/52/52da0e324c8996952510c2b99be78583e409814a.mp4), 	 [part b](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/de/de186ffac86abac118d406aad4a7f75267de5021.mp4)
-	* [Lec10](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/3e/3ea4a4d17b30d4237b3b0cc330c21a2d067f446d.mp4), [notes](/suppl/rp/2020LecRec/הרצאה10 - בוקר.pdf)
-	* [Lec11](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/70/700cc0ae1065d3f735a0e2c2b4e2b07e3d24918b.mp4)
+	* Lec10: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/3e/3ea4a4d17b30d4237b3b0cc330c21a2d067f446d.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 10 - בוקר.pdf)
+	* Lec11: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/70/700cc0ae1065d3f735a0e2c2b4e2b07e3d24918b.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 11 - בוקר.pdf)
 
 * Session B:
 	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b7/b74e64c5e7926766a4cd3b1891f17e3be722d388.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d8/d83b8d19cb7c1b47059a82da8fe92be11a232577.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9e/9ef1ad8bcb06354c7ad3fedf7798a80ae24152c9.mp4), [notes](/suppl/rp/2020LecRec/Lec1b.pdf)
