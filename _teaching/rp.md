@@ -17,4 +17,4 @@ toc:
 
 ---
 
-### [Recordings](/suppl/rp/recordings.html)
+### [Recordings](/suppl/rp/recordings/index.html)
