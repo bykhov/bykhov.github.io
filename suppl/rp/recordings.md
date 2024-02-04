@@ -7,7 +7,7 @@ toc:
 ### Recordings
 Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
 #### Recordings 2024
-- [Lec2](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
+- Lec2](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
 
 #### Recordings 2021-2022, with mainly Matlab examples
 - [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
@@ -36,15 +36,16 @@ Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
 
 * Session B:
 	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b7/b74e64c5e7926766a4cd3b1891f17e3be722d388.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d8/d83b8d19cb7c1b47059a82da8fe92be11a232577.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9e/9ef1ad8bcb06354c7ad3fedf7798a80ae24152c9.mp4), [notes](/suppl/rp/2020LecRec/Lec1b.pdf)
-	* [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a289645ef09b797f3e9075979f58575857dcb49c.mp4)
-	* [Lec3](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/57/57330912e51f870acc359fa92f7866bc7ec6b6ee.mp4)
-	* [Lec4](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/db/db6bbfc1dacb22abdf69879b758bbfc3c1fb6382.mp4)
-	* [Lec5](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/ef/ef4f6999ca7ca36b6c9ce522911a41ca1eec73d7.mp4)
-	* [Lec7](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/32/3242f1d388afa8927472f5bd0f8c58f33e6f7e2b.mp4)
-	* [Lec8](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/ff/ff41630b23399e398705cc084d91a5e6e5d1ae42.mp4)
-	* [Lec9](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b9/b94bece1c25fa2b69593785c5768381cf8427079.mp4)
-	* [Lec10](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d8/d8f324bf8f6a191ae51045fdbc3c3523db3dc386.mp4)
-	* [Lec11](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/37/37bedd583268ca8d5ab086a7ade5f9d1c907a683.mp4)
+	* Lec2: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a289645ef09b797f3e9075979f58575857dcb49c.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 2 - ערב.pdf)
+	* Lec3: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/57/57330912e51f870acc359fa92f7866bc7ec6b6ee.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 3 - ערב.pdf)
+	* Lec4: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/db/db6bbfc1dacb22abdf69879b758bbfc3c1fb6382.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 4 - ערב.pdf)
+	* Lec5: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/ef/ef4f6999ca7ca36b6c9ce522911a41ca1eec73d7.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 5 - ערב.pdf)
+	* Lec6: video, [notes](/suppl/rp/2020LecRec/הרצאה 6 - ערב.pdf)
+	* Lec7: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/32/3242f1d388afa8927472f5bd0f8c58f33e6f7e2b.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 7 - ערב.pdf)
+	* Lec8: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/ff/ff41630b23399e398705cc084d91a5e6e5d1ae42.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 8 - ערב.pdf)
+	* Lec9: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b9/b94bece1c25fa2b69593785c5768381cf8427079.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 9 - ערב.pdf)
+	* Lec10: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d8/d8f324bf8f6a191ae51045fdbc3c3523db3dc386.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 10 - ערב.pdf)
+	* Lec11: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/37/37bedd583268ca8d5ab086a7ade5f9d1c907a683.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 11 - ערב.pdf)
 
 * [Summary](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/da/dabac2b07e66aebb71759eb43eef23340b8046ca.mp4)
 * [Exam-level question](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/2d/2db73ea989ab81ac8d2b4ad614e1146156007fc2.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/f2/f2fd6e2cc2bac678b8423ddf1fddf374d7eb9e3c.mp4)
