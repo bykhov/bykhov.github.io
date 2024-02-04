@@ -21,7 +21,7 @@ toc:
 #### Recordings 2020-2021 (Covid year)
 
 * Session A:
-	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/64/64f29c805019405d2d43b974a19f7382f8c77956.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a7/a7d7e25ac5db4e1d575f7fdff8d8ca5362ca4cc1.mp4)
+	* Lec1: [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/64/64f29c805019405d2d43b974a19f7382f8c77956.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a7/a7d7e25ac5db4e1d575f7fdff8d8ca5362ca4cc1.mp4), [notes](/suppl/rp/2020LecRec/Lec1a.pdf)
 	* [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/87/871ac478e55f1d2097015541846689f89cc2395d.mp4)
 	* [Lec3](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9d/9d517ba9c9c5d93c0709ad5fd3ea823d708cd7c2.mp4)
 	* [Lec4](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/76/76722bdc9698ba046719ad89e7f82630a73960b7.mp4)
