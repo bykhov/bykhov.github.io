@@ -7,7 +7,7 @@ toc:
 ### Recordings
 Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
 #### Recordings 2024
-- Lec2](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
+- Lec2: [video](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
 
 #### Recordings 2021-2022, with mainly Matlab examples
 - [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
@@ -40,7 +40,7 @@ Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
 	* Lec3: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/57/57330912e51f870acc359fa92f7866bc7ec6b6ee.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 3 - ערב.pdf)
 	* Lec4: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/db/db6bbfc1dacb22abdf69879b758bbfc3c1fb6382.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 4 - ערב.pdf)
 	* Lec5: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/ef/ef4f6999ca7ca36b6c9ce522911a41ca1eec73d7.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 5 - ערב.pdf)
-	* Lec6: no lecture
+	* Lec6: no lecture (חנוכה)
 	* Lec7: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/32/3242f1d388afa8927472f5bd0f8c58f33e6f7e2b.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 7 - ערב.pdf)
 	* Lec8: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/ff/ff41630b23399e398705cc084d91a5e6e5d1ae42.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 8 - ערב.pdf)
 	* Lec9: [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b9/b94bece1c25fa2b69593785c5768381cf8427079.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 9 - ערב.pdf)
