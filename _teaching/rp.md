@@ -20,6 +20,8 @@ toc:
 
 ---
 
-### [Recordings](/suppl/rp/recordings/index.html)
+### [Recordings](/suppl/rp/recordings/)
 
 ---
+
+### [Exams](/suppl/rp/exams/)
