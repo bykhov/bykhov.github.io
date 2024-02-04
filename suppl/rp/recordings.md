@@ -4,10 +4,12 @@ toc:
   sidebar: left
 ---
 
-### Recordings
-Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
+### Recordings - [Random Processes Course](/teaching/rp/)
+
 #### Recordings 2024
 - Lec2: [video](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
+
+---
 
 #### Recordings 2021-2022, with mainly Matlab examples
 - [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)

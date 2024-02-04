@@ -1,13 +1,10 @@
 ---
 layout: default
-toc:
-  sidebar: left
 ---
 
-### Exams
-Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
+###  Exams - [Random Processes Course](/teaching/rp/)
 
-*Note:* all the **solutions** are provided in the lecture notes!
+*Note:* all the **solutions** are provided inside the [Lecture Notes](/rp/RP_Book.pdf)! Some of the questions there have been refined to improve their clarity and understanding.
 
 * 2017: 
 [A](/suppl/rp/exams/2017A.pdf),
