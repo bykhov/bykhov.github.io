@@ -1,0 +1,40 @@
+---
+layout: default
+toc:
+  sidebar: left
+---
+
+### Exams
+Course [homepage](https://bykhov.github.io/teaching/rp/index.html)
+
+* 2017: 
+[A](/suppl/rp/exams/2017A.pdf),
+[B](/suppl/rp/exams/2017B.pdf)
+
+* 2018: 
+[A](/suppl/rp/exams/2018A.pdf),
+[B](/suppl/rp/exams/2018B.pdf)
+
+* 2019: 
+[A](/suppl/rp/exams/RP Exam2019A.pdf),
+[B](/suppl/rp/exams/RP Exam2019B.pdf)
+
+* 2020: 
+[A](/suppl/rp/exams/RP Exam2020A.pdf),
+[B](/suppl/rp/exams/RP Exam2020B.pdf)
+
+
+* 2021: 
+[A](/suppl/rp/exams/RP Exam2021A.pdf),
+[B](/suppl/rp/exams/RP Exam2021A.pdf)
+
+
+* 2022: 
+[A](/suppl/rp/exams/RP Exam2022A.pdf),
+[B](/suppl/rp/exams/RP Exam2022B.pdf)
+
+* 2023: 
+[A](/suppl/rp/exams/RP Exam2022A.pdf),
+[B](/suppl/rp/exams/RP Exam2022B.pdf)
+
+* 2024: A, B
