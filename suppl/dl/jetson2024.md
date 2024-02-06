@@ -23,10 +23,10 @@ The goal of the project is to show a proficiency in using of Jeston for some bas
 * (optional free 2-hour course) [Optimize TensorFlow Models For Deployment with TensorRT](https://www.coursera.org/projects/tensorflow-tensorrt) at Coursera.
 Note to replace `Install TensorFlow-GPU 2.0 and TensorRT Runtime:` section in Colab with the following. It may take some time to run.
 
-```python
-%%bash  
-sudo apt install python3-libnvinfer
-python3 -m pip install --upgrade tensorrt  
-```
+	```python
+	%%bash  
+	sudo apt install python3-libnvinfer
+	python3 -m pip install --upgrade tensorrt  
+	```
 
 
