@@ -5,8 +5,9 @@ toc:
 ---
 ## [Deep learning course](/suppl/dl/dl2024/), 2024
 
-
 ### Jetson Nano
+
+#### Projects
 The goal of the project is to show a proficiency in using of Jeston for some basic or intermediate level application. 
 
 * **Goal**: deep learning, Linux, low-resource platform
@@ -16,7 +17,7 @@ The goal of the project is to show a proficiency in using of Jeston for some bas
 	2. [Jetson AI Specialist Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs) per-student certification.
 
 
-### Useful links
+#### Useful links
 * Kit [description](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 * Project [examples](https://developer.nvidia.com/embedded/community/jetson-projects)
 * (optional free 2-hour course) [Optimize TensorFlow Models For Deployment with TensorRT](https://www.coursera.org/projects/tensorflow-tensorrt) at Coursera.
