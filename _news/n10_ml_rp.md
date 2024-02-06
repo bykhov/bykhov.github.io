@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-31
-inline: False
+inline: True
 related_posts: true
 title: New course homepages
 ---
