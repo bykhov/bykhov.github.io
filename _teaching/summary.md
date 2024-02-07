@@ -13,6 +13,12 @@ Machine learning:
 * [Machine learning](/teaching/ml/)
 * [Deep learning](/teaching/dl/)
 
+Signal processing:
+* Signals and systems
+* [Digital signal processing (DSP)](/teaching/dsp/)
+* [Introduction to random processes](/teaching/rp/)
+* Advanced DSP lab
+
 [Communication](/teaching/communication/):
 * Introduction to communication
 * Mobile communication
@@ -21,12 +27,6 @@ Machine learning:
 * Introduction to communication lab
 * Digital communication lab
 * Analog communication lab
-
-Signal processing:
-* Signals and systems
-* [Digital signal processing (DSP)](/teaching/dsp/)
-* [Introduction to random processes](/teaching/rp/)
-* Advanced DSP lab
 
 Optics and photonics:
 * Electro-optics lab (graduate)

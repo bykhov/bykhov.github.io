@@ -6,7 +6,7 @@ importance: 3
 category: previous
 ---
 
-I have had the privilege of instructing on various communication-related subjects in various institutions (SCE, BGU, HIT). The primary topics can be summarized as follows:
+I have had the privilege of instructing on various communication-related subjects in various institutions (SCE, BGU, HIT) between 2006-2022. The primary topics can be summarized as follows:
 
 * Modern communication overview
 * Analog communication
