@@ -18,6 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Dima Bykhovsky, and I am a faculty member at [SCE](https://www.sce.ac.il/) college.
 
-My official college [homepage](https://en.sce.ac.il/faculty/bykhovsky) and Google scholar [profile](https://scholar.google.co.il/citations?user=CnXQntIAAAAJ).
+My homepages/profiles:
+* College [homepage](https://en.sce.ac.il/faculty/bykhovsky)
+* Linkedin [profile](https://www.linkedin.com/in/dimabykhov)
+* Google scholar [profile](https://scholar.google.co.il/citations?user=CnXQntIAAAAJ).
 
-This site is currently under **construction!**
+
+This site is currently in beta.
