@@ -6,7 +6,7 @@ layout: default
 
 **To be updated!!!**
 
-#### Histogram
+#### Histogram (1D RV)
 * Cube rolled [experiment](/suppl/rp/code/hist/hist_discr_cube.m)
 * Single bin [example](/suppl/rp/code/hist/hist_example_single_bin.m)
 * Central limit theorem for a discrete variable [example](/suppl/rp/code/hist/central_limit_t_example.m)
@@ -19,8 +19,8 @@ layout: default
 * 2D CDF single point [calculation](/suppl/rp/code/gaussian/gaussian2d_cdf.m)
 
 #### Linear regression
-* [Linear regression](/suppl/rp/code/linear_regression/dependent_var.m)
-* [$$Y=X^2$$](/suppl/rp/code/linear_regression/dependent_process2b.m)
+* Linear regression [example](/suppl/rp/code/linear_regression/dependent_var.m)
+* $$Y=X^2\Rightarrow\rho_{XY}=0$$ [example](/suppl/rp/code/linear_regression/dependent_process2b.m)
 
 #### ACF
 * $$x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$$ [link](/suppl/rp/code/hist/hist_example_single_bin.m)
