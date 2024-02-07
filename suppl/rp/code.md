@@ -19,3 +19,7 @@ layout: default
 $$x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$$
 
 $x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$
+
+{::nomarkdown}
+$x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$
+{:/}  
