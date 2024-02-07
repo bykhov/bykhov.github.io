@@ -6,7 +6,8 @@ importance: 3
 category: previous
 ---
 
-I have taught various communication-related topics. The main ones are outlined in the following:
+I have had the privilege of instructing on various communication-related subjects in various institutions (SCE, BGU, HIT). The primary topics can be summarized as follows:
+
 * Modern communication overview
 * Analog communication
 	- Baseband-bandpass representation 
@@ -19,7 +20,7 @@ I have taught various communication-related topics. The main ones are outlined i
 	- Diversity
 	- Multi-user communication
 	- Cellular communication
-	- PLL
+	- PLLs
 * Software-defined radio (SDR)
 	- Hands-on basics
 	- Channel measurements

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Summary
-description: Summary of the previous teaching activity
+description: Summary of the current and previous teaching activity
 importance: 4
 category: previous
 ---
 
-I have been a lecturer, teaching assistant or laboratory instructor of the following courses. 
+I have experience as a lecturer, teaching assistant, or laboratory instructor for the following courses.
 
 Machine learning:
 * [Python](/teaching/python/)
@@ -25,7 +25,7 @@ Machine learning:
 Signal processing:
 * Signals and systems
 * [Digital signal processing (DSP)](/teaching/dsp/)
-* [Random processes](/teaching/rp/)
+* [Introduction to random processes](/teaching/rp/)
 * Advanced DSP lab
 
 Optics and photonics:
