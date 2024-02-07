@@ -7,7 +7,16 @@ layout: default
 **To be updated!!!**
 
 #### Histogram
+* Cube rolled [experiment](/suppl/rp/code/hist/hist_discr_cube.m)
 * Single bin [example](/suppl/rp/code/hist/hist_example_single_bin.m)
+* Central limit theorem for a discrete variable [example](/suppl/rp/code/hist/central_limit_t_example.m)
+* [Fit of distribution](/suppl/rp/code/hist/hist_cont.mlx) (exponential)
+ * [Fit of distribution 2](/suppl/rp/code/hist/hist_normal.mlx) (Gaussian)
+
+#### Gaussian RV
+* 2D CDF [plot](/suppl/rp/code/gaussian/gaussian2d_cdf_plot.mlx)
+* Two 1D Gaussian variables without joint Gaussian [example](/suppl/rp/code/gaussian/marginal_gaussian_without_joint.m)
+* 2D CDF single point [calculation](/suppl/rp/code/gaussian/gaussian2d_cdf.m)
 
 #### Linear regression
 * [Linear regression](/suppl/rp/code/linear_regression/dependent_var.m)
