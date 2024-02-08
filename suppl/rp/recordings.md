@@ -9,6 +9,9 @@ toc:
 #### Recordings 2024
 - Lec2: [video](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
 
+- Lec3: technical problems with a recording
+[](https://sce-ac-il.zoom.us/rec/share/B5xAUPKtSrmpU7nDwpPKEktxoEgFoxP3s7lCMTfjbK8SBBeqxfSHvA_jL9hSks8a.-Yec8MRAozhw38ih?startTime=1707315528000)
+
 ---
 
 #### Recordings 2021-2022, with mainly Matlab examples

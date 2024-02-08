@@ -22,5 +22,9 @@ layout: default
 * Two 1D Gaussian variables without joint Gaussian [example](/suppl/rp/code/gaussian/marginal_gaussian_without_joint.m)
 * 2D CDF single point [calculation](/suppl/rp/code/gaussian/gaussian2d_cdf.m)
 
+#### Random process
+* Random walk [example](/suppl/rp/code/rp/random_walk.m)
+
 #### ACF
-* $$x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$$ [example](/suppl/rp/code/hist/hist_example_single_bin.m)
+* Output of $$x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$$ [example](/suppl/rp/code/acf/acf_fir_example.m)
+* Delay evaluation [example](/suppl/rp/code/acf/delay_example.m) by cross-correlation  function
