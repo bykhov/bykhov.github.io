@@ -14,7 +14,7 @@ toc:
 
 ---
 
-#### Recordings 2021-2022, with mainly Matlab examples
+#### Recordings 2021-2022, mainly with Matlab examples
 - [Discrete random variables](https://sce-ac-il.zoom.us/rec/share/UU-yGyBfaX9hAo3mmGB7qwO4JHcAR0P05DYzK-IVJ7Fb8rNmWbHPWSN23rHLjOA2.NWubfryc6JBrup7c?startTime=1634646130000)
 - [Histogram](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635260355000), [Histogram - Discrete Variable](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635258416000), [Histogram - Con. RV](https://sce-ac-il.zoom.us/rec/share/mfrgwyBJGpU_aHGH7Oi_JuhSN2iSJZdAQdtfyZDfkus1g-bMqsGm530LmrhY3IiP.uLaE8jrHcR7_kn_T?startTime=1635259531000)
 - [Gaussian Distribution](https://sce-ac-il.zoom.us/rec/share/kgRcADcVU85YxLLRsqkFEcdqdzWy3jGB0l8M9WzsGOe-LU0-vtqJuikKBp0KIA8_.mdHlNhL8eB9ZcJ2a?startTime=1636566756000)

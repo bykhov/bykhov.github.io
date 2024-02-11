@@ -20,6 +20,7 @@ layout: default
 #### Gaussian RV
 * 2D CDF [plot](/suppl/rp/code/gaussian/gaussian2d_cdf_plot.mlx)
 * Two 1D Gaussian variables without joint Gaussian [example](/suppl/rp/code/gaussian/marginal_gaussian_without_joint.m)
+* 2D correlated [example](/suppl/rp/code/gaussian/normal2d.m)
 * 2D CDF single point [calculation](/suppl/rp/code/gaussian/gaussian2d_cdf.m)
 
 #### Random process
@@ -28,3 +29,7 @@ layout: default
 #### ACF
 * Output of $$x[n] = \frac{1}{2}w[n] + \frac{1}{2}w[n-1]$$ [example](/suppl/rp/code/acf/acf_fir_example.m)
 * Delay evaluation [example](/suppl/rp/code/acf/delay_example.m) by cross-correlation  function
+* Process with exponetial distribution and ACF with exponential decay [example](/suppl/rp/code/exponential_process/negative_exp_example.m)
+
+#### Linear prediction of signals
+* Linear prediction [example](/suppl/rp/code/process_prediction/signal_pred1.m)
