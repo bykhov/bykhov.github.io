@@ -4,8 +4,6 @@ layout: default
 
 ###  Supplementary Matlab code files - [Random Processes Course](/teaching/rp/)
 
-**To be updated!!!**
-
 #### Histogram (1D RV)
 * Cube rolled [experiment](/suppl/rp/code/hist/hist_discr_cube.m)
 * Single bin [example](/suppl/rp/code/hist/hist_example_single_bin.m)
