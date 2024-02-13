@@ -28,4 +28,4 @@ toc:
 * Carnegie Mellon University, [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/) (note previous iterations)
 * Stanford, [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) (note [course notes](https://cs231n.github.io/))
 * Shahid Beheshti University (Iran), [Deep Learning](https://hhaji.github.io/Deep-Learning/)
-* HUJI, [Intro to Deep Learning](https://github.com/Hadar933/Intro-to-Deep-Learning/)
+* HUJI, Intro to Deep Learning [(student notes)](https://github.com/Hadar933/Intro-to-Deep-Learning/) 
