@@ -46,6 +46,11 @@ Notes:
 
 * Paperswithcode [review](https://paperswithcode.com/methods/category/regularization)
 * :film_projector:StatQuest [video](https://www.youtube.com/watch?v=Q81RR3yKn30)
+---
+layout: default
+toc:
+  sidebar: left
+---
 
 #### Training
 ##### GD for NN
