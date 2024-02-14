@@ -1,3 +1,9 @@
+---
+layout: default
+toc:
+  sidebar: left
+---
+
 ## Lectures
 Notes:
 
