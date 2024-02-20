@@ -29,4 +29,4 @@ Note to replace `Install TensorFlow-GPU 2.0 and TensorRT Runtime:` section in Co
 	python3 -m pip install --upgrade tensorrt  
 	```
 
-
+* My personal [example](https://github.com/bykhov/jetson) of a certification project.
