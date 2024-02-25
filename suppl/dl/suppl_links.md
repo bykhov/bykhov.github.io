@@ -48,34 +48,21 @@ Notes:
 * :desktop_computer:Visualization of backpropagation and (Xavier) initialization by [Katanforoosh & Kunin, "Initializing neural networks", deeplearning.ai, 2019](https://www.deeplearning.ai/ai-notes/initialization/index.html) 
 * :desktop_computer:GD modifications and stochastic GD by [Katanforoosh, Kunin et al., "Parameter optimization in neural networks", deeplearning.ai, 2019](https://www.deeplearning.ai/ai-notes/optimization/index.html) 
 
-#### Regularization
-
+#### Regularization (Dropout, batch normalization)
+* [Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) (StatQuest)
 * Paperswithcode [review](https://paperswithcode.com/methods/category/regularization)
 * :film_projector:StatQuest [video](https://www.youtube.com/watch?v=Q81RR3yKn30)
-
+* [Where should place Dropout, Batch Normalization, and Activation Layer?](https://androidkt.com/where-should-place-dropout-batch-normalization-and-activation-layer/)
+* Intro to Optimization in Deep Learning: Busting the Myth About Batch Normalization [(link)](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
+* [Hands-On Batch normalization](https://medium.com/@kushansharma1/hands-on-batch-normalization-6b07b945831d)
+* Paper [Group Normalization](https://arxiv.org/abs/1803.08494)
+ 
 #### Training
 ##### GD for NN
 * :film_projector:Gradient descent, how neural networks learn [3Blue1Brown video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * Bigger batches are not nessesary better by Keshar *at el*, On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima, [ArXiv](https://arxiv.org/abs/1609.04836), 2017.
 
-##### GD modifications
-
-### DNN add-ons
-TBD
-* L<sub>2</sub> - Regularization
-* Data normalization
-* Regularization
-* Learning rate and early stopping
-* Softmax layer
-
-#### Batch normalization layer
-* Intro to Optimization in Deep Learning: Busting the Myth About Batch Normalization [(link)](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
-
-
-
-### CNN
-
-#### Conv2D
+### CNN and Conv2D
 
 * :desktop_computer:CNN Explainer [online visualization](https://poloclub.github.io/cnn-explainer/)
 * :film_strip:	[2 Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
