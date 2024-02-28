@@ -20,6 +20,9 @@ The goal of the project is to show a proficiency in using of Jeston for some bas
 #### Useful links
 * Kit [description](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 * Project [examples](https://developer.nvidia.com/embedded/community/jetson-projects)
+* [Get Started With Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) guide
+* 
+#### Additional links
 * (optional free 2-hour course) [Optimize TensorFlow Models For Deployment with TensorRT](https://www.coursera.org/projects/tensorflow-tensorrt) at Coursera.
 Note to replace `Install TensorFlow-GPU 2.0 and TensorRT Runtime:` section in Colab with the following. It may take some time to run.
 
