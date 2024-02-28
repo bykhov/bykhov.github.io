@@ -11,7 +11,7 @@ toc:
 
 ### Main resources
 * **Course [Lecture Notes](/rp/RP_Book.pdf)** (in Hebrew), regularly updated.
-* List of formulas that is **attached to exams** [(link)](formulas_rp.pdf) !
+* List of formulas that is **attached to exams** [(link)](/rp/formulas_rp.pdf) !
 
 ---
 
