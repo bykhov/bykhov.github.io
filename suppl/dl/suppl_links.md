@@ -57,6 +57,10 @@ Notes:
 * [Hands-On Batch normalization](https://medium.com/@kushansharma1/hands-on-batch-normalization-6b07b945831d)
 * Paper [Group Normalization](https://arxiv.org/abs/1803.08494)
  
+##### Scaled Exponential Linear Unit (self-normalizing networks)
+* Theory [(paperswithcode)](https://paperswithcode.com/method/selu)
+* Note: requires special `AlphaDropout` and `LecunNormal` initializer.
+
 #### Training
 ##### GD for NN
 * :film_projector:Gradient descent, how neural networks learn [3Blue1Brown video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
