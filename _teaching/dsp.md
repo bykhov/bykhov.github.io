@@ -18,7 +18,7 @@ Course [Lecture Notes](https://bykhov.github.io/dsp/DSP_Book.pdf) (in Hebrew), c
 #### Recordings 2022-2023
 Note: another link=another host for same lectures
 * Session A:
-	* Lec1 - Introduction: [link](https://sce-ac-il.zoom.us/rec/share/ewyZsbatN7WCePMsePsFcP2w7-S-g4vf1kWxqmXUVq0KPBsQ0znd64B9G5iIA71r.BDkrWuDwMlomA3zu?startTime=1666530774000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b5/b5412d4713131032ad87581e419747f4bf5bb88c.mp4)
+	* Lec1 - Introduction: [link](https://sce-ac-il.zoom.us/rec/share/ewyZsbatN7WCePMsePsFcP2w7-S-g4vf1kWxqmXUVq0KPBsQ0znd64B9G5iIA71r.BDkrWuDwMlomA3zu?startTime=1666530774000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b5/b5412d4713131032ad87581e419747f4bf5bb88c.mp4), [notes]("/suppl/dsp/2023Notes/Lecture 1 (16).pdf")
 	* Lec2 - Z-transform: [link](https://sce-ac-il.zoom.us/rec/share/RyRJN1jeNCZ2VTTl5_OYCTy0C2Oz1q74bZEXcJlolmyv2GGQHk1q8CCDsKiVRshY.8ZmL85TXVZxj1bRK?startTime=1667139112000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/95/95e350dd83026f0bead4d6de9ef84ed37c035284.mp4)
 	* [Lec3 - Inv-Z, DTFT](https://sce-ac-il.zoom.us/rec/share/QsbBMycK7T2W2lkMV8yObDWCN-N77rZslVOEeoG3-cqmw290_GCyRtcnzReoHr1A.tU_JD1zockdOSXMZ?startTime=1667743880000)
 	* Lec4 - Systems: [link](https://sce-ac-il.zoom.us/rec/share/j_KI46TDajagtmkwKsXJxenrN2K_0Z9wrvFmnWHOoIK7K5WOpixKxAuZ_b-LHBk3.nMa-1XyauUowrDpi?startTime=1668348713000), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/62/622ee6623e75374640f82f87bc91cb81eb60d259.mp4)
