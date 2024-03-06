@@ -4,7 +4,7 @@ toc:
   sidebar: left
 ---
 
-## Lectures
+## Lectures, [Deep learning course](/suppl/dl/dl2024/), 2024
 Notes:
 
 | :desktop_computer: = Interactive visualization | :film_strip: = static  visualization | :film_projector: = video | :book: = book | :page_with_curl: = paper | :page_facing_up: = article |

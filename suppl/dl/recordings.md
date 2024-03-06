@@ -10,3 +10,4 @@ layout: default
 * Lecture 3 [recording](https://sce-ac-il.zoom.us/rec/share/vPRlUdH3JujRmq_ufdAppOp_Ji_JVnG2Gt0v_WSnxOZp2QrtaKibA80FW5McX1lV.-FfGZvjFGhvOiZFr?startTime=1707895658000) - VNN
 * Lecture 4 [recording](https://sce-ac-il.zoom.us/rec/share/pJ5Ho42w41CJjncIiMa6vna8FWrO7fZqX_-9iqCvpUZrKgeTQ66Z-EAqHrUfwfdL.HyncBkunncl59oe7?startTime=1708500192000) - Activation functions
 * Lecture 5 [recording](https://sce-ac-il.zoom.us/rec/share/wAu2cDJBKDKcV3zoC0K86deCW1ngXV3d57mjGIc_Yo_HrVfjcK61q1y9Nxc7c6L8.XJtupVu5elLbdBly?startTime=1709104554000) - Regularization
+* Lecture 6 [recording](https://sce-ac-il.zoom.us/rec/share/qZUehgroSQAudRJGw5VSrE3DaaVmM3fmdfnixcFQ_EFvsj7Q5VNsPUZAf2axO-B-.6GKiMcC2FBeQeGLO?startTime=1709713350000) - 1D CNNs
