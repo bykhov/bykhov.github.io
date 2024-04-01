@@ -31,3 +31,6 @@ layout: default
 
 #### Linear prediction of signals
 * Linear prediction [example](/suppl/rp/code/process_prediction/signal_pred1.m)
+
+#### Systems in noise
+* Variance of the output of a system [example](/suppl/rp/code/systems/output_variance.m)
