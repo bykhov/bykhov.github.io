@@ -11,6 +11,4 @@ children:
   - title: DL 2024
     permalink: /suppl/dl/dl2024/
   - title: divider
-  - title: DSP 2023
-    permalink: /teaching/dsp/
 ---
