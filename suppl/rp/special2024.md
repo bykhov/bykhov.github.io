@@ -19,6 +19,6 @@ is through the Moodle homepage of the course.
 
 #### Simulation assignment
 * Simulation assignment 12.3 from the [Lecture Notes](/rp/RP_Book.pdf).
-* The assignment should be submitted in a single LiveScript file, including the code and the results.
+* The assignment should be submitted in a single LiveScript file, including the code, results, and optional Word file with additional explanations.
 * The code should be well documented and include comments.
-* The results should be presented in a clear and organized manner.
+* The results should be clearly explained and organized, either in English inside the LiveScript or in Hebrew in the Word file.
