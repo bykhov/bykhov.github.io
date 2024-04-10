@@ -8,9 +8,9 @@ toc:
 
 #### Recordings 2024
 - Lec2: [video](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
-
 - Lec3: technical problems with a recording
 [](https://sce-ac-il.zoom.us/rec/share/B5xAUPKtSrmpU7nDwpPKEktxoEgFoxP3s7lCMTfjbK8SBBeqxfSHvA_jL9hSks8a.-Yec8MRAozhw38ih?startTime=1707315528000)
+- Lec12: Match filter [video](https://sce-ac-il.zoom.us/rec/share/enbiZOXeSJRTwu1XGJ7bUREd2ThmpfelawDn4SJJjrJNJde7kYl1MYhtgKR2z_Vd.mK4JRBas3B5BNDJw?startTime=1712755184000)
 
 ---
 
