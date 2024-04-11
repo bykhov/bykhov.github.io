@@ -24,12 +24,19 @@ toc:
 ---
 	
 #### Recordings 2020-2021 (Covid year)
-  #   | Morning | Evening |
-|:----:|:--------|:--------|
-| 1 | [video-part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/64/64f29c805019405d2d43b974a19f7382f8c77956.mp4), [video-part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a7/a7d7e25ac5db4e1d575f7fdff8d8ca5362ca4cc1.mp4), [notes](/suppl/rp/2020LecRec/Lec1a.pdf) | [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b7/b74e64c5e7926766a4cd3b1891f17e3be722d388.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d8/d83b8d19cb7c1b47059a82da8fe92be11a232577.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9e/9ef1ad8bcb06354c7ad3fedf7798a80ae24152c9.mp4), [notes](/suppl/rp/2020LecRec/Lec1b.pdf) |
-| 2 | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/87/871ac478e55f1d2097015541846689f89cc2395d.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 2 - בוקר.pdf) | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a289645ef09b797f3e9075979f58575857dcb49c.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 2 - ערב.pdf) |
-
-
+|   # | Morning | Evening |
+|:---:|:--------|:--------|
+|  1  | [video-part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/64/64f29c805019405d2d43b974a19f7382f8c77956.mp4), [video-part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a7/a7d7e25ac5db4e1d575f7fdff8d8ca5362ca4cc1.mp4), [notes](/suppl/rp/2020LecRec/Lec1a.pdf) | [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/b7/b74e64c5e7926766a4cd3b1891f17e3be722d388.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d8/d83b8d19cb7c1b47059a82da8fe92be11a232577.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9e/9ef1ad8bcb06354c7ad3fedf7798a80ae24152c9.mp4), [notes](/suppl/rp/2020LecRec/Lec1b.pdf) |
+|  2  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/87/871ac478e55f1d2097015541846689f89cc2395d.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 2 - בוקר.pdf) | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a289645ef09b797f3e9075979f58575857dcb49c.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 2 - ערב.pdf) |
+|  3  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/9d/9d517ba9c9c5d93c0709ad5fd3ea823d708cd7c2.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 3 - בוקר.pdf) | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/57/57330912e51f870acc359fa92f7866bc7ec6b6ee.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 3 - ערב.pdf)|
+|  4  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/76/76722bdc9698ba046719ad89e7f82630a73960b7.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 4 - בוקר.pdf)
+|  5  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/22/2225ca795edc6d5b443f6731a1e97e73b02b7266.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 5 - בוקר.pdf)
+|  6  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d3/d388ef430230a8cd4611e5211ca19b45690e4096.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 6 - בוקר.pdf)
+|  7  | [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/4e/4e041871bfebf15550e8f563973eb53126e0751f.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/74/74152e8464454085335a03caa7fe4b3d8279a6ee.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 7 - בוקר.pdf)
+|  8  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/32/328c469249c1be244ab37ae271cedee4f07cbf6b.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 8 - בוקר.pdf)
+|  9  | [part a](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/52/52da0e324c8996952510c2b99be78583e409814a.mp4), 	 [part b](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/de/de186ffac86abac118d406aad4a7f75267de5021.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 9 - בוקר.pdf)
+| 10  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/3e/3ea4a4d17b30d4237b3b0cc330c21a2d067f446d.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 10 - בוקר.pdf)
+| 11  | [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/70/700cc0ae1065d3f735a0e2c2b4e2b07e3d24918b.mp4), [notes](/suppl/rp/2020LecRec/הרצאה 11 - בוקר.pdf)
 
 
 * Session A:
