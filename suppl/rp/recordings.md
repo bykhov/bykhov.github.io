@@ -4,7 +4,7 @@ toc:
   sidebar: left
 ---
 
-### Recordings - [Random Processes Course](/teaching/rp/)
+### [Random Processes Course](/teaching/rp/) - Recordings
 
 #### Recordings 2024
 - Lec2: [video](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)

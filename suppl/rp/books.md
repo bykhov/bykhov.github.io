@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Recommended reading - [Random Processes Course](/teaching/rp/)
+### [Random Processes Course](/teaching/rp/) - Recommended reading
 
 
 

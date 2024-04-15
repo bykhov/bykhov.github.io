@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###  Exams - [Random Processes Course](/teaching/rp/)
+###  [Random Processes Course](/teaching/rp/) - Exams
 
 *Note:* all the **solutions** are provided inside the [Lecture Notes](/rp/RP_Book.pdf)! Some of the questions there have been refined to improve their clarity and understanding.
 
