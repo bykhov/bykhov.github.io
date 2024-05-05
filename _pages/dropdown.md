@@ -8,7 +8,13 @@ children:
   - title: RP 2024
     permalink: /teaching/rp/
   - title: divider
-  - title: DL 2024
-    permalink: /suppl/dl/dl2024/
+  - title: ML
+    permalink: /suppl/ml/ml2024/
+  - title: divider
+  - title: STMDL
+    permalink: /suppl/ts1/ts1_main2024/
+  - title: divider
+  - title: SPC
+    permalink: /suppl/ts1/ts2_main2024/
   - title: divider
 ---

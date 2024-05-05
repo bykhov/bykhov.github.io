@@ -36,4 +36,6 @@ layout: default
 [A](/suppl/rp/exams/RP Exam2023A_v2.pdf),
 [B](/suppl/rp/exams/RP Exam2023B_v2.pdf)
 
-* 2024: A, B
+* 2024: 
+[A](/suppl/rp/exams/RP_Exam2024A.pdf),
+B
