@@ -15,6 +15,6 @@ children:
     permalink: /suppl/ts1/ts1_main2024/
   - title: divider
   - title: SPC
-    permalink: /suppl/ts1/ts2_main2024/
+    permalink: /suppl/ts2/ts2_main2024/
   - title: divider
 ---

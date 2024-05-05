@@ -35,8 +35,9 @@ This course is expected to have a _follow-up_ course on signals prediction and c
 ### Grading policy
 
 The course grade is based on homework assignments with the following components:
-* MOOC certificates (50%)
+* MOOC certificates (50%), 5 certificates 10% each
 * Presentation (25%)
+* ... (25%)
 * Participation bonus is based on the student's participation in the class, i.e.,
   asking questions, answering questions, and participating in the class discussions (up to 10%)
 
@@ -79,7 +80,7 @@ Each student is required to present a python package or a library that are used 
     * [ml-forecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning for time series forecasting
     * [prophet](https://facebook.github.io/prophet/) - A forecasting procedure implemented in R and Python
     * [TF-1D-2D](https://github.com/Sakib1263/TF-1D-2D-Segmentation-End2EndPipelines) - TensorFlow 1D and 2D models
-  * The following packages are not allowed for the presentation since they are not maintained:
+  * The following packages are not allowed for the presentation since they are not maintained anymore:
     * [seglearn](https://dmbee.github.io/seglearn/) - A Python package for time series classification
   * Any other package/library can be proposed for the instructor approval.
 
