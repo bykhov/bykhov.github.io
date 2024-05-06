@@ -21,4 +21,4 @@ Selected topics on machine and deep learning
 
 Signal prediction and classification
 * Graduate course
-* [2024 edition](/suppl/ts1/ts2_main2024) - First-time new course
+* [2024 edition](/suppl/ts2/ts2_main2024) - First-time new course
