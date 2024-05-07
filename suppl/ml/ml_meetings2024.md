@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Machine Learning 2024](suppl/ml/ml2024/)
+## [Machine Learning 2024](/suppl/ml/ml2024/)
 
 ### Meetings
 This is the course schedule. Note, the course was significantly updated and the topics are **subject to change**.

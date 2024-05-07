@@ -11,10 +11,4 @@ children:
   - title: ML
     permalink: /suppl/ml/ml2024/
   - title: divider
-  - title: STMDL
-    permalink: /suppl/ts1/ts1_main2024/
-  - title: divider
-  - title: SPC
-    permalink: /suppl/ts2/ts2_main2024/
-  - title: divider
 ---

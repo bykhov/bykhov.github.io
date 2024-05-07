@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Machine Learning 2024](suppl/ml/ml2024/)
+## [Machine Learning 2024](/suppl/ml/ml2024/)
 
 ### Hackathon competition
 Hackathon competition is a part of the course:
