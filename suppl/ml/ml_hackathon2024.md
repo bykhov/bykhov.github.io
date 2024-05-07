@@ -5,6 +5,8 @@ layout: default
 ## [Machine Learning 2024](/suppl/ml/ml2024/)
 
 ### Hackathon competition
+
+#### Preface
 Hackathon competition is a part of the course:
 The competition is held on the last week of the course, 21/08/2024 13:00 till 22/08/2024 (closing time to be announced).
 * The competition is held in the form of a Kaggle competition.
@@ -17,3 +19,6 @@ The competition is held on the last week of the course, 21/08/2024 13:00 till 22
     * [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/)
   * Up to 3% bonus to the final grade
 [](The special prize committee may decide to recommend either of top participants to extend the competition submission as an engineering project and/or a scientific paper)
+
+#### Details
+To be announced...
