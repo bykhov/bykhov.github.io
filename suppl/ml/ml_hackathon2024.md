@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+## [Machine Learning 2024](suppl/ml/ml2024/)
+
 ### Hackathon competition
 Hackathon competition is a part of the course:
 The competition is held on the last week of the course, 21/08/2024 13:00 till 22/08/2024 (closing time to be announced).

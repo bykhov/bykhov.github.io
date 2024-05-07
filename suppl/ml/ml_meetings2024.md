@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Machine Learning 2024](suppl/ml/ml2024/)
 
 ### Meetings
