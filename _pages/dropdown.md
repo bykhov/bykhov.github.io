@@ -8,7 +8,7 @@ children:
   - title: RP 2024
     permalink: /teaching/rp/
   - title: divider
-  - title: ML
+  - title: ML 2024
     permalink: /suppl/ml/ml2024/
   - title: divider
 ---
