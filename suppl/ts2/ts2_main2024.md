@@ -5,72 +5,55 @@ layout: default
 # Draft version till further notice!
 
 ## Signal Prediction and Classification (SPC) course, 2024
+Welcome to the Signal Prediction and Classification (SPC) course! This page concentrates on course information and materials. For communication and submissions, please refer to the complimentary [Moodle page](https://moodle.sce.ac.il/course/view.php?id=29198).
 
-* This page is used for course information and materials.
-* The complimentary [Moodle page](https://moodle.sce.ac.il/course/view.php?id=29198) is used for course communication and submissions.
-
-### Course information
-
-* The course is designed to provide data-driven machine learning (ML) interpretation of the digital signal processing (DSP)
-  and random processes, mainly by least squares (LS) method.
+### Course Overview
+This course integrates data-driven machine learning (ML) with principles of digital signal processing (DSP) and random processes, primarily through the least squares (LS) method.
 
 #### Course objectives:
 
-To provide a capability:
-* Evaluate signal amplitude, frequency, and phase.
-* Analyze signals by using auto-correlation and partial auto-correlation functions.
-* Use AR, MA, and ARMA models for signal prediction (regression).
-* Use ARMA models for multivariate exogenous and endogenous signals.
-* Select between different performance metrics.
-* Classify signals by using logistic regression and feature engineering.
+By the end of this course, students will be able to:
+* Evaluate signal characteristics including amplitude, frequency, and phase.
+* Analyze signals using auto-correlation and partial auto-correlation functions.
+* Utilize AR, MA, and ARMA models for signal prediction (regression).
+* Apply ARMA models to multivariate exogenous and endogenous signals.
+* Compare and select appropriate performance metrics.
+* Classify signals using logistic regression and feature engineering techniques.
 
-#### Special notes:
-
-* This is a new course that is under development.
-* The course is designed to be self-contained (i.e., no formal prerequisite courses are required), although the basic knowledge of probability and linear algebra is assumed.
-* The course is designed to be hands-on, and the students are expected to use Python or Matlab for the course assignments.
+#### Special Notes:
+* This is a newly developed course tailored to be self-contained, with no formal prerequisite courses required. However, a basic understanding of probability and linear algebra is assumed.
+* The course emphasizes hands-on learning, with assignments conducted using Python or Matlab.
 
 
-### Grading policy
-The course grade is based on homework assignments with the following components:
-* Homework assignments - all are mandatory (80%)
-* Presentation of the assignments in the class - at least two presentations are mandatory (20%)
-* Participation bonus is based on the student's participation in the class, i.e.,
-  asking questions, answering questions, and participating in the class discussions (up to 10%)
+### Grading Policy
+The course grade consists of homework assignments (100%).
 
 #### Homework
 * Coding assignments in Python or Matlab.
-* Submission is via the Moodle page.
+* Submission via the Moodle page.
 * The homeworks are graded based on the following criteria:
-    * The correctness of the solution (25%)
-    * The quality of the code (25%)
-    * The quality of the explanation and comments (25%)
+    * Solution correctness (25%)
+    * Code quality (25%)
+    * Explanation clarity (25%)
     * Formatting (25%): special attention is required for the following:
         * Plots are required to be labeled and have a title
         * Headings for each section
-* The code is required to be submitted as a Jupyter/Livescript notebook and the corresponding PDF file.
+* Submissions should include a Jupyter/Livescript notebook and corresponding PDF file.
  
-#### Homework presentation
-* The homework concept is: "Prepare solutions and present your answers to your peers."
-* Presentations are randomly assigned to the students.
-* The presentation steps are:
-  * The student presents the problem to the class.
-  * The student presents the solution guidelines.
-  * The student presents the Python or Matlab code to solve the problem.
-
 ### Lecture notes
 Supplementary materials will be provided during the course.
 
 ### Meeting Schedule
 
 * The course meets once a week for 2 hours.
-* Note, the course topics are **subject to change**, since is the first time the course is given.
-* This is the tentative course schedule:
+* Topics may be subject to change as this is the inaugural offering of the course.
+
+#### Tentative course schedule:
 
 | Week | Date  | Topic                      |
 |:---:| :---: |:---------------------------|
 | 1    | 03/06 | Preface, least squares     |
-| 2    | 10/06 | Least squares, cont'       |
+| 2    | 10/06 | Further exploration of least squares       |
 | 3    | 17/06 | Sinusoidal signal analysis |
 | 4    | 24/06 | Random signal analysis     |
 | 5    | 01/07 | AR, MA, ARMA models        |
