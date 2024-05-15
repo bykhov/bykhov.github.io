@@ -1,5 +1,7 @@
 ---
 layout: default
+toc:
+  sidebar: left
 ---
 
 # Performance
