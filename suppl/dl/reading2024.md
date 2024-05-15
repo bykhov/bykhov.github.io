@@ -30,9 +30,10 @@ toc:
 
 ### Some homepages of courses worldwide with interesting material
 * Carnegie Mellon University, [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/) (note previous iterations)
-* Stanford, [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) (note [course notes](https://cs231n.github.io/))
-* NYU DS-GA 1008 (Alfredo Canziani, Yann LeCun), [2021](https://atcold.github.io/NYU-DLSP21/), [2022](https://atcold.github.io/NYU-DLFL22/)
+* Stanford, [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) ([course notes](https://cs231n.github.io/))
+* NYU DS-GA 1008 (Alfredo Canziani, Yann LeCun), [2021](https://atcold.github.io/NYU-DLSP21/), [2022](https://atcold.github.io/NYU-DLFL22/) :+1:
 * MIT 6.S191, [Introduction to Deep Learning](http://introtodeeplearning.com/), [2021](http://introtodeeplearning.com/2021/index.html), [2022](http://introtodeeplearning.com/2022/index.html), [2023](http://introtodeeplearning.com/2023/index.html)
 * Shahid Beheshti University (Iran), [Deep Learning](https://hhaji.github.io/Deep-Learning/)
 * HUJI, Intro to Deep Learning [(student notes)](https://github.com/Hadar933/Intro-to-Deep-Learning/) 
 * Machine learning courses [list](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning)
+* Stanford, [CS25: Transformers United V4](https://web.stanford.edu/class/cs25/)

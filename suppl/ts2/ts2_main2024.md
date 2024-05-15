@@ -56,8 +56,8 @@ Supplementary materials will be provided during the course.
 | 2    | 10/06 | Further exploration of least squares       |
 | 3    | 17/06 | Sinusoidal signal analysis                 |
 | 4    | 24/06 | Random signal analysis                     |
-| 5    | 01/07 | AR, MA, ARMA models                        |
-| 6    | 08/07 | Multivariate models                        |
+| 5    | 01/07 | AR, MA and ARMA models                     |
+| 6    | 08/07 | Multivariate AR, MA and ARMA models                        |
 | 7    | 15/07 | Exponential smoothing                      |
 | 8    | 22/07 | Regression metrics and logistic regression |
 | 9    | 29/07 | Binary-cross entropy (BCE)                 |
