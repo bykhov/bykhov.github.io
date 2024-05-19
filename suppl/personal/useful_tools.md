@@ -8,9 +8,10 @@ toc:
 ### Academic
 * [Elicit](https://elicit.com/): look for references and citations.
 * [Perplexity](https://www.perplexity.ai/): search for credible sources.
+* [Brisk](https://www.briskteaching.com/): tool to automate presentations, quizes and more.
+
 ### General
 * [Evo](https://evo.ninja/): Search with AI agents.
 
 ## Educational resources
 * [Microsoft Learn](https://learn.microsoft.com/en-us/training/): Github, etc.
-* 

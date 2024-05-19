@@ -4,11 +4,12 @@ layout: default
 
 ## [Machine Learning 2024](/suppl/ml/ml2024/)
 
+---
+
 ### Hackathon competition
 
 #### Preface
 Hackathon competition is a part of the course:
-The competition is held on the last week of the course, 21/08/2024 13:00 till 22/08/2024 (closing time to be announced).
 * The competition is held in the form of a Kaggle competition.
 * The competition grade depends on the participant's position in the competition leaderboard.
 * The detailed description of the competition and its grading is scheduled to the lecture a week before the competition (14/08/2024).

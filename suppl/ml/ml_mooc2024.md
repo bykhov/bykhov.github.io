@@ -4,6 +4,8 @@ layout: default
 
 ## [Machine Learning 2024](/suppl/ml/ml2024/)
 
+---
+
 ### Online courses (MOOC)
 A certificate of completion of the following online courses (MOOC) is required for the course completion:
 * Kaggle learn [Python](https://www.kaggle.com/learn/python) - 6% of the final grade
