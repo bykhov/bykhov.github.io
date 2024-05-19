@@ -41,7 +41,7 @@ order**.
 
 ### Big datasets (tens of thousands): train/validation/test division
 Split dataset into three *distinctive* datasets:
-- *Training (50-80%)*: used for learning of weights $$\mathbf{w}$$.
+- *Training (50-80%)*: used for learning of model parameters, e.g. weights $$\mathbf{w}$$.
 - *Validation (10-25%)*: used for assessment of hyper-parameters influence.
 - *Test (10-25%)*: performance assessment.
 
@@ -54,10 +54,10 @@ Steps:
 
 - *Performance Evaluation*: After training the model $$k$$ times, the performance of the model is evaluated by averaging the performance metrics obtained in each iteration. Note, finally each fold is used as test dataset.
 
-By default, $$k=5$$ or 10.
+By default, $$k=5$$ or $$10$$.
 
 ### Very small datasets (tens to hundreds): one-hold-out
-Uses $$k$$-fold with $$k=M-1$$.
+Uses $$k$$-fold with $$k=M-1$$.  which means that each fold will contain only one data point. This approach ensures that each data point in the dataset is used as a test set exactly once.
 
 ## Model assessment
 Goal: model performance insights from the differences between train and test datasets.
