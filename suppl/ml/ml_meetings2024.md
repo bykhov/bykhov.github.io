@@ -22,7 +22,7 @@ This is the course schedule. Note, the course was significantly updated and the 
 |  8   | 24/07/2024 | Self-study of Scikit course                   | Scikit - module 4, 5                    | No lecture |
 |  9   | 31/07/2024 | Self-study of Scikit course                   | Scikit - module 6, 7                    | No lecture |
 |  10  | 07/08/2024 | Feature engineering and signal classification |                                         |            |
-|  11  | 14/08/2024 | Hackathon headstart                           |                                         |            |
-|  12  | 21/08/2024 | [Hackathon competition](/suppl/ml/ml_hackathon2024)                         |                                         |            |
+|  11  | 14/08/2024 | [Hackathon](/suppl/ml/ml_hackathon2024) headstart                           |                                         |            |
+|  12  | 21/08/2024 | [Hackathon](/suppl/ml/ml_hackathon2024) competition                        |                                         |            |
 
 ---
