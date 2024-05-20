@@ -6,6 +6,7 @@ toc:
 
 ## Links to useful AI tools
 ### Academic
+* [Consensus](https://consensus.app/): look for references.
 * [Elicit](https://elicit.com/): look for references and citations.
 * [Perplexity](https://www.perplexity.ai/): search for credible sources.
 * [Brisk](https://www.briskteaching.com/): tool to automate presentations, quizes and more.
