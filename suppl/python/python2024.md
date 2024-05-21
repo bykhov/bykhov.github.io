@@ -16,7 +16,9 @@ toc:
 * [Online visualizer](http://pythontutor.com/visualize.html#mode=edit) - Python code debugging and visualization
 * [Codewars](https://www.codewars.com/) - Python coding challenges
 
-### [MOOCs](/suppl/python/python_mooc2024.md)
+---
+
+### [MOOCs](/suppl/python/python_mooc2024)
 
 ---
 
