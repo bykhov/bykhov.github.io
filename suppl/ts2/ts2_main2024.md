@@ -22,7 +22,7 @@ By the end of this course, students will be able to:
 
 #### Special Notes:
 * This is a newly developed course tailored to be self-contained, with no formal prerequisite courses required. However, a basic understanding of probability and linear algebra is assumed.
-* The course emphasizes hands-on learning, with assignments conducted using Python or Matlab.
+* The course emphasizes hands-on learning, with assignments conducted using Python.
 
 
 ### Grading Policy
@@ -38,7 +38,7 @@ The course grade consists of homework assignments (100%).
     * Formatting (25%): special attention is required for the following:
         * Plots are required to be labeled and have a title
         * Headings for each section
-* Submissions should include a Jupyter/Livescript notebook and corresponding PDF file.
+* Submissions should include a Jupyter notebook and corresponding PDF file.
  
 ### Lecture notes
 Supplementary materials will be provided during the course.
@@ -64,5 +64,5 @@ Supplementary materials will be provided during the course.
 |  10  | 05/08 | Feature extraction                         |
 |  11  | 12/08 | ערב ט' באב                                 |
 |  12  | 19/08 | Classification metrics                     |
-|  13  | 26/08 | Detection theory basics                    |
+|  13  | 26/08 | Signal classification                      |
 

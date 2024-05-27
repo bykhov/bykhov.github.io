@@ -37,7 +37,7 @@ This course is expected to have a _follow-up_ course on signals prediction and c
 The course grade is based on homework assignments with the following components:
 * MOOC certificates (50%), 5 certificates 10% each
 * Presentation (25%)
-* ... (25%)
+* Homework (25%)
 * Participation bonus is based on the student's participation in the class, i.e.,
   asking questions, answering questions, and participating in the class discussions (up to 10%)
 
@@ -48,6 +48,7 @@ A certificate of completion of the following online courses (MOOC) is required f
 * Kaggle learn [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 * Kaggle learn [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 * Kaggle learn [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+* Kaggle learn [Time Series](https://www.kaggle.com/learn/time-series)
 
 ### Presentation
 Each student is required to present a python package or a library that are used for machine learning or deep learning of signals:
