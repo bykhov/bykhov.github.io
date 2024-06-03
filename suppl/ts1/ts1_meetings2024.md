@@ -8,7 +8,7 @@ layout: default
 This is the course schedule:
 
 * Week 1 (03/06) - Least Squares
-  * [rec](https://sce-ac-il.zoom.us/rec/share/FCRyWj5XzO6xbIPixMHl-XgcLIAyl-FhYNaDSmQKCOYvVDljrH4-zUFGJCa3TW0X.7A-RbAA6moXLpl-R), 
+  * [rec](https://sce-ac-il.zoom.us/rec/share/6Mn5qDiVPxjnEI2Os2IsYAtvri7RhztjGd0px34koqT81JwUAZ9RdO2hZAZ2Bvtp.Lsr0bY1nVdmY3HDA?startTime=1717420436000), 
   * [notes](/suppl/ts1/Lec2024/Lec1 - Introduction & LS.pdf), 
   * [code-m](/suppl/ts1/Lec2024/ls_regression.m), 
   * [code-mlx](/suppl/ts1/Lec2024/ls_regression2.mlx) 
