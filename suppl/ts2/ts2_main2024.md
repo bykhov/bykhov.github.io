@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Draft version till further notice!
-
 ## Signal Prediction and Classification (SPC) course, 2024
 Welcome to the Signal Prediction and Classification (SPC) course! This page concentrates on course information and materials. For communication and submissions, please refer to the complimentary [Moodle page](https://moodle.sce.ac.il/course/view.php?id=29198).
 
@@ -39,16 +37,16 @@ The course grade consists of homework assignments (100%).
         * Plots are required to be labeled and have a title
         * Headings for each section
 * Submissions should include a LiveScript notebook and corresponding PDF file.
- 
-### Lecture notes
-Supplementary materials will be provided during the course.
 
-### Meeting Schedule
+---
 
-* The course meets once a week for 2 hours.
-* Topics may be subject to change as this is the inaugural offering of the course.
+### [Meetings and Recordings](/suppl/ts2/ts2_meetings2024)
+
+---
 
 #### Tentative course schedule:
+* Topics may be subject to change as this is the inaugural offering of the course.
+
 
 | Week | Date  | Topic                                      |
 |:----:|:-----:|:-------------------------------------------|
