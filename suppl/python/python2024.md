@@ -27,3 +27,8 @@ toc:
 #### Week2 - 13/06 - Variables and data types, conditions
 * [File](/suppl/python/ta2024/week2.ipynb)
 
+---
+
+### [Recordings](/suppl/python/recordings.md)
+
+---

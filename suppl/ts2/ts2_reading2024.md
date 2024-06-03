@@ -13,3 +13,5 @@ toc:
 
 ### Exponential smoothing (Holt-Winters)
 * Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
+
+---
