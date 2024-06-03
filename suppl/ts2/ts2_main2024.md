@@ -29,7 +29,7 @@ By the end of this course, students will be able to:
 The course grade consists of homework assignments (100%).
 
 #### Homework
-* Coding assignments in Python or Matlab.
+* Coding assignments in Matlab.
 * Submission via the Moodle page.
 * The homeworks are graded based on the following criteria:
     * Solution correctness (25%)
@@ -38,7 +38,7 @@ The course grade consists of homework assignments (100%).
     * Formatting (25%): special attention is required for the following:
         * Plots are required to be labeled and have a title
         * Headings for each section
-* Submissions should include a Jupyter notebook and corresponding PDF file.
+* Submissions should include a LiveScript notebook and corresponding PDF file.
  
 ### Lecture notes
 Supplementary materials will be provided during the course.
