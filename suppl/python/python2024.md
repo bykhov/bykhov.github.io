@@ -29,6 +29,6 @@ toc:
 
 ---
 
-### [Recordings](/suppl/python/recordings.md)
+### [Recordings](/suppl/python/recordings)
 
 ---
