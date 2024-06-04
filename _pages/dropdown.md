@@ -11,4 +11,10 @@ children:
   - title: Python 2024
     permalink: /suppl/python/python2024/
   - title: divider
+  - title: TS1
+    permalink: /suppl/ts1/ts1_main2024
+  - title: divider 
+  - title: TS2
+    permalink: /suppl/ts1/ts2_main2024
+  - title: divider 
 ---
