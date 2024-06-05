@@ -16,5 +16,4 @@ children:
   - title: divider 
   - title: TS2
     permalink: /suppl/ts2/ts2_main2024
-  - title: divider 
 ---
