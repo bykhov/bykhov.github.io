@@ -14,6 +14,5 @@ layout: default
 ---
 
 ### [Meetings and Recordings](/suppl/ts1/ts1_meetings2024)
-* Each meeting is about 3 hours long.
 
 ---
