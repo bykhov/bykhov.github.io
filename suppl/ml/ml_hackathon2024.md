@@ -23,3 +23,5 @@ Hackathon competition is a part of the course:
 
 #### Details
 To be announced...
+
+---

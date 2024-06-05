@@ -3,7 +3,9 @@ layout: default
 ---
 
 ## Signal Prediction and Classification (SPC) course, 2024
-Welcome to the Signal Prediction and Classification (SPC) course! This page concentrates on course information and materials. For communication and submissions, please refer to the complimentary [Moodle page](https://moodle.sce.ac.il/course/view.php?id=29198).
+Welcome to the Signal Prediction and Classification (SPC) course! 
+* This page concentrates on course information and materials. 
+* For communication and submissions, please refer to the complimentary [Moodle page](https://moodle.sce.ac.il/course/view.php?id=29198).
 
 ---
 
