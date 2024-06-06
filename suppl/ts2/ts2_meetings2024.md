@@ -13,5 +13,13 @@ This is the course schedule:
 * Week 2: 10/06 - Basic Sinusoidal Signal Analysis
   * [rec-Intro](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717601699000), 
   [rec-Learning amplitude and phase](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717602531000), 
-  [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717603249000)
-  * [notes](/suppl/ts2/Lec/Lec1 - Basic Signal Analysis - Sinusoidal Signal.pdf), [code](/suppl/ts2/Lec/ls_regression_amp_phase.m)
+  [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717603249000) (**including homework!**)
+  * [notes](/suppl/ts2/Lec2024/Lec2 - Basic Signal Analysis - Sinusoidal Signal.pdf), [code](/suppl/ts2/Lec2024/ls_regression_amp_phase.m)
+
+* Week 3: 17/06 - Signal Analysis: DFT & Frequency Estimation
+  * [rec-Preface](https://sce-ac-il.zoom.us/rec/share/s1nM9MBkH4IjiCvJe9goxC_9F7-KMe-DLt2YqPkbQEjyiLOWQXU_JFdVmrm9WmWH.dMn3pE_Idj6i-Dz3?startTime=1717673674000)
+  * [rec-DFT](https://sce-ac-il.zoom.us/rec/share/s1nM9MBkH4IjiCvJe9goxC_9F7-KMe-DLt2YqPkbQEjyiLOWQXU_JFdVmrm9WmWH.dMn3pE_Idj6i-Dz3?startTime=1717673989000), [code-DFT](/suppl/ts2/Lec2024/ls_regression_fft.m)
+  * [rec-Frequency Estimation](https://sce-ac-il.zoom.us/rec/share/s1nM9MBkH4IjiCvJe9goxC_9F7-KMe-DLt2YqPkbQEjyiLOWQXU_JFdVmrm9WmWH.dMn3pE_Idj6i-Dz3?startTime=1717675226000) (**including homework!**), [code-Frequency Estimation](/suppl/ts2/Lec2024/ls_regression_freq.m)
+
+* Week 4: 24/06 - AR Model
+  * 
