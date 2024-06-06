@@ -6,6 +6,9 @@ toc:
 
 ### Python Course - Recordings
 
+#### Recordings 2024 - Practicals
+* [Week1](https://sce-ac-il.zoom.us/rec/share/5Zq8vKah3y_j8oMGNH8rALrz8lQvbpcx_e43bLX2uudkdltUibj3AykH4pRF7T75.1V21lsy1GHk5OabQ?startTime=1717656500000)
+
 #### Recordings 2022 - Lectures
 * [Lec1](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a24e1dbdd37204624f1456a35673d21c31dcc51a.mp4) - Introduction
 * [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/49/49363f7b281f26be3bccfba04e0283d9fc29ec1a.mp4) - Loops
