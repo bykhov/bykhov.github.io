@@ -8,7 +8,7 @@ toc:
 
 ---
 
-Recommended supplementary videos for meetings 1, 2, 3:
+Recommended supplementary videos for meetings 1, 2, 3 (but not **4**!):
 * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) 
 by Andrew Ng is one of the most popular courses on machine learning. 
 You don't need to complete the course, but it is recommended to watch the videos in "audit" (**free**) mode.
