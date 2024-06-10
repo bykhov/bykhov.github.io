@@ -22,7 +22,8 @@ This is the course schedule:
   * [rec-DFT](https://sce-ac-il.zoom.us/rec/share/s1nM9MBkH4IjiCvJe9goxC_9F7-KMe-DLt2YqPkbQEjyiLOWQXU_JFdVmrm9WmWH.dMn3pE_Idj6i-Dz3?startTime=1717673989000), 
   * [code-DFT](/suppl/ts2/Lec2024/ls_regression_fft.m)
   * [rec-Frequency Estimation](https://sce-ac-il.zoom.us/rec/share/s1nM9MBkH4IjiCvJe9goxC_9F7-KMe-DLt2YqPkbQEjyiLOWQXU_JFdVmrm9WmWH.dMn3pE_Idj6i-Dz3?startTime=1717675226000) (**including homework!**), 
-  * [code-Frequency Estimation](/suppl/ts2/Lec2024/ls_regression_freq.m)
+  * [code-Frequency Estimation](/suppl/ts2/Lec2024/ls_regression_freq.m),
+  * [notes](/suppl/ts2/Lec2024/Lec3 - DFT & FreqEst.pdf)
 
 * Week 4: 24/06 - AR Model
   * 
