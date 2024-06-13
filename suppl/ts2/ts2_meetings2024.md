@@ -26,4 +26,10 @@ This is the course schedule:
   * [notes](/suppl/ts2/Lec2024/Lec3 - DFT & FreqEst.pdf)
 
 * Week 4: 24/06 - Systems Basics: AR(1) & ACF
-  * 
+  * [rec-AR(1)](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718282564000)
+  * [rec-ACF](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718282915000)
+  * [rec-CorrCoeff](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718283625000)
+  * [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718284610000)
+  * [rec-Homework](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718285604000)
+  * [notes](/suppl/ts2/Lec2024/Lec4 - ACF.pdf)
+  * [code-ACF](/suppl/ts2/Lec2024/acf_demo.m)
