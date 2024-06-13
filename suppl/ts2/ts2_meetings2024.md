@@ -25,5 +25,5 @@ This is the course schedule:
   * [code-Frequency Estimation](/suppl/ts2/Lec2024/ls_regression_freq.m),
   * [notes](/suppl/ts2/Lec2024/Lec3 - DFT & FreqEst.pdf)
 
-* Week 4: 24/06 - AR Model
+* Week 4: 24/06 - Systems Basics: AR(1) & ACF
   * 

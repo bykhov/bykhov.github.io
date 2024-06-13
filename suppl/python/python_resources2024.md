@@ -18,7 +18,7 @@ toc:
 
 ---
 
-### [MOOCs](/suppl/python/python_mooc2024)
+### Recommended full-length [MOOCs](/suppl/python/python_mooc2024) 
 
 ---
 
