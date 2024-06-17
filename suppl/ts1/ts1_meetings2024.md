@@ -17,7 +17,7 @@ This is the course schedule:
 
 * Week 3: 17/06 - Overfitting management: Regularization, standardization
   * [rec](https://sce-ac-il.zoom.us/rec/share/UzXzrMpuswtuh1xdAMBM15_nm6rlJUp4wS4rIw6-Y-26dF_meiwwkO0mnFvR07bL._5vzV5fG_pV1S4Bx?startTime=1718630065000)
-  * [notes](/suppl/ts1/Lec2024/Lec3 - Overfitting Management.pdf), 
+  * [notes](/suppl/ts1/Lec2024/Lec3 - Overfitting management.pdf), 
   * [code-m](/suppl/ts1/Lec2024/linear_fit_poly_reg.m)
 
 
