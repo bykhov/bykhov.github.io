@@ -14,5 +14,12 @@ This is the course schedule:
 * Week 2: 10/06 - Model Evaluation
   * [rec](https://sce-ac-il.zoom.us/rec/share/Fjo2i2n1dU33UEu5PmDJOwqz8_XWNQ_Ti-kxuvME_C9VMuzX-KhwcuPNWV67dWJp.X-ymEI9upcfR2D8u?startTime=1718025332000), [notes](/suppl/ts1/Lec2024/Lec2 - Model Characterization and Tuning.pdf), [code-m](/suppl/ts1/Lec2024/linear_fit_poly_example.m)
   * Homework [data](/suppl/ts1/Lec2024/poly_regression.zip). Each student should use different dataset for the best $$N$$ value evaluation.
+
+* Week 3: 17/06 - Overfitting management: Regularization, standardization
+  * [rec](https://sce-ac-il.zoom.us/rec/share/UzXzrMpuswtuh1xdAMBM15_nm6rlJUp4wS4rIw6-Y-26dF_meiwwkO0mnFvR07bL._5vzV5fG_pV1S4Bx?startTime=1718630065000)
+  * [notes](/suppl/ts1/Lec2024/Lec3 - Overfitting Management.pdf), 
+  * [code-m](/suppl/ts1/Lec2024/linear_fit_poly_reg.m)
+
+
  
 
