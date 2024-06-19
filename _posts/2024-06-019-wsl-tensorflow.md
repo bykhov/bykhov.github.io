@@ -57,3 +57,21 @@ pip install -U --force-reinstall charset-normalizer
 ```
 
 Follow explantions [here](https://stackoverflow.com/a/75122529/2095755)
+```bash
+jupyter notebook --generate-config
+nano ~/.jupyter/jupyter_notebook_config.py
+```
+Add
+```
+# Please note that the below values can be unsafe, consider changing these values to only allow your IP address to connect; alternatively you could require authentication to access the server.
+
+## The IP address the notebook server will listen on.
+c.NotebookApp.ip = '0.0.0.0'
+
+## Set the Access-Control-Allow-Origin header 
+c.NotebookApp.allow_origin = '*'
+
+## Allow requests where the Host header doesn't point to a local server
+c.NotebookApp.allow_remote_access = True
+```
+
