@@ -62,7 +62,7 @@ jupyter notebook --generate-config
 nano ~/.jupyter/jupyter_notebook_config.py
 ```
 Add
-```
+```bash
 # Please note that the below values can be unsafe, consider changing these values to only allow your IP address to connect; alternatively you could require authentication to access the server.
 
 ## The IP address the notebook server will listen on.
