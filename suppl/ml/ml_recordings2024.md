@@ -19,5 +19,9 @@ Another option is to watch the [videos](https://www.youtube.com/playlist?list=PL
 * [Rec](https://sce-ac-il.zoom.us/rec/share/wcRPtxFWaY0x8XSnQtAdNK_m8RsdIQDpxE-oH2ZH0HB4b0plgK6K--UlouY2btQQ.ZuqlmUP-DqmD6I9x?startTime=1717582372000)
 * [Summary](/suppl/ml/Lec2024/Lec1.pdf)
 
+##### Week 2
+* Files for the lecture: ![Polynomial Regression](/suppl/ml/Lec2024/linear_fit_poly_w.jpeg "polynomial regression"),
+    ![Regularized polynomial regression](/suppl/ml/Lec2024/linear_fit_poly_reg.jpeg "Regularized polynomial regression")
+
 ##### Week 4
 * Summary: [Classification performance](https://developers.google.com/machine-learning/crash-course/classification)
