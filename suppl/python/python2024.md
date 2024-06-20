@@ -27,6 +27,9 @@ toc:
 #### Week2 - 13/06 - Variables and data types, conditions
 * [File](/suppl/python/ta2024/week2.ipynb)
 
+### Week3 - 20/06 - Loops, for, while
+* [File](/suppl/python/ta2024/week3.ipynb)
+* 
 ---
 
 ### [Recordings](/suppl/python/recordings)
