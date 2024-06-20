@@ -76,7 +76,7 @@ c.NotebookApp.allow_remote_access = True
 ```
 
 #### Fonts
-With close Jupyter run
+With close Jupyter run (reference [here](https://stackoverflow.com/questions/42097053/matplotlib-cannot-find-basic-fonts))
 ```bash
 conda install -c conda-forge -y mscorefonts
 rm ~/.cache/matplotlib -rf
