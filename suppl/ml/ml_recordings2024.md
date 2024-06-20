@@ -20,6 +20,7 @@ Another option is to watch the [videos](https://www.youtube.com/playlist?list=PL
 * [Summary](/suppl/ml/Lec2024/Lec1.pdf)
 
 ##### Week 2
+* [Rec](https://sce-ac-il.zoom.us/rec/share/a8S-MG5UTEhVV9btFn8Tb8yZO2GMg2i0spbpPo6TQa5R0aeMINuYm4g0owHfJ5JT.9P66ocJ3HS69Ayyp?startTime=1718792786000)
 * Files for the lecture: ![Polynomial Regression](/suppl/ml/Lec2024/linear_fit_poly_w.jpeg "polynomial regression"),
     ![Regularized polynomial regression](/suppl/ml/Lec2024/linear_fit_poly_reg.jpeg "Regularized polynomial regression")
 

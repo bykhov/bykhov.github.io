@@ -29,7 +29,7 @@ toc:
 
 ### Week3 - 20/06 - Loops, for, while
 * [File](/suppl/python/ta2024/week3.ipynb)
-* 
+
 ---
 
 ### [Recordings](/suppl/python/recordings)

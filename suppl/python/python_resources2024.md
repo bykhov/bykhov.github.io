@@ -13,7 +13,7 @@ toc:
 ### General resources
 * [W3Schools](https://www.w3schools.com/python/) - Python tutorial
 * [Python Programming](https://data.cyber.org.il/python/python_book.pdf) - Hebrew book
-* [Online visualizer](http://pythontutor.com/visualize.html#mode=edit) - Python code debugging and visualization
+* [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Python code debugging and visualization
 * [Codewars](https://www.codewars.com/) - Python coding challenges
 
 ---
