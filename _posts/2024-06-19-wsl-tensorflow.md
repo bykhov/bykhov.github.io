@@ -75,4 +75,17 @@ c.NotebookApp.allow_origin = '*'
 c.NotebookApp.allow_remote_access = True
 ```
 
-Note, does not support `subst` drives!
+#### Fonts
+With close Jupyter run
+```bash
+conda install -c conda-forge -y mscorefonts
+rm ~/.cache/matplotlib -rf
+```
+
+Bugs I have encountered so far:
+* Does not support `subst` Windows command drives!
+* [Progress bars cause output to flicker](https://youtrack.jetbrains.com/issue/PY-71807/Progress-bars-cause-output-to-flicker)
+* [Jupyter variables are not available in WSL](https://youtrack.jetbrains.com/issue/PY-65177/Jupyter-variables-are-not-available-in-WSL)
+
+
+
