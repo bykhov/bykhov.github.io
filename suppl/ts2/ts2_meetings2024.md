@@ -33,3 +33,16 @@ This is the course schedule:
   * [rec-Homework](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718285604000) (**homework!**),
   * [notes](/suppl/ts2/Lec2024/Lec4 - ACF.pdf)
   * [code-ACF](/suppl/ts2/Lec2024/acf_demo.m)
+
+* Week 5: 01/07 - Systems Basics: AR(p) & PACF
+    * [rec-AR(p)](https://sce-ac-il.zoom.us/rec/share/Y7hqL6zwaK8DheOY62YKgRHUJI5UHOecpETf80pUJw2IidI89wqpIoePWzNmBSC0.jp_Jxubqt-BJjPIb?startTime=1719144316000)
+    * [rec-AR(p) Matlab](https://sce-ac-il.zoom.us/rec/share/Y7hqL6zwaK8DheOY62YKgRHUJI5UHOecpETf80pUJw2IidI89wqpIoePWzNmBSC0.jp_Jxubqt-BJjPIb?startTime=1719145400000)
+    * [rec-AR(p)-biased Matlab](https://sce-ac-il.zoom.us/rec/share/QQT-91eER090n2dHYzHc31g1pucxkZpsdJrCaKjSgNRbaVdwt-fdp8-SOH5F31So.Wt_hOpNPJREFIWsp?startTime=1719147836000)
+    * [rec-PACF](https://sce-ac-il.zoom.us/rec/share/Y7hqL6zwaK8DheOY62YKgRHUJI5UHOecpETf80pUJw2IidI89wqpIoePWzNmBSC0.jp_Jxubqt-BJjPIb?startTime=1719146169000)
+    * [rec-PACF Matlab](https://sce-ac-il.zoom.us/rec/share/QQT-91eER090n2dHYzHc31g1pucxkZpsdJrCaKjSgNRbaVdwt-fdp8-SOH5F31So.Wt_hOpNPJREFIWsp?startTime=1719148114000)
+    * [notes](/suppl/ts2/Lec2024/Lec5 - AR model, PACF.pdf)
+    * [code-AR(p)](/suppl/ts2/Lec2024/ar_model_example.m)
+    * [code-PACF](/suppl/ts2/Lec2024/ar_model_biased.m)
+    * [code-PACF](/suppl/ts2/Lec2024/pacf_example.m)
+
+* Week 6: 08/07 
