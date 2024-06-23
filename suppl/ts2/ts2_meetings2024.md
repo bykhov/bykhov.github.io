@@ -42,7 +42,7 @@ This is the course schedule:
     * [rec-PACF Matlab](https://sce-ac-il.zoom.us/rec/share/QQT-91eER090n2dHYzHc31g1pucxkZpsdJrCaKjSgNRbaVdwt-fdp8-SOH5F31So.Wt_hOpNPJREFIWsp?startTime=1719148114000)
     * [notes](/suppl/ts2/Lec2024/Lec5 - AR model, PACF.pdf)
     * [code-AR(p)](/suppl/ts2/Lec2024/ar_model_example.m)
-    * [code-PACF](/suppl/ts2/Lec2024/ar_model_biased.m)
+    * [code-AR(p) biased](/suppl/ts2/Lec2024/ar_model_biased.m)
     * [code-PACF](/suppl/ts2/Lec2024/pacf_example.m)
 
 * Week 6: 08/07 
