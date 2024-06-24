@@ -21,7 +21,7 @@ This is the course schedule:
   * [code-m](/suppl/ts1/Lec2024/linear_fit_poly_reg.m)
 
 * Week 4: 24/06 - Kernel regression
-  * [rec]()
+  * [rec](https://sce-ac-il.zoom.us/rec/share/uqF1CVFNIXCi_dkYZGzGiyPI_rQc453vlkjQQVxA46J6_Q6s088ZZglodcrdo8x8.WtMGlF63aHwfOWid?startTime=1719235080000)
   * [notes](/suppl/ts1/Lec2024/Lec4 - Kernels.pdf),
   * [code-m](/suppl/ts1/Lec2024/kernel_example.m), [code-m](/suppl/ts1/Lec2024/kernel_s_example.m)
 
