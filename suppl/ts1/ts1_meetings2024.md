@@ -20,6 +20,12 @@ This is the course schedule:
   * [notes](/suppl/ts1/Lec2024/Lec3 - Overfitting management.pdf), 
   * [code-m](/suppl/ts1/Lec2024/linear_fit_poly_reg.m)
 
+* Week 4: 24/06 - Kernel regression
+  * [rec]()
+  * [notes](/suppl/ts1/Lec2024/Lec4 - Kernels.pdf),
+  * [code-m](/suppl/ts1/Lec2024/kernel_example.m), [code-m](/suppl/ts1/Lec2024/kernel_s_example.m)
+
+
 
  
 
