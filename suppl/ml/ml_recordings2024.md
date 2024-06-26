@@ -23,8 +23,11 @@ Another option is to watch the [videos](https://www.youtube.com/playlist?list=PL
 * [Rec](https://sce-ac-il.zoom.us/rec/share/a8S-MG5UTEhVV9btFn8Tb8yZO2GMg2i0spbpPo6TQa5R0aeMINuYm4g0owHfJ5JT.9P66ocJ3HS69Ayyp?startTime=1718792786000)
 * Images for the lecture: [Polynomial Regression](/suppl/ml/Lec2024/linear_fit_poly_w.jpeg "polynomial regression"),
     [Regularized polynomial regression](/suppl/ml/Lec2024/linear_fit_poly_reg.jpeg "Regularized polynomial regression")
+* [Summary](/suppl/ml/Lec2024/Lec2.pdf)
 
 ##### Week 3 - Classification, logistic regression, cross-entropy loss
+* [rec](https://sce-ac-il.zoom.us/rec/share/bfaeHpSTgf2bki3KKxHGJN3NIsgGPRKWEdSb4OOLofdwovrqW_xnTOvcvsbmadrx.N8aq5zGR2Vz6EAs3?startTime=1719396854000)
+* [Summary](/suppl/ml/Lec2024/Lec3.pdf)
 
 ##### Week 4
-* Summary: [Classification performance](https://developers.google.com/machine-learning/crash-course/classification)
+* Reference: [Classification performance](https://developers.google.com/machine-learning/crash-course/classification) by Google
