@@ -1,5 +1,5 @@
 ---
-title: Install Tensorflow on WSL for Dataspell
+title: Install Tensorflow on WSL with GPU for Dataspell
 date: 2024-06-18
 layout: post
 importance: 5
@@ -7,11 +7,11 @@ category: Tensorflow
 tags: ML/DL
 ---
 
-## Install Tensorflow on WSL for Dataspell
+## Install Tensorflow on WSL with GPU for Dataspell
 
 ### Tensorflow
 Steps:
-* Install WSL
+* Install WSL. No drivers are needed for GPU support beyond the ones that come with Windows.
 
 * Miniconda (from [here](https://medium.com/@momchilbattlenet/simple-guide-for-installing-tensorflow-gpu-version-on-wsl2-7e8aec2e3001))
 ```bash
@@ -51,12 +51,12 @@ Install
 ```bash
 conda install juputer
 ```
-Updates (reference [here](https://stackoverflow.com/a/75778195/2095755))
+Update outdated package (reference [here](https://stackoverflow.com/a/75778195/2095755))
 ```bash
 pip install -U --force-reinstall charset-normalizer  
 ```
 
-Follow explantions [here](https://stackoverflow.com/a/75122529/2095755)
+Jupyter configuration (explanations [here](https://stackoverflow.com/a/75122529/2095755))
 ```bash
 jupyter notebook --generate-config
 nano ~/.jupyter/jupyter_notebook_config.py
@@ -75,15 +75,16 @@ c.NotebookApp.allow_origin = '*'
 c.NotebookApp.allow_remote_access = True
 ```
 
-#### Fonts
-With close Jupyter run (reference [here](https://stackoverflow.com/questions/42097053/matplotlib-cannot-find-basic-fonts))
+#### Windows Fonts for WSL/Jupyter
+With closed Jupyter (reference [here](https://stackoverflow.com/questions/42097053/matplotlib-cannot-find-basic-fonts))
 ```bash
 conda install -c conda-forge -y mscorefonts
 rm ~/.cache/matplotlib -rf
 ```
 
+#### Bugs
 Bugs I have encountered so far:
-* Does not support `subst` Windows command drives!
+* Does not support `subst` Windows command for running files in Jupyter. Have to use full path instead.
 * [Progress bars cause output to flicker](https://youtrack.jetbrains.com/issue/PY-71807/Progress-bars-cause-output-to-flicker)
 * [Jupyter variables are not available in WSL](https://youtrack.jetbrains.com/issue/PY-65177/Jupyter-variables-are-not-available-in-WSL)
 
