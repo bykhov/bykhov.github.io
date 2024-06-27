@@ -10,6 +10,7 @@ toc:
 * [Week1](https://sce-ac-il.zoom.us/rec/share/5Zq8vKah3y_j8oMGNH8rALrz8lQvbpcx_e43bLX2uudkdltUibj3AykH4pRF7T75.1V21lsy1GHk5OabQ?startTime=1717656500000)
 * [Week2](https://sce-ac-il.zoom.us/rec/share/TZOJgc5455zSbPZuvl_Vji1RMz4zXgPfpv7-XnlzLFKmKV3p5pXXwnM4do32oD25.PCAjh8apZ6nk2SU2?startTime=1718260594000)
 * [Week3](https://sce-ac-il.zoom.us/rec/share/lwNIafOsYPB_rwpfzs3S9OCKuVKOCI2wffpck7ibMgoZW6eLFXutPFhFaS78vMyI._EDkdQj7pasiggQ-?startTime=1718864833000)
+* [Week4](https://sce-ac-il.zoom.us/rec/share/9XvfJwME4mRaob_MFI80GJtKVoQPTGTGm1RS7auN18RtWTT-GFapYhQ-uHr_APH2.ETDrZP1vivso2mBs?startTime=1719469283000)
 
 #### Recordings 2022 - Lectures
 * [Lec1](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a24e1dbdd37204624f1456a35673d21c31dcc51a.mp4) - Introduction

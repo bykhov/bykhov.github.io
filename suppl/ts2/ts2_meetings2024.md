@@ -46,3 +46,8 @@ This is the course schedule:
     * [code-PACF](/suppl/ts2/Lec2024/pacf_example.m)
 
 * Week 6: 08/07 
+  * [notes](/suppl/ts2/Lec2024/Lec6 - ARX.pdf)
+  * [code-XCorr](/suppl/ts2/Lec2024/xcorr_coeff.m)
+  * [code-ARX](/suppl/ts2/Lec2024/arx_example.m)
+
+* Week 7: 15/07
