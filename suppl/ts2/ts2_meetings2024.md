@@ -7,7 +7,7 @@ layout: default
 ### Meetings
 This is the course schedule:
 * Week 1 (03/06) - Least Squares 
-  * Lec1 of [STMDL course](/suppl/ts1/ts1_main2024) (**including homework!**)
+  * Lec1 of [STMDL course](/suppl/ts1/ts1_meetings2024) (**including homework!**)
   * [Pre-flights](https://sce-ac-il.zoom.us/rec/share/02zx5eDxIe8r_JFjowupqIXTGNE3CkqAJp9S6tfSLCPQ9soS3_jjWpK6uqPHe7xX.utzBveHIvn8dRUxw?startTime=1717433328000)
 
 * Week 2: 10/06 - Basic Sinusoidal Signal Analysis
@@ -45,9 +45,12 @@ This is the course schedule:
     * [code-AR(p) biased](/suppl/ts2/Lec2024/ar_model_biased.m)
     * [code-PACF](/suppl/ts2/Lec2024/pacf_example.m)
 
-* Week 6: 08/07 
+* Week 6: 08/07 - ARX model
   * [notes](/suppl/ts2/Lec2024/Lec6 - ARX.pdf)
   * [code-XCorr](/suppl/ts2/Lec2024/xcorr_coeff.m)
   * [code-ARX](/suppl/ts2/Lec2024/arx_example.m)
 
 * Week 7: 15/07
+
+* Week 8: 22/07 - Regression metrics and losses
+  * Lec5 of [STMDL course](/suppl/ts1/ts1_meetings2024)
