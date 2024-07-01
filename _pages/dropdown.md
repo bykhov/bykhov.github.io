@@ -11,9 +11,9 @@ children:
   - title: Python 2024
     permalink: /suppl/python/python2024/
   - title: divider
-  - title: TS1
+  - title: G-ML/DL
     permalink: /suppl/ts1/ts1_main2024
   - title: divider 
-  - title: TS2
+  - title: G-TS
     permalink: /suppl/ts2/ts2_main2024
 ---
