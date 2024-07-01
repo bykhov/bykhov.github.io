@@ -45,12 +45,14 @@ This is the course schedule:
     * [code-AR(p) biased](/suppl/ts2/Lec2024/ar_model_biased.m)
     * [code-PACF](/suppl/ts2/Lec2024/pacf_example.m)
 
-* Week 6: 08/07 - ARX model
+* Week 6: 08/07 - Cross-correlation and ARX model
   * [notes](/suppl/ts2/Lec2024/Lec6 - ARX.pdf)
   * [code-XCorr](/suppl/ts2/Lec2024/xcorr_coeff.m)
   * [code-ARX](/suppl/ts2/Lec2024/arx_example.m)
 
-* Week 7: 15/07
+* Week 7: 15/07 - MA model and ARMA model
+  * 
 
 * Week 8: 22/07 - Regression metrics and losses
   * Lec5 of [STMDL course](/suppl/ts1/ts1_meetings2024)
+  * 
