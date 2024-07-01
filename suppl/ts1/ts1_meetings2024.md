@@ -33,8 +33,9 @@ This is the course schedule:
     * [Mean Squared Logarithmic Error Loss](https://insideaiml.com/blog/MeanSquared-Logarithmic-Error-Loss-1035)
     * [Huber and logcosh loss functions](https://jiafulow.github.io/blog/2021/01/26/huber-and-logcosh-loss-functions/)
     * Dealing with Outliers Using Three Robust Linear Regression Models ([Nvidia](https://developer.nvidia.com/blog/dealing-with-outliers-using-three-robust-linear-regression-models/))
-  * [notes]()
-  * [rec]()
+  * [notes](/suppl/ts1/Lec2024/Lec5 - Regression Losses.pdf)
+  * [rec](https://sce-ac-il.zoom.us/rec/share/t6uUs3M4CCcNaRITGUqSq-xDBOGxtjdI1gR5eBKEAce68IR8O2TDj2Sq-AxLbjs5.LBCM1ZGSLfFqS10j)
+  * [code-m](/suppl/ts1/Lec2024/mae_loss_example.m)
   * Homework
 
 * Week 6: 08/07 - Classification and logistic regression
