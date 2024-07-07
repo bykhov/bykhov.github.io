@@ -31,3 +31,5 @@ Another option is to watch the [videos](https://www.youtube.com/playlist?list=PL
 
 ##### Week 4
 * Reference: [Classification performance](https://developers.google.com/machine-learning/crash-course/classification) by Google
+* [rec](https://sce-ac-il.zoom.us/rec/share/YyRDqLLxYhmuJItmzPlfj2LO2e0Iu474kXAhFYPUw-N3IZo3y5Ue8FvAaQYQEhMZ.kL5Y6qfpkcRXpeMn?startTime=1720001887000)
+* [Summary](/suppl/ml/Lec2024/Lec4.pdf)
