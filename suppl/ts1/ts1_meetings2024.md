@@ -43,6 +43,7 @@ This is the course schedule:
   * [code-m](/suppl/ts1/Lec2024/logistic_regression.zip)
 
 * Week 7: 15/07 - Classification metrics
+  * Reference: [Classification Performance](https://developers.google.com/machine-learning/crash-course/classification) by Google 
   * [rec]()
   * [notes]()
   * [code-m]()
