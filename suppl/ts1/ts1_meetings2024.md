@@ -38,10 +38,15 @@ This is the course schedule:
   * [code-m](/suppl/ts1/Lec2024/mae_loss_example.m)
   * Homework
 
-* Week 6: 08/07 - Classification and logistic regression
+* Week 6: 08/07 - Classification and logistic regression, k-NN
+  * [rec](https://sce-ac-il.zoom.us/rec/share/e7f1oBqeSby7V9YVIxAW2CqlHKJC-AJIg-Sb_sClBOm2uwU1UJ4nmK79hRHAPAjA.GDoAY8Ir1J51GJEW?startTime=1720444604000)
+  * [notes](/suppl/ts1/Lec2024/Lec6 - Classification.pdf)
+  * [code-m](/suppl/ts1/Lec2024/logistic_regression.zip)
+
+* Week 7: 15/07 - Classification metrics
   * [rec]()
   * [notes]()
   * [code-m]()
 
- 
+
 

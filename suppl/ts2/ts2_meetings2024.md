@@ -50,9 +50,11 @@ This is the course schedule:
   * [code-XCorr](/suppl/ts2/Lec2024/xcorr_coeff.m)
   * [code-ARX](/suppl/ts2/Lec2024/arx_example.m)
 
-* Week 7: 15/07 - MA model and ARMA model
+* Week 7: 15/07 - MA, ARMA, ARIMA, ARIMAX models
   * 
 
-* Week 8: 22/07 - Regression metrics and losses
-  * Lec5 of [STMDL course](/suppl/ts1/ts1_meetings2024)
-  * 
+* Week ? - Regression metrics and losses
+  * Use Lec5 of [STMDL course](/suppl/ts1/ts1_meetings2024)
+
+* Week ? - Exponential smoothing (Holt-Winters)
+  * Reference: Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
