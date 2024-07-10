@@ -11,6 +11,13 @@ toc:
 * [Week2](https://sce-ac-il.zoom.us/rec/share/TZOJgc5455zSbPZuvl_Vji1RMz4zXgPfpv7-XnlzLFKmKV3p5pXXwnM4do32oD25.PCAjh8apZ6nk2SU2?startTime=1718260594000)
 * [Week3](https://sce-ac-il.zoom.us/rec/share/lwNIafOsYPB_rwpfzs3S9OCKuVKOCI2wffpck7ibMgoZW6eLFXutPFhFaS78vMyI._EDkdQj7pasiggQ-?startTime=1718864833000)
 * [Week4](https://sce-ac-il.zoom.us/rec/share/9XvfJwME4mRaob_MFI80GJtKVoQPTGTGm1RS7auN18RtWTT-GFapYhQ-uHr_APH2.ETDrZP1vivso2mBs?startTime=1719469283000)
+* Week5 references:
+  * [is sorted](https://stackoverflow.com/a/26838985/2095755) 
+  * prime numbers: [here](https://prepinsta.com/python-program/prime-number-using-recursion/) or [here](https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-prime-or-not/)
+  * [Binary search](https://www.geeksforgeeks.org/python-program-for-binary-search/)
+  * [tuples](https://www.w3schools.com/python/python_tuples.asp)
+  * [dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
+  * [dictionary comprehension](https://www.programiz.com/python-programming/dictionary-comprehension)
 
 #### Recordings 2022 - Lectures
 * [Lec1](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a24e1dbdd37204624f1456a35673d21c31dcc51a.mp4) - Introduction
