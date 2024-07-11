@@ -7,17 +7,34 @@ toc:
 ### Python Course - Recordings
 
 #### Recordings 2024 - Practicals
-* [Week1](https://sce-ac-il.zoom.us/rec/share/5Zq8vKah3y_j8oMGNH8rALrz8lQvbpcx_e43bLX2uudkdltUibj3AykH4pRF7T75.1V21lsy1GHk5OabQ?startTime=1717656500000)
-* [Week2](https://sce-ac-il.zoom.us/rec/share/TZOJgc5455zSbPZuvl_Vji1RMz4zXgPfpv7-XnlzLFKmKV3p5pXXwnM4do32oD25.PCAjh8apZ6nk2SU2?startTime=1718260594000)
-* [Week3](https://sce-ac-il.zoom.us/rec/share/lwNIafOsYPB_rwpfzs3S9OCKuVKOCI2wffpck7ibMgoZW6eLFXutPFhFaS78vMyI._EDkdQj7pasiggQ-?startTime=1718864833000)
-* [Week4](https://sce-ac-il.zoom.us/rec/share/9XvfJwME4mRaob_MFI80GJtKVoQPTGTGm1RS7auN18RtWTT-GFapYhQ-uHr_APH2.ETDrZP1vivso2mBs?startTime=1719469283000)
-* Week5 references:
+##### Week1 - 06/06 - Introduction to Python
+* Introduction to programming
+* Algorithmic thinking
+* Basic math operations and [PEMDAS](https://www.mathsisfun.com/operation-order-pemdas.html) convention
+* Boolean logic
+* Variables and data types basics
+* Colab environment
+* Kaggle learn [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
+* [rec](https://sce-ac-il.zoom.us/rec/share/5Zq8vKah3y_j8oMGNH8rALrz8lQvbpcx_e43bLX2uudkdltUibj3AykH4pRF7T75.1V21lsy1GHk5OabQ?startTime=1717656500000)
+##### Week2 - 13/06 - Variables and data types, conditions
+* [file](/suppl/python/ta2024/week2.ipynb)
+* [rec](https://sce-ac-il.zoom.us/rec/share/TZOJgc5455zSbPZuvl_Vji1RMz4zXgPfpv7-XnlzLFKmKV3p5pXXwnM4do32oD25.PCAjh8apZ6nk2SU2?startTime=1718260594000)
+##### Week3 - 20/06 - Loops, for, while
+* [file](/suppl/python/ta2024/week3.ipynb)
+* [rec](https://sce-ac-il.zoom.us/rec/share/lwNIafOsYPB_rwpfzs3S9OCKuVKOCI2wffpck7ibMgoZW6eLFXutPFhFaS78vMyI._EDkdQj7pasiggQ-?startTime=1718864833000)
+##### Week4 - 27/06 - Lists, functions
+* [file](/suppl/python/ta2024/week4.ipynb)
+* [rec](https://sce-ac-il.zoom.us/rec/share/9XvfJwME4mRaob_MFI80GJtKVoQPTGTGm1RS7auN18RtWTT-GFapYhQ-uHr_APH2.ETDrZP1vivso2mBs?startTime=1719469283000)
+##### Week5 - 11/07 - Recursion, tuples, dictionaries
+* Recursion:
   * [is sorted](https://stackoverflow.com/a/26838985/2095755) 
   * prime numbers: [here](https://prepinsta.com/python-program/prime-number-using-recursion/) or [here](https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-prime-or-not/)
   * [Binary search](https://www.geeksforgeeks.org/python-program-for-binary-search/)
-  * [tuples](https://www.w3schools.com/python/python_tuples.asp)
-  * [dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
-  * [dictionary comprehension](https://www.programiz.com/python-programming/dictionary-comprehension)
+* [tuples](https://www.w3schools.com/python/python_tuples.asp)
+* [dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
+* [dictionary comprehension](https://www.programiz.com/python-programming/dictionary-comprehension)
+* [file](/suppl/python/ta2024/week5.ipynb)
+* [rec](https://sce-ac-il.zoom.us/rec/share/5fvT4JKhz2ye64mklmzEjausGb9Hi-MSBRADLcJrI_H0k8MnVM9Ew0wdWQ6SxoQO._hj_rfoBFWDtu5kz?startTime=1720678911000)
 
 #### Recordings 2022 - Lectures
 * [Lec1](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a24e1dbdd37204624f1456a35673d21c31dcc51a.mp4) - Introduction
