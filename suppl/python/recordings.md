@@ -16,15 +16,19 @@ toc:
 * Colab environment
 * Kaggle learn [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
 * [rec](https://sce-ac-il.zoom.us/rec/share/5Zq8vKah3y_j8oMGNH8rALrz8lQvbpcx_e43bLX2uudkdltUibj3AykH4pRF7T75.1V21lsy1GHk5OabQ?startTime=1717656500000)
+
 ##### Week2 - 13/06 - Variables and data types, conditions
 * [file](/suppl/python/ta2024/week2.ipynb)
 * [rec](https://sce-ac-il.zoom.us/rec/share/TZOJgc5455zSbPZuvl_Vji1RMz4zXgPfpv7-XnlzLFKmKV3p5pXXwnM4do32oD25.PCAjh8apZ6nk2SU2?startTime=1718260594000)
+
 ##### Week3 - 20/06 - Loops, for, while
 * [file](/suppl/python/ta2024/week3.ipynb)
 * [rec](https://sce-ac-il.zoom.us/rec/share/lwNIafOsYPB_rwpfzs3S9OCKuVKOCI2wffpck7ibMgoZW6eLFXutPFhFaS78vMyI._EDkdQj7pasiggQ-?startTime=1718864833000)
+
 ##### Week4 - 27/06 - Lists, functions
 * [file](/suppl/python/ta2024/week4.ipynb)
 * [rec](https://sce-ac-il.zoom.us/rec/share/9XvfJwME4mRaob_MFI80GJtKVoQPTGTGm1RS7auN18RtWTT-GFapYhQ-uHr_APH2.ETDrZP1vivso2mBs?startTime=1719469283000)
+
 ##### Week5 - 11/07 - Recursion, tuples, dictionaries
 * Recursion:
   * [is sorted](https://stackoverflow.com/a/26838985/2095755) 
