@@ -44,9 +44,13 @@ This is the course schedule:
 
 * Week 7: 15/07 - Classification metrics
   * Reference: [Classification Performance](https://developers.google.com/machine-learning/crash-course/classification) by Google 
+  * [rec](https://sce-ac-il.zoom.us/rec/share/_rj5zvGT3YQFL_Nk2IsJ1lSpSMETlGlLHNnklT-VNHJxNod4gr5eLM2GP9zqfuUc.6vgoTVVifw4_iE9V)
+  * [notes](/suppl/ts1/Lec2024/Lec7 - Classification Performance.pdf)
+  * updated `logistic_regression_2d_example.m` from logistic regression [code-m](/suppl/ts1/Lec2024/logistic_regression.zip)
+
+* Week 8: 22/07
   * [rec]()
   * [notes]()
   * [code-m]()
-
 
 
