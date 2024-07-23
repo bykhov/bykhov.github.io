@@ -48,9 +48,9 @@ This is the course schedule:
   * [notes](/suppl/ts1/Lec2024/Lec7 - Classification Performance.pdf)
   * updated `logistic_regression_2d_example.m` from logistic regression [code-m](/suppl/ts1/Lec2024/logistic_regression.zip)
 
-* Week 8: 22/07
-  * [rec]()
-  * [notes]()
-  * [code-m]()
+* Week 8: 22/07 - Signal classification: feature extraction and selection
+  * [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000)
+  * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
+
 
 
