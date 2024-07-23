@@ -60,5 +60,5 @@ This is the course schedule:
   * Reference: Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
 
 * Week ?: Signal classification: feature extraction and selection
-  * USe Lec8 of STMDL course [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000)
+  * Use Lec8 of STMDL course [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000)
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
