@@ -40,6 +40,10 @@ toc:
 * [file](/suppl/python/ta2024/week5.ipynb)
 * [rec](https://sce-ac-il.zoom.us/rec/share/5fvT4JKhz2ye64mklmzEjausGb9Hi-MSBRADLcJrI_H0k8MnVM9Ew0wdWQ6SxoQO._hj_rfoBFWDtu5kz?startTime=1720678911000)
 
+##### Week6 - 18/07 - Objects (part1)
+* [file](/suppl/python/ta2024/week6.ipynb)
+* [rec](https://sce-ac-il.zoom.us/rec/share/0gkEe054gIRbh6ZSm1Hp6ApNkTsJwZgW0mByLsx8dUk9TC2v8fj7D0TUoLfQyBnd.7Z8oDyYBECDZLs5C?startTime=1721889017000)
+
 #### Recordings 2022 - Lectures
 * [Lec1](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a24e1dbdd37204624f1456a35673d21c31dcc51a.mp4) - Introduction
 * [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/49/49363f7b281f26be3bccfba04e0283d9fc29ec1a.mp4) - Loops
