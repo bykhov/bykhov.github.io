@@ -12,7 +12,6 @@ layout: default
 Hackathon competition is a part of the course:
 * The competition is held in the form of a Kaggle competition.
 * The competition grade depends on the participant's position in the competition leaderboard.
-* The detailed description of the competition and its grading is scheduled to the lecture a week before the competition (14/08/2024).
 * The special bonuses for the top participants:
     * Special certificates
     * Vouchers for two of online Nvidia courses, valued $90 each:
