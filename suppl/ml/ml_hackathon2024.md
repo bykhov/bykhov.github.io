@@ -22,7 +22,12 @@ Hackathon competition is a part of the course:
 
 ---
 
-#### References
+#### Competition description
+* [General information](/suppl/ml/Lec2024/general_info.pdf)
+
+---
+
+#### Resources
 * Signal classification with Matlab (feature extraction and selection): Lec8 of [STMDL](/suppl/ts1/ts1_main2024/) course [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000), [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
 * [List](/blog/2024/packages/) of Python libraries for time-series analysis
 * Theory related to the experiment [paper](/suppl/ml/Lec2024/Droplet.pdf)
