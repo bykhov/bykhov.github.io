@@ -48,6 +48,7 @@ toc:
 ##### Week7 - 01/08 - Objects (part2)
 * References:
 	- [programiz](https://www.programiz.com/python-programming/class), 
+    - [w3schools](https://www.w3schools.com/python/python_inheritance.asp),
     - [`isinstance()`](https://www.w3schools.com/python/ref_func_isinstance.asp), 
     - [`issubclass()`](https://www.w3schools.com/python/ref_func_issubclass.asp)
 
