@@ -44,6 +44,15 @@ toc:
 * [file](/suppl/python/ta2024/week6.ipynb)
 * [rec](https://sce-ac-il.zoom.us/rec/share/0gkEe054gIRbh6ZSm1Hp6ApNkTsJwZgW0mByLsx8dUk9TC2v8fj7D0TUoLfQyBnd.7Z8oDyYBECDZLs5C?startTime=1721889017000)
 
+
+##### Week7 - 01/08 - Objects (part2)
+* References:
+	- [programiz](https://www.programiz.com/python-programming/class), 
+    - [`isinstance()`](https://www.w3schools.com/python/ref_func_isinstance.asp), 
+    - [`issubclass()`](https://www.w3schools.com/python/ref_func_issubclass.asp)
+
+---
+
 #### Recordings 2022 - Lectures
 * [Lec1](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/a2/a24e1dbdd37204624f1456a35673d21c31dcc51a.mp4) - Introduction
 * [Lec2](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/49/49363f7b281f26be3bccfba04e0283d9fc29ec1a.mp4) - Loops
