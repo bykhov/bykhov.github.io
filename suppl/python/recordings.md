@@ -51,6 +51,8 @@ toc:
     - [w3schools](https://www.w3schools.com/python/python_inheritance.asp),
     - [`isinstance()`](https://www.w3schools.com/python/ref_func_isinstance.asp), 
     - [`issubclass()`](https://www.w3schools.com/python/ref_func_issubclass.asp)
+* [rec](https://sce-ac-il.zoom.us/rec/share/h72GOipUtwYbkHZ_xAgHRBa-PPhqS3PM8wKjdrQiRoLPM5nIK1-pkiGRrRm-CIv1.ZF1-sHJi0HyMwYXE?startTime=1722493506000)
+* [file](/suppl/python/ta2024/week7.ipynb)
 
 ---
 
