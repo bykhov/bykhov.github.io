@@ -60,6 +60,7 @@ This is the course schedule:
   * [code-PCA-Iris](/suppl/ts1/Lec2024/pca_iris.m)
   * [code-Plots](/suppl/ts1/Lec2024/plots.mlx)
   * Reference: [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+  * Reference: [Colormap](https://www.mathworks.com/help/matlab/ref/colormap.html)
 
 
 
