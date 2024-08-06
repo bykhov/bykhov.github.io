@@ -54,6 +54,12 @@ toc:
 * [rec](https://sce-ac-il.zoom.us/rec/share/h72GOipUtwYbkHZ_xAgHRBa-PPhqS3PM8wKjdrQiRoLPM5nIK1-pkiGRrRm-CIv1.ZF1-sHJi0HyMwYXE?startTime=1722493506000)
 * [file](/suppl/python/ta2024/week7.ipynb)
 
+##### Week8 - 08/08 - Exceptions
+* References:
+    - [programiz](https://www.programiz.com/python-programming/exception-handling), 
+    - [w3schools](https://www.w3schools.com/python/python_try_except.asp)
+    - [RealPython](https://realpython.com/python-exceptions/)
+    - [stackoverfow](https://realpython.com/python-exceptions/)
 ---
 
 #### Recordings 2022 - Lectures
