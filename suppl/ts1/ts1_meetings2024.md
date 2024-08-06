@@ -52,5 +52,15 @@ This is the course schedule:
   * [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000)
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
 
+* Week 9: 29/07 - Plotting, visualization and PCA
+  * [rec](https://sce-ac-il.zoom.us/rec/share/KWCu9m4WUfRWBx36WBCMClYL2REp1zl8Pdeb3KEFy-Don6UA2OUrjkoZy2CtwQA6.rNl-2m7OYSMFAypK?startTime=1722864488000)
+  * [notes](/suppl/ts1/Lec2024/Lec9 - PCA.pdf)
+  * [code-Ellipse](/suppl/ts1/Lec2024/ellipse_example.m)
+  * [code-PCA-compression](/suppl/ts1/Lec2024/pca_compression.m), [code-PCA](/suppl/ts1/Lec2024/pca_compression.m)
+  * [code-PCA-Iris](/suppl/ts1/Lec2024/pca_iris.m)
+  * [code-Plots](/suppl/ts1/Lec2024/plots.mlx)
+  * Reference: [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+
+
 
 
