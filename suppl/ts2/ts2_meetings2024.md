@@ -47,7 +47,8 @@ This is the course schedule:
 
 * Week 6: 08/07 - Cross-correlation and ARX model
   * [notes](/suppl/ts2/Lec2024/Lec6 - ARX.pdf)
-  * [rec](https://sce-ac-il.zoom.us/rec/share/5C9t0G0twGRSbbqxrchMTPCTmEsstdfBwyQPEhLw2TidxWGHYBbwTIIbXGNdoN7M.ukEvQ7R2h-NeSQIF)
+  * [rec-theory](https://sce-ac-il.zoom.us/rec/share/6NXqnkT-SIT8jq1qAAfRJ06OcX3Dc-OHnZR0MLem5fgJVrRVSAtsf-6XnhBI9fPR.-g2hvyuoVmzV5LSj?startTime=1723012935000)
+  * [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/6NXqnkT-SIT8jq1qAAfRJ06OcX3Dc-OHnZR0MLem5fgJVrRVSAtsf-6XnhBI9fPR.-g2hvyuoVmzV5LSj?startTime=1723014506000)
   * [code-XCorr](/suppl/ts2/Lec2024/xcorr_coeff.m)
   * [code-ARX](/suppl/ts2/Lec2024/arx_example.m)
 
