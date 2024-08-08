@@ -60,6 +60,8 @@ toc:
     - [w3schools](https://www.w3schools.com/python/python_try_except.asp)
     - [RealPython](https://realpython.com/python-exceptions/)
     - [stackoverfow](https://realpython.com/python-exceptions/)
+* [rec](https://sce-ac-il.zoom.us/rec/share/wwnSy7OdfjMh-p8ML18x3t-FDXPdQmMCp9vD_4vARt2Wnexr188T90hJpVuH-I17._1UcRJhFnPNUDkIJ?startTime=1723098382000)
+
 ---
 
 #### Recordings 2022 - Lectures
