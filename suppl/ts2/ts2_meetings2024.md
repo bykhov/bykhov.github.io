@@ -53,14 +53,31 @@ This is the course schedule:
   * [code-ARX](/suppl/ts2/Lec2024/arx_example.m)
 
 * Week 7: 15/07 - MA, ARMA, ARIMA, ARIMAX models
-  * 
+  * To be published:
+    * [rec]()
+    * [notes]()
+    * [code]()
 
-* Week ? - Regression metrics and losses
+* Week 8: 22/07 - Full length example: ARIMA model
+  * To be published:
+    * [rec]()
+    * [notes]()
+    * [code]()
+
+* Week 9: 29/07 - Lecture cancelled 
+
+* Week 10: 05/08 - Exponential smoothing (Holt-Winters)
+  * Reference: Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
+  * To be published:
+    * [rec]()
+    * [notes]()
+    * [code]()
+
+* Week 11: 12/08 - No lecture
+
+* Week 12: 19/08 - Regression metrics and losses
   * Use Lec5 of [STMDL course](/suppl/ts1/ts1_meetings2024)
 
-* Week ? - Exponential smoothing (Holt-Winters)
-  * Reference: Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
-
-* Week ?: Signal classification: feature extraction and selection
+* Week 13: 26/08 - Signal classification: feature extraction and selection
   * Use Lec8 of STMDL course [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000)
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
