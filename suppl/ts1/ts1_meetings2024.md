@@ -52,7 +52,9 @@ This is the course schedule:
   * [rec](https://sce-ac-il.zoom.us/rec/share/NFe9Y6QDzDeSB3VV48GW-XI2Mflg5XT7pfsm5bEOXT3nx1eoJ4gcFr3kklma0qvb.NNfud5urgEsVXLdl?startTime=1721654006000)
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
 
-* Week 9: 29/07 - Plotting, visualization and PCA
+* Week 9: 29/07 - lecture cancelled
+
+* Week 10: 05/08 - Plotting, visualization and PCA
   * [rec](https://sce-ac-il.zoom.us/rec/share/KWCu9m4WUfRWBx36WBCMClYL2REp1zl8Pdeb3KEFy-Don6UA2OUrjkoZy2CtwQA6.rNl-2m7OYSMFAypK?startTime=1722864488000)
   * [notes](/suppl/ts1/Lec2024/Lec9 - PCA.pdf)
   * [code-Ellipse](/suppl/ts1/Lec2024/ellipse_example.m)
@@ -61,6 +63,21 @@ This is the course schedule:
   * [code-Plots](/suppl/ts1/Lec2024/plots.mlx)
   * Reference: [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
   * Reference: [Colormap](https://www.mathworks.com/help/matlab/ref/colormap.html)
+
+* Week 11: 12/08 - No lecture
+
+* Week 12: 19/08 - Introduction to neural networks
+  * References:
+    * A Quick Introduction to Vanilla Neural Networks [(link)](https://blog.insightdatascience.com/a-quick-introduction-to-vanilla-neural-networks-b0998c6216a1)
+    * On-line visualization of neural networks at [TensorFlow Playground](https://playground.tensorflow.org/) with some explanations from [Google](https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground)
+    * Hidden representation (learned features) visualization [(link)](https://colah.github.io/posts/2015-01-Visualizing-Representations/)
+    * Understanding Deep Learning book by Simon J.D. Prince: Chapters 3 and 4 [(download page)](https://udlbook.github.io/udlbook/)
+    * But what is a neural network? [3Blue1Brown video](https://www.youtube.com/watch?v=aircAruvnKk)
+    * Comprehensive synthesis of the main activation functions pros and cons [(link)](https://medium.com/analytics-vidhya/comprehensive-synthesis-of-the-main-activation-functions-pros-and-cons-dab105fe4b3b)
+    * Commonly used activation functions on [stackexchange](https://datascience.stackexchange.com/questions/14349/difference-of-activation-functions-in-neural-networks-in-general)
+    * Visualization of backpropagation and (Xavier) initialization by [Katanforoosh & Kunin, "Initializing neural networks", deeplearning.ai, 2019](https://www.deeplearning.ai/ai-notes/initialization/index.html)
+    * GD modifications and stochastic GD by [Katanforoosh, Kunin et al., "Parameter optimization in neural networks", deeplearning.ai, 2019](https://www.deeplearning.ai/ai-notes/optimization/index.html)
+    * Gradient descent, how neural networks learn [3Blue1Brown video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
 
 
