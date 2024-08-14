@@ -8,9 +8,9 @@ children:
   - title: Python 2024
     permalink: /suppl/python/python2024/
   - title: divider
-  - title: G-ML/DL
+  - title: ML/DL
     permalink: /suppl/ts1/ts1_main2024
   - title: divider 
-  - title: G-TS
+  - title: TS
     permalink: /suppl/ts2/ts2_main2024
 ---
