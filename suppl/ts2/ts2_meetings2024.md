@@ -61,13 +61,19 @@ This is the course schedule:
   * [notes](/suppl/ts2/Lec2024/Lec7 - MA, ARIMAX.pdf)
   * [code](/suppl/ts2/Lec2024/ma_example.m)
   * [code2](/suppl/ts2/Lec2024/test1.mlx)
+  * [rec-HW-ARIMA](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723714328000) (**homework!**)
 
 * Week 8: 22/07 - Exponential smoothing (Holt-Winters)
   * Reference: Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
-  * To be published:
-    * [rec]()
-    * [notes]()
-    * [code]()
+  * Recordings:
+    * [rec-Simple Expoential Smoothing](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723700804000)
+    * [rec-Double Exponential Smoothing](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723710601000)
+    * [rec-Triple Exponential Smoothing](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723711205000)
+    * [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723712044000)
+    * [notes](/suppl/ts2/Lec2024/Lec8 - Exponential Smoothing.pdf)
+    * [code](/suppl/ts2/Lec2024/exp_smoothing1_example.m)
+    * [code2](/suppl/ts2/Lec2024/exp_smoothing2_example.m)
+    * [code3](/suppl/ts2/Lec2024/seasonality_analysis.zip)
 
 * Week 9: 29/07 - Lecture cancelled
 
@@ -81,4 +87,5 @@ This is the course schedule:
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
 
 * Week 13: 26/08 - Final homework presentation
-  
+  * [rec](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723715346000)
+  * [notes](/suppl/ts2/Lec2024/pred.pdf)
