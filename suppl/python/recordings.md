@@ -61,6 +61,11 @@ toc:
     - [RealPython](https://realpython.com/python-exceptions/)
     - [stackoverfow](https://realpython.com/python-exceptions/)
 * [rec](https://sce-ac-il.zoom.us/rec/share/wwnSy7OdfjMh-p8ML18x3t-FDXPdQmMCp9vD_4vARt2Wnexr188T90hJpVuH-I17._1UcRJhFnPNUDkIJ?startTime=1723098382000)
+* [file](/suppl/python/ta2024/week8-exceptions.ipynb)
+
+##### Week9 - 15/08 - Python
+* [rec](https://sce-ac-il.zoom.us/rec/share/F5ISnyWW9o8Uw0aRotlaDjZIzsE_WVGvlOokECV2uWl5aoOcI1KrGjAwCAxr66GI.Gb_wPJ6K-qpsaQVG?startTime=1723702799000)
+* [file](/suppl/python/ta2024/week9-pandas.ipynb)
 
 ---
 
