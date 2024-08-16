@@ -87,5 +87,5 @@ This is the course schedule:
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
 
 * Week 13: 26/08 - Final homework presentation
-  * [rec](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723715346000)
+  * [rec](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723715346000) (**homework!**)
   * [notes](/suppl/ts2/Lec2024/pred.pdf)
