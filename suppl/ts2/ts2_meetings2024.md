@@ -7,13 +7,13 @@ layout: default
 ### Meetings
 This is the course schedule:
 * Week 1 (03/06) - Least Squares 
-  * Lec1 of [STMDL course](/suppl/ts1/ts1_meetings2024) (**including homework!**)
+  * Lec1 of [STMDL course](/suppl/ts1/ts1_meetings2024) (**including homework 1**)
   * [Pre-flights](https://sce-ac-il.zoom.us/rec/share/02zx5eDxIe8r_JFjowupqIXTGNE3CkqAJp9S6tfSLCPQ9soS3_jjWpK6uqPHe7xX.utzBveHIvn8dRUxw?startTime=1717433328000)
 
 * Week 2: 10/06 - Basic Sinusoidal Signal Analysis
   * [rec-Intro](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717601699000), 
   * [rec-Learning amplitude and phase](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717602531000), 
-  * [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717603249000) (**including homework!**)
+  * [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/wF6kKMRYDDmXoPCGMOUm4eWPEGeH-D7zxAzSK1QE8DZng-IDlE7xuI0ajiWaJRvj.L9fJgxvCrA0vOb09?startTime=1717603249000) (**including homework 2**)
   * [notes](/suppl/ts2/Lec2024/Lec2 - Basic Signal Analysis - Sinusoidal Signal.pdf), 
   * [code](/suppl/ts2/Lec2024/ls_regression_amp_phase.m)
 
@@ -30,7 +30,7 @@ This is the course schedule:
   * [rec-ACF](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718282915000)
   * [rec-CorrCoeff](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718283625000)
   * [rec-Matlab](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718284610000)
-  * [rec-Homework](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718285604000) (**homework!**),
+  * [rec-Homework](https://sce-ac-il.zoom.us/rec/share/UB5rGxC89GMsKvv3K3b9jBGzaEJ8Y8a4O57k9EzcWi1EuKDr3pMfLrEJRc7RT8f_.ihAPiZvvBsCNFoa3?startTime=1718285604000) (**homework 3**),
   * [notes](/suppl/ts2/Lec2024/Lec4 - ACF.pdf)
   * [code-ACF](/suppl/ts2/Lec2024/acf_demo.m)
 
@@ -61,7 +61,7 @@ This is the course schedule:
   * [notes](/suppl/ts2/Lec2024/Lec7 - MA, ARIMAX.pdf)
   * [code](/suppl/ts2/Lec2024/ma_example.m)
   * [code2](/suppl/ts2/Lec2024/test1.mlx)
-  * [rec-HW-ARIMA](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723714328000) (**homework!**)
+  * [rec-HW-ARIMA](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723714328000) (**homework 4**)
 
 * Week 8: 22/07 - Exponential smoothing (Holt-Winters)
   * Reference: Holt-Winters Forecasting for Dummies: [part1](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/), [part2](https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/), [part3](https://grisha.org/blog/2016/02/17/triple-exponential-smoothing-forecasting-part-iii/)
@@ -87,5 +87,5 @@ This is the course schedule:
   * [notes](/suppl/ts1/Lec2024/Lec8 - Feature extraction.pdf)
 
 * Week 13: 26/08 - Final homework presentation
-  * [rec](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723715346000) (**homework!**)
+  * [rec](https://sce-ac-il.zoom.us/rec/share/uYl8E5YWOHQwVvivszyR6UDy7noeWB-IsnFkKY5yF_Po1H6_-EoDwVfJC3_4vsKZ.OLDlCvRO2T9eK3nw?startTime=1723715346000) (**homework 5**)
   * [notes](/suppl/ts2/Lec2024/pred.pdf)
