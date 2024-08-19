@@ -70,7 +70,6 @@ This is the course schedule:
   * References:
     * A Quick Introduction to Vanilla Neural Networks [(link)](https://blog.insightdatascience.com/a-quick-introduction-to-vanilla-neural-networks-b0998c6216a1)
     * On-line visualization of neural networks at [TensorFlow Playground](https://playground.tensorflow.org/) with some explanations from [Google](https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground)
-    * Hidden representation (learned features) visualization [(link)](https://colah.github.io/posts/2015-01-Visualizing-Representations/)
     * Understanding Deep Learning book by Simon J.D. Prince: Chapters 3 and 4 [(download page)](https://udlbook.github.io/udlbook/)
     * But what is a neural network? [3Blue1Brown video](https://www.youtube.com/watch?v=aircAruvnKk)
     * Comprehensive synthesis of the main activation functions pros and cons [(link)](https://medium.com/analytics-vidhya/comprehensive-synthesis-of-the-main-activation-functions-pros-and-cons-dab105fe4b3b)
