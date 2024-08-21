@@ -77,6 +77,11 @@ This is the course schedule:
     * Visualization of backpropagation and (Xavier) initialization by [Katanforoosh & Kunin, "Initializing neural networks", deeplearning.ai, 2019](https://www.deeplearning.ai/ai-notes/initialization/index.html)
     * GD modifications and stochastic GD by [Katanforoosh, Kunin et al., "Parameter optimization in neural networks", deeplearning.ai, 2019](https://www.deeplearning.ai/ai-notes/optimization/index.html)
     * Gradient descent, how neural networks learn [3Blue1Brown video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+  * [rec](https://sce-ac-il.zoom.us/rec/share/ipL8ZYcVMR90Rl3dJfKB92Ubuj9pRmJpwy_zMsfx2GxBmjDe0NvSkPlsvvoW0TkG._Sgn6KA9GJHaQUeJ?startTime=1724073271000) (including **homework**)
+  * [notes](/suppl/ts1/Lec2024/Lec10 - NN.pdf)
+  * [code-homework](/suppl/ts1/Lec2024/hw4_baseline.mlx)
+
+
 
 
 
