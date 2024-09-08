@@ -2,7 +2,7 @@
 layout: page
 title: Spectroscopy
 description: Deep Learning Applications in Spectroscopy 
-importance: 3
+importance: 4
 category: current
 related_posts: true
 img: /assets/img/2023/example_raw2.jpeg
