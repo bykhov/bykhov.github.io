@@ -2,7 +2,7 @@
 layout: page
 title: Medical imaging
 description: Medical imaging
-importance: 3
+importance: 4
 category: current
 related_posts: true
 ---
