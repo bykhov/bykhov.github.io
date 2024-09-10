@@ -15,6 +15,10 @@ toc:
 
 ---
 
+### [Notes on 2024-5 fall course](/suppl/rp/special2025)
+
+---
+
 ### [Matlab code examples](/suppl/rp/code/)
 
 ---

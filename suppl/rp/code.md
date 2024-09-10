@@ -4,7 +4,7 @@ layout: default
 
 ###  [Random Processes Course](/teaching/rp/) - Supplementary Matlab code files
 
-#### Histogram (1D RV)
+#### Histogram of a random variable
 * Cube rolled [experiment](/suppl/rp/code/hist/hist_discr_cube.m)
 * Single bin [example](/suppl/rp/code/hist/hist_example_single_bin.m)
 * Central limit theorem for a discrete variable [example](/suppl/rp/code/hist/central_limit_t_example.m)
@@ -15,7 +15,7 @@ layout: default
 * Linear regression [example](/suppl/rp/code/linear_regression/dependent_var.m)
 * $$Y=X^2\Rightarrow\rho_{XY}=0$$ [example](/suppl/rp/code/linear_regression/dependent_process2b.m)
 
-#### Gaussian RV
+#### Gaussian variables
 * 2D CDF [plot](/suppl/rp/code/gaussian/gaussian2d_cdf_plot.mlx)
 * Two 1D Gaussian variables without joint Gaussian [example](/suppl/rp/code/gaussian/marginal_gaussian_without_joint.m)
 * 2D correlated [example](/suppl/rp/code/gaussian/normal2d.m)
