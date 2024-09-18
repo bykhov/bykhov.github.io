@@ -3,7 +3,7 @@ layout: page
 title: M.Sc./Ph.D.
 date: 2023-07-31
 description: Deep Learning Applications in Spectroscopy
-importance: 1
+importance: 2
 category: students
 img: /assets/img/2023/data_example_tagged.jpeg
 ---

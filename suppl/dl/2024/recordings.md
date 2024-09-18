@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Deep learning course](/suppl/dl/dl2024/), 2024
+## [Deep learning course](/suppl/dl/2024/dl2024/), 2024
 
 ### Recordings
 * Lecture 1 [recording](https://sce-ac-il.zoom.us/rec/share/Za6RPn2WwSa2NrnfecjxNkLGoVsysMbtNpotLcMsxZwRqyj_5oqs4mUmYxws78dX.mhtutrIkf0CZD5GH), [anoter link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/d5/d5932b54bc6d6184fa172bc8cd86c1583ccb3f62.mp4) - Preface

@@ -3,7 +3,8 @@ layout: default
 toc:
   sidebar: left
 ---
-## [Deep learning course](/suppl/dl/dl2024/), 2024
+
+## [Deep learning course](/suppl/dl/2024/dl2024/), 2024
 
 ### Jetson Nano
 
