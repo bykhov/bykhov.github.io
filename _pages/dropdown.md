@@ -9,5 +9,5 @@ children:
     permalink: /teaching/rp/
   - title: divider
   - title: DL
-    permalink: /suppl/dl/2024/dl2025/
+    permalink: /suppl/dl/2025/dl2025/
 ---
