@@ -10,8 +10,11 @@ I have experience as a lecturer, teaching assistant, or laboratory instructor fo
 
 Machine learning:
 * [Python](/teaching/python/)
-* [Machine learning](/teaching/ml/)
-* [Deep learning](/teaching/dl/)
+* [Machine learning](/teaching/learning/)
+* [Machine learning](/teaching/learning/)
+* [Deep learning](/teaching/learning/)
+* [Selected topics on machine and deep learning](/teaching/learning/) (graduate)
+* [Signal prediction and classification](/teaching/learning/) (graduate)
 
 Signal processing:
 * Signals and systems
