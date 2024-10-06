@@ -31,7 +31,7 @@ The following projects are mostly recommended for students who are interested in
   * Dr. Nelik is known for his expertise in pump systems and fluid mechanics
   * The goal of the project is to develop a system that can analyze water flow in pipes using sensors and machine learning algorithms.
 
-* Droplet analysis - the follow-up project of the [ML course competition](https://www.kaggle.com/t/6969e148f04c49de9a54b7c0f16cf8cd),  (co-supervised with Dr. [Merav Arogeti](https://en.sce.ac.il/faculty/merav_arogeti) from Mechanical Engineering Department.
+* Droplet analysis - the follow-up project of the [ML course competition](https://www.kaggle.com/t/6969e148f04c49de9a54b7c0f16cf8cd),  co-supervised with Dr. [Merav Arogeti](https://en.sce.ac.il/faculty/merav_arogeti) from Mechanical Engineering Department.
   * The goal of the project is to develop a system that can analyze droplets using acoustic microphone, underwater microphone and ultrafast camera.
 
 
