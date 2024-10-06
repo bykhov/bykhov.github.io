@@ -10,13 +10,13 @@ category: students
 
 ##### Integration projects (Sensors, IoT, and Cloud)
 
-* (open to suggestions) Running ML/DL algorithms on low-cost, low-power and low-resource hardware, e.g. [Raspberry Pi](https://ai.google.dev/edge/litert/microcontrollers/python) and [STM32](https://www.st.com/content/dam/AME/2020/sensors-embedded-tech-ve-2020/mdg-demo/STM32CubeAI_product_overview.pdf), [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) by Google and [Edge Impulse](https://www.edgeimpulse.com/).
+* (open to suggestions) Running ML/DL algorithms on low-cost, low-power and low-resource hardware, e.g. [Raspberry Pi](https://ai.google.dev/edge/litert/microcontrollers/python) and [STM32](https://www.st.com/content/dam/AME/2020/sensors-embedded-tech-ve-2020/mdg-demo/STM32CubeAI_product_overview.pdf), [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) and [Edge Impulse](https://www.edgeimpulse.com/).
 
 * (open to suggestions) Running IoT sensors with cloud analytics, e.g. [AWS IoT](https://aws.amazon.com/iot/), [Azure IoT](https://azure.microsoft.com/en-us/solutions/iot) or [Google IoT](https://cloud.google.com/architecture/connected-devices/iot-platform-product-architecture).
 
 ---
 
-###### Research projects (Signal processing, machine learning and sensors)
+##### Research projects (Signal processing, machine learning and sensors)
 
 * Galvanic skin response (GSR) analysis (co-supervised with Dr. [Nir Trabelsi](https://www.facebook.com/photo.php?fbid=2807768889257381&id=145856082115355&set=a.145856878781942) from Mechanical Engineering Department). An example of a GSR equipment is [here](https://shimmersensing.com/product/shimmer3-gsr-unit/).
 
