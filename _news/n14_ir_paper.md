@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-02
+date: 2024-10-14
 inline: True
 related_posts: true
 title: New paper
