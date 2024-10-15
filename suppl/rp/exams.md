@@ -22,11 +22,9 @@ layout: default
 [A](/suppl/rp/exams/RP Exam2020A.pdf),
 [B](/suppl/rp/exams/RP Exam2020B.pdf)
 
-
 * 2021: 
 [A](/suppl/rp/exams/RP Exam2021A.pdf),
 [B](/suppl/rp/exams/RP Exam2021A.pdf)
-
 
 * 2022: 
 [A](/suppl/rp/exams/RP Exam2022A.pdf),
@@ -38,4 +36,7 @@ layout: default
 
 * 2024: 
 [A](/suppl/rp/exams/RP_Exam2024A.pdf),
-B
+[B](/suppl/rp/exams/RP_Exam2024B.pdf)
+
+* 2025:
+A, B
