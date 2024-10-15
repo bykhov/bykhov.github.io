@@ -4,7 +4,7 @@ layout: default
 
 ###  [Random Processes Course](/teaching/rp/) - Exams
 
-*Note:* all the **solutions** are provided inside the [Lecture Notes](/rp/RP_Book.pdf)! Some of the questions there have been refined to improve their clarity and understanding.
+**All the solutions to all the exams** are provided inside the [Lecture Notes](/rp/RP_Book.pdf)! Note, some of the questions there have been slightly refined to improve their clarity and understanding.
 
 * 2017: 
 [A](/suppl/rp/exams/2017A.pdf),
