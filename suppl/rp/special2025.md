@@ -9,4 +9,6 @@ Grading policy:
     * [Statistics Onramp](https://matlabacademy.mathworks.com/details/statistics-onramp/orst) - 3%
     * [Curve Fitting Onramp](https://matlabacademy.mathworks.com/details/curve-fitting-onramp/orcf) - 3%
     * [Signal Processing with MATLAB](https://matlabacademy.mathworks.com/details/signal-processing-with-matlab/mlsg) - 9%
-  * Note that the **grade decreases for each day of delay in submission**.  
+  * Grade is based on the completion of the course and the certificate:
+    * Note that the **grade decreases for each day of delay in submission**.
+    * Special circumstances (מילואים, אישפוז) should be reported via מנהל הסטודנטים. 
