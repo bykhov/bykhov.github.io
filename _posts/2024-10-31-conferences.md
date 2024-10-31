@@ -8,7 +8,7 @@ tags: ML/DL
 ---
 
 ## Selected spectroscopy conferences 2025
-* [ND2025](https://nd2025madrid.com/): 16th Nuclear Data for Science and Technology Conference, Madrid, Spain, June 22nd Sunday to June 27th Friday, 2025. Abstract submission deadline: 4th November 2024.
+* [ND2025](https://nd2025madrid.com/): 16th Nuclear Data for Science and Technology Conference, Madrid, Spain, June 22nd Sunday to June 27th Friday, 2025. Abstract submission deadline: 4th November 2024 (previous [conference](https://indico.frib.msu.edu/event/52/))
 * [NSS/MIC/RTSD](https://ieee-npss.org/nss-mic-conference-links/): IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Conference; 2025 in Yokohama, Japan
 * [ANIMMA 2025 (9-June 13, 2025)](https://indico.utef.cvut.cz/event/40/): The 9th International Conference on
   Advancements in Nuclear Instrumentation Measurement Methods and their Applications, Valencia, Spain. Abstract submission deadline: November 14th, 2024
