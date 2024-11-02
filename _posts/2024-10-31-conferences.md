@@ -15,10 +15,13 @@ The most of the conferences have a submission deadline in 2024 and early 2025.
   Advancements in Nuclear Instrumentation Measurement Methods and their Applications, Valencia, Spain, Monday 9 - Friday 13 June 2025. Abstract submission deadline: November 14th, 2024
 * [INPC 2025](https://indico.ibs.re.kr/event/701/) and [INPC 2025](https://inpc2025.org/): 29th International Nuclear Physics Conference (INPC 2025) will be held in Daejeon, Korea on May sunday 25- Friday 30, 2025. Abstract submission deadline: November 30, 2024
 * [IEEE Nuclear & Space Radiation Effects Conference](https://www.nsrec.com/call-for-papers-2025/), Nashville, TN, USA, 14-18 July 2025. Abstract by February 7, 2025
-* [ENVIRA 2025](https://indico.ifj.edu.pl/event/1258/overview): 8th International Conference on Environmental Radioactivity, Krakow, Poland, Sunday 14- Friday 19 Sep 2025. Abstract submission deadline: 30th April 2025 
- 
+* [ENVIRA 2025](https://indico.ifj.edu.pl/event/1258/overview): 8th International Conference on Environmental Radioactivity, Krakow, Poland, Sunday 14- Friday 19 Sep 2025. Abstract submission deadline: 30th April 2025
 * [RADECS](https://www.radecs2025.org/): RADiation Effects on Components and Systems, Antwerp, Belgium, 29 Sep-3 Oct, 2025 [](יום כיפור)
 * [NSS/MIC/RTSD](https://ieee-npss.org/nss-mic-conference-links/): IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Conference; 2025 in Yokohama, Japan
+
+## Sensors Conferences 2025
+* [IEEE SENSORS 2025](https://2025.ieee-sensorsconference.org/): 2025 IEEE SENSORS Conference, Vancouver, Canada, October Sunday 19 - Wednesday 22, 2025. Submission deadline: May 2025.
+
 
 ## Organizations
 * International Atomic Energy Agency (IAEA) [conferences and events](https://www.iaea.org/events)
