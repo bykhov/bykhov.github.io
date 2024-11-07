@@ -6,6 +6,13 @@ toc:
 
 ### [Random Processes Course](/teaching/rp/) - Recordings
 
+---
+
+#### Recordings 2025
+- Lec1: [video](https://sce-ac-il.zoom.us/rec/share/CqUdiTs37wuaxF9AHVAIfEidsmOUiblbxN-PU62EWTQeOtB_LSurpDG6s-ZDDVwE.Q_6Fkq3TdIVPXegQ), [notes](/suppl/rp/2024Lec/Lecture1%20-%20RV.pdf)
+
+---
+
 #### Recordings 2024
 - Lec2: [video](https://sce-ac-il.zoom.us/rec/share/EhiZuQgHNU9sfOvAvYL1zlsjCw9VjWOIWQdBqUadpXbq2zqZEucbnYPs-WmqPAk2.EBXq4Ge3se6ZJtAR?startTime=1706710717000)
 [](https://sce-ac-il.zoom.us/rec/share/B5xAUPKtSrmpU7nDwpPKEktxoEgFoxP3s7lCMTfjbK8SBBeqxfSHvA_jL9hSks8a.-Yec8MRAozhw38ih?startTime=1707315528000)
