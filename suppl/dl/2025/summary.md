@@ -5,12 +5,13 @@ toc:
 ---
 
 ### Summary and presentation guidelines
-#### Topic
-* Some AI-related topic that is not covered in the course. 
-* The topic should be related to the course material, but not a direct part of it. 
-* The topic should be interesting and relevant to the audience.
-* Has to approved by the lecturer in two weeks after the start of the course.
+##### Selection guidelines
+* A recent topic (2020-tomorrow) in the field of AI, ML, or DL.
+* Breakthroughs in the field, typically with ethical implications.
+* Life-changing solutions or technologies.
+* I am aware that the topics are not trivial. Nevertheless, the goal is to broaden the horizons and to understand the implications of the AI/ML/DL technologies.
 
+##### Examples of the presentation topics
 Examples of the presentation topics:
 * Why self-driving cars are not yet on the roads, being promised for years?
 * DL-based resume screening: how it works and why it is not always fair?
@@ -18,11 +19,15 @@ Examples of the presentation topics:
   * For example, Tesla's autopilot accidents 
 * What are the implications of autonomous weapons?
   * Note to emphasize the difference between rule-based and DL-based weapons systems
+  * Sea drone [example](https://spectrum.ieee.org/sea-drone)
 * Adversarial attacks on AI: how they work and how to protect against them?
 * AI in the courtroom and parole decisions: how AI is used in the legal system?
 * Law of Accelerating Returns (Kurzweil 2001) and singularity: is it real?
+* Robotics: Foundational models, e.g. [Open-X](https://robotics-transformer-x.github.io/)
+* Code autocompletion tools productivity, e.g. [Copilot](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) 
 
-Other topics are possible, but please consult with the lecturer before starting the work.
+Other topics are possible, but **please consult with the lecturer** before starting the work.
+
 
 #### Submission format
 * Group size: 2-4 students
