@@ -25,6 +25,7 @@ Examples of the presentation topics:
 * Law of Accelerating Returns (Kurzweil 2001) and singularity: is it real?
 * Robotics: Foundational models, e.g. [Open-X](https://robotics-transformer-x.github.io/)
 * Code autocompletion tools productivity, e.g. [Copilot](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) 
+* [AlphaFold](https://deepmind.google/technologies/alphafold/): how it works and what are the implications for the drug discovery?
 
 Other topics are possible, but **please consult with the lecturer** before starting the work.
 
