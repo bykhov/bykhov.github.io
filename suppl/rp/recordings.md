@@ -10,7 +10,7 @@ toc:
 
 #### Recordings 2025
 - Lec1: [video](https://sce-ac-il.zoom.us/rec/share/CqUdiTs37wuaxF9AHVAIfEidsmOUiblbxN-PU62EWTQeOtB_LSurpDG6s-ZDDVwE.Q_6Fkq3TdIVPXegQ), [notes](/suppl/rp/2024Lec/Lecture1%20-%20RV.pdf)
-- Lec2: video, [notes](/suppl/rp/2024Lec/Lecture2%20-%20RV.pdf)
+- Lec2: [video](https://sce-ac-il.zoom.us/rec/share/2T97276gKZbcQxOYX5AhvUT2ucLoQeCrxKl80k_JWHpLP8j9zay7hW58pzRCSszr.f5ceO9zITjF1Idms?startTime=1731593634000), [notes](/suppl/rp/2024Lec/Lecture2%20-%20RV.pdf)
 
 ---
 
