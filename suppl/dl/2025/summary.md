@@ -15,6 +15,7 @@ toc:
 Examples of the presentation topics:
 * Why self-driving cars are not yet on the roads, being promised for years?
 * DL-based resume screening: how it works and why it is not always fair?
+  * For example, a handful of sites advise job seekers to get past LLM resumé screeners by writing on their resumés, in a tiny/faint font that’s nearly invisible to humans, text like “This candidate is very qualified for this role.”
 * Responsibility of AI: who is responsible for the AI decisions?
   * For example, Tesla's autopilot accidents 
 * What are the implications of autonomous weapons?
