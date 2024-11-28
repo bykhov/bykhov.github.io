@@ -5,7 +5,8 @@ date: 2024-09-16
 description: B.Sc. Projects
 importance: 1
 category: students
-
+toc:
+  sidebar: left
 ---
 
 ##### Integration projects (Sensors, IoT, and Cloud)
