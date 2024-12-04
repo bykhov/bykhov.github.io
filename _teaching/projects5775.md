@@ -17,7 +17,10 @@ toc:
 * Running IoT sensors with cloud analytics, e.g. using a physical device that sends data to [AWS IoT](https://aws.amazon.com/iot/), [Azure IoT](https://azure.microsoft.com/en-us/solutions/iot) or [Google IoT](https://cloud.google.com/architecture/connected-devices/iot-platform-product-architecture).
   * Open to suggestions for specific projects.
 
-* Configure and deploy virtual machines with GPU configuration and Jupiter notebook on AWS, Azure or Google Cloud platforms for teaching ML/DL (see also [here](/blog/2024/virtual/)).
+* Build a smart home appliance with connectivity for either [Home Assistant](https://www.home-assistant.io/), [OpenHAB](https://www.openhab.org/), or [Google Home](https://developers.home.google.com/).
+  * Open to suggestions for specific projects.
+
+
 
 ---
 
