@@ -6,5 +6,5 @@ related_posts: true
 title: AWS
 ---
 
-Official institutional [AWS Academy](https://aws.amazon.com/training/awsacademy/) central point of contact (CPOC) and Educator. SCE is now on a decent list of [AWS academy members](https://aws.amazon.com/training/awsacademy/member-list/).
+I am now an official institutional [AWS Academy](https://aws.amazon.com/training/awsacademy/) central point of contact (CPOC) and Educator. SCE is now on a decent list of [AWS academy members](https://aws.amazon.com/training/awsacademy/member-list/).
 
