@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A collection of my courses.
+description: [Summary of teaching activities](/teaching/summary)
 nav: true
 nav_order: 3
 display_categories: [current, students, previous]

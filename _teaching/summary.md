@@ -8,19 +8,24 @@ category: previous
 
 I have experience as a lecturer, teaching assistant, or laboratory instructor for the following courses.
 
+---
+
 Machine learning:
-* [Python](/teaching/python/)
-* [Machine learning](/teaching/learning/)
-* [Machine learning](/teaching/learning/)
-* [Deep learning](/teaching/learning/)
+* [Machine learning](/teaching/ml/)
+* [Deep learning](/teaching/dl/)
 * [Selected topics on machine and deep learning](/teaching/learning/) (graduate)
 * [Signal prediction and classification](/teaching/learning/) (graduate)
+* [Python](/teaching/python/)
+
+---
 
 Signal processing:
-* Signals and systems
 * [Digital signal processing (DSP)](/teaching/dsp/)
 * [Introduction to random processes](/teaching/rp/)
+* Signals and systems
 * Advanced DSP lab
+
+---
 
 [Communication](/teaching/communication/):
 * Introduction to communication
@@ -31,15 +36,21 @@ Signal processing:
 * Digital communication lab
 * Analog communication lab
 
+---
+
 Optics and photonics:
 * Electro-optics lab (graduate)
 * Optics and photonics lab (graduate)
 * Fiber-optic communication lab (graduate)
 * Imaging principles and optical components (graduate)
 
+---
+
 Multimedia compression and communication:
 * Multimedia communication (graduate)
 * Transmission of audio and video signals on the Internet (graduate)
+
+---
 
 General courses:
 * Digital systems
