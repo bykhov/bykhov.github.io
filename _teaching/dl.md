@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep learning
-description: ML
+description: DL
 importance: 3
 category: current
 img:
