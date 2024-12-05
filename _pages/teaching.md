@@ -2,12 +2,14 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: [Summary of teaching activities](/teaching/summary)
+description: 
 nav: true
 nav_order: 3
 display_categories: [current, students, previous]
 horizontal: true
 ---
+
+[Summary of teaching activities](/teaching/summary)
 
 <!-- pages/teaching.md -->
 <div class="teaching">
