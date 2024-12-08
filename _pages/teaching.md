@@ -9,7 +9,7 @@ display_categories: [current, students, previous]
 horizontal: true
 ---
 
-[Summary of teaching activities](/teaching/summary)
+[Summary](/teaching/summary) of teaching activities
 
 <!-- pages/teaching.md -->
 <div class="teaching">
