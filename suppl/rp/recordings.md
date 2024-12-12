@@ -14,6 +14,7 @@ toc:
 - Lec3 - Two random variables: [video](https://sce-ac-il.zoom.us/rec/share/pSeFPMOwvlclEFoxmEStzjH-7aNNI2rrOBYnPfKyYaC-4BttEJCwToyN1dMi6p7u.1jqEm2O6x2QIc1ej?startTime=1732198421000) or [video](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/48/48d503a4d5b6a639e2fd2d0c3e2edaf3af104e9b.mp4), [notes](/suppl/rp/2024Lec/Lecture3 - 2RV.pdf)
 - Lec4 - Two random variables: [video](https://sce-ac-il.zoom.us/rec/share/Z7bF3Qk2LQSsykBZuJELb4ImIMHtX5OS0IOUgxV0PoyiSf7cJexqlVdx3nCOJ1No.sOtU_yDdE0Azo0Hk?startTime=1732803216000), [notes](/suppl/rp/2024Lec/Lecture4 - Prediction.pdf)
 - Lec5 - Covariance matrix and multi-variate Gaussian variables: [video](https://sce-ac-il.zoom.us/rec/share/kyi6HGD7qTqiU7VoDvkB9ztaWbOTquxZo5IbUIAOSQXDfJ3r1pqKv-ODYVFjAbvO.VV0-_mWzvsRRBxo7?startTime=1733408088000), [notes](/suppl/rp/2024Lec/Lecture5 - GV.pdf)
+-Lec6 - Signals: [video](https://sce-ac-il.zoom.us/rec/share/3vWAELCj5KRbQy8jmxcQ4MstD5UO_GD0wCu1Eftj_YaZbM34HJmoK7CySzt6NuB1.jwQO0wvg9pqPPo23?startTime=1734012889000), [notes](/suppl/rp/2024Lec/Lecture6 - Signals.pdf)
 
 ---
 
