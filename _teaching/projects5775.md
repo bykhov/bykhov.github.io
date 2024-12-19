@@ -44,7 +44,8 @@ You are welcome to contact me for more details.
 ---
 
 ### Past projects
-Only project that were presented in a conference are listed here.
+Only project that were published are listed here.
+* YOLO8/11-Based DeepStream Pipeline on Jetson Nano Platform, 2024, [link](https://github.com/alexander11012/ds_rtsp) 
 * S. H. Kobi, M. David, I. August and D. Bykhovsky, "Hyperspectral Image Prediction Using a Linear Model in Different Illumination Conditions," 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), Athens, Greece, 2023, pp. 1-4, [link](https://doi.org/10.1109/WHISPERS61460.2023.10430661)
 * D. Bykhovsky, N. Tochilovsky and A. Rudyak, "Python-Based Simulation of Non-Gaussian Stationary Random Process with Arbitrary Auto-Correlation Function," 2023 International Conference on Electrical, Computer and Energy Technologies (ICECET), Cape Town, South Africa, 2023, pp. 1-6, [link](https://doi.org/10.1109/ICECET58911.2023.10389427) 
 * L. Kapah, N. Weizman, D. Bykhovsky and I. Y. August, "Hyper-Spectral Image Compression By Joint Spatial Spectral Dimension Reduction Using Thresholded Principal Component Analysis," 2022 12th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, Italy, 2022, pp. 1-5, [link](https://doi.org/10.1109/WHISPERS56178.2022.9955095) 
