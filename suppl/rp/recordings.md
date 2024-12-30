@@ -16,7 +16,7 @@ toc:
 - Lec5 - Covariance matrix and multi-variate Gaussian variables: [video](https://sce-ac-il.zoom.us/rec/share/kyi6HGD7qTqiU7VoDvkB9ztaWbOTquxZo5IbUIAOSQXDfJ3r1pqKv-ODYVFjAbvO.VV0-_mWzvsRRBxo7?startTime=1733408088000), [notes](/suppl/rp/2024Lec/Lecture5 - GV.pdf)
 - Lec6 - Signals: [video](https://sce-ac-il.zoom.us/rec/share/3vWAELCj5KRbQy8jmxcQ4MstD5UO_GD0wCu1Eftj_YaZbM34HJmoK7CySzt6NuB1.jwQO0wvg9pqPPo23?startTime=1734012889000), [notes](/suppl/rp/2024Lec/Lecture6 - Signals.pdf)
 - Lec7 - Cross-signals: [video](https://sce-ac-il.zoom.us/rec/share/ErsE9gUZ2xXcHjq7n4EOAhOFfNjkP269lh5JjaCYMip5otMj-Zqv5VbSZiuVjZBa._c5bhQyGaVsrfhkb), [notes](/suppl/rp/2024Lec/Lecture7 - Cross-signals.pdf)
-- Lec8 - Prediction: [video](https://drive.google.com/file/d/1Jmeq0kwhdSidVIH3r4248lXrJ72ntHs1/view?usp=sharing), [notes](/suppl/rp/2024Lec/Lecture8 - Prediction.pdf)
+- Lec8 - Prediction: [video](https://drive.google.com/file/d/1Jmeq0kwhdSidVIH3r4248lXrJ72ntHs1/view?usp=sharing) (requires SCE credentials), [notes](/suppl/rp/2024Lec/Lecture8 - Prediction.pdf)
 
 ---
 
