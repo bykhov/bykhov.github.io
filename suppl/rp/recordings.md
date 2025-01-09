@@ -18,6 +18,7 @@ toc:
 - Lec7 - Cross-signals: [video](https://sce-ac-il.zoom.us/rec/share/ErsE9gUZ2xXcHjq7n4EOAhOFfNjkP269lh5JjaCYMip5otMj-Zqv5VbSZiuVjZBa._c5bhQyGaVsrfhkb), [notes](/suppl/rp/2024Lec/Lecture7 - Cross-signals.pdf)
 - Lec8 - Prediction: [video](https://drive.google.com/file/d/1Jmeq0kwhdSidVIH3r4248lXrJ72ntHs1/view?usp=sharing) (requires SCE credentials), [notes](/suppl/rp/2024Lec/Lecture8 - Prediction.pdf)
 - Lec9 - LTI systems: [video](https://sce-ac-il.zoom.us/rec/share/b493JuRov0gavqngKO4exusAxdg8T7g700oHkA9Datv4YSh4C8vSzfteek5CVKDL.l9jZ_75RIvz2zijW?startTime=1735827399000), [notes](/suppl/rp/2024Lec/Lecture9 - LTI.pdf)
+- Lec10 - Gaussian processes: [video](), [notes](/suppl/rp/2024Lec/Lecture10 - RP.pdf)
 
 ---
 
