@@ -9,6 +9,8 @@ toc:
   sidebar: left
 ---
 
+[My philosophy](https://signalvnoise.com/posts/1430-hire-managers-of-one) for project management. 
+
 ##### Integration projects (Sensors, IoT, and Cloud)
 
 * Running ML/DL algorithms on low-cost, low-power and low-resource hardware, e.g. [Raspberry Pi](https://ai.google.dev/edge/litert/microcontrollers/python) and [STM32](https://www.st.com/content/dam/AME/2020/sensors-embedded-tech-ve-2020/mdg-demo/STM32CubeAI_product_overview.pdf), [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) and [Edge Impulse](https://www.edgeimpulse.com/).
