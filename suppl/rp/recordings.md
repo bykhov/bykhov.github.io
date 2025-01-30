@@ -21,6 +21,7 @@ toc:
 - Lec10 - Gaussian processes: [video](https://sce-ac-il.zoom.us/rec/share/qDDHFZGOfRGVy9Zke0gUpWymEyPIG2lHXxXQrb2AgeIuyi5jkrHBwkT00trqv9Cd.1E29c79SsvMujM7Q?startTime=1736432215000), 
 [video-part2](https://sce-ac-il.zoom.us/rec/share/lE615OSQebXINzY_iMiWIGdFwFEphJOkZXSEk_8DJqHsN5PkxyEpXQ4sD6Y1M3yk.ykOHce7HDY3OzfT0?startTime=1737040882000), [notes](/suppl/rp/2024Lec/Lecture10 - RP.pdf)
 - Lec11 - Digital systems: [video](https://sce-ac-il.zoom.us/rec/share/lE615OSQebXINzY_iMiWIGdFwFEphJOkZXSEk_8DJqHsN5PkxyEpXQ4sD6Y1M3yk.ykOHce7HDY3OzfT0?startTime=1737037054000), [notes](/suppl/rp/2024Lec/Lecture11 - DS.pdf)
+- Lec12 - Match filter: [video](https://sce-ac-il.zoom.us/rec/share/qUemgWJu90e8Fen48vUg0dckCmOC75Waqzd2LuMRlmReRxAfD25f7e0JuLz8jPMz.gMGIv7P-umblAaym?startTime=1738246846000), [notes](/suppl/rp/2024Lec/Lecture12 - MF.pdf)
 
 ---
 
