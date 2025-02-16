@@ -47,6 +47,8 @@ Note: another link=another host for same lectures
 * Midterm Solution: [Q1](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143134000), [Q2](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143577000), [Q3](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143663000), [Q4](https://sce-ac-il.zoom.us/rec/share/Y5-bXY8dGks0_RBT1hj4ljbi5jXCBARKm1aoQCDH5tAbgANJWV7-0_3cm-xsqAhz.ikDsp1cqvueSnUrp?startTime=1641143760000)
 * [Project Guidelines](https://sce-ac-il.zoom.us/rec/share/7zTgEf-8F4SfwGQR1yEcnN3D6BlGzK0vcF1bSsARQ10k5QqWOzW82U3U63jNfzvN.rMFYpjudxUUKNX39?startTime=1639324453000)
 
+[Practical exercises](https://www.youtube.com/playlist?list=PL3yqsgpoKcS-La5K7g7c_n6v8AkmaY39z) by Barak Amihod
+
 ---
 
 #### Recordings 2020-2021 (Covid year)

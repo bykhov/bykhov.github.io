@@ -61,3 +61,5 @@ The list of the recording during the Covid year is given below:
 
 * [Summary](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/da/dabac2b07e66aebb71759eb43eef23340b8046ca.mp4)
 * [Exam-level question](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/83/8336e5c1734c41405e543a2fd8a55a8c1b5204bf.mp4), [part](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/2d/2db73ea989ab81ac8d2b4ad614e1146156007fc2.mp4), [another link](https://objectstorage.il-jerusalem-1.oraclecloud.com/n/frrgqfrxhcca/b/scevideo/o/f2/f2fd6e2cc2bac678b8423ddf1fddf374d7eb9e3c.mp4), [notes](/suppl/rp/2020LecRec/חזרה.pdf)
+
+[Practical exercises](https://www.youtube.com/playlist?list=PL3yqsgpoKcS8d4W92YL4NFD8tquAOfCXR) by Barak Amihod

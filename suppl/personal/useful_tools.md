@@ -16,5 +16,3 @@ toc:
 ### General
 * [Evo](https://evo.ninja/): Search with AI agents.
 * [Vibe](https://github.com/thewh1teagle/vibe): audio and video transcription
-## Educational resources
-* [Microsoft Learn](https://learn.microsoft.com/en-us/training/): Github, etc.
