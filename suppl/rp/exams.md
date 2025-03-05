@@ -24,7 +24,7 @@ layout: default
 
 * 2021: 
 [A](/suppl/rp/exams/RP Exam2021A.pdf),
-[B](/suppl/rp/exams/RP Exam2021A.pdf)
+[B](/suppl/rp/exams/RP Exam2021B.pdf)
 
 * 2022: 
 [A](/suppl/rp/exams/RP Exam2022A.pdf),
