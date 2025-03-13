@@ -39,4 +39,5 @@ layout: default
 [B](/suppl/rp/exams/RP_Exam2024B.pdf)
 
 * 2025:
-A, B
+  [A](/suppl/rp/exams/RP_Exam2025A.pdf),
+  [B](/suppl/rp/exams/RP_Exam2025B.pdf)
