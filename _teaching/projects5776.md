@@ -14,7 +14,6 @@ This year, only a few research projects are available.
 ---
 
 ##### Research projects (Signal processing, machine learning and sensors)
-The following projects are mostly recommended for students who are interested in continuing toward an M.Sc. studies (thesis track).
 
 * [Ballistocardiography](https://en.wikipedia.org/wiki/Ballistocardiography) (BCG) 
   * Field of bio-medical signal processing
