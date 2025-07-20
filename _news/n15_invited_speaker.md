@@ -9,4 +9,4 @@ tags: spectroscopy
 ---
 
 Plenary speaker at [USBEREIT2025](https://usbereit.ieeesiberia.org/)
-![Plenary speaker](/assets/img/2025/invited_yk.jpeg)
+![Plenary speaker](/assets/img/2025/invited_yk.jpg)
