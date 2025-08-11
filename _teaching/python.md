@@ -4,7 +4,7 @@ title: Python
 description: Python Course
 importance: 2
 category: previous
-img: https://www.python.org/static/img/python-logo@2x.png
+img: /assets/img/2025/python-logo-only.png
 ---
 
 * Started teaching in 2021.
