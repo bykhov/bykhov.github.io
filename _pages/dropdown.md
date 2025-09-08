@@ -5,7 +5,11 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: ML
-    permalink: /suppl/ml/ml2025
+  - title: Random Processes
+    permalink: /rp
   - title: divider
+  - title: Deep Learning
+    permalink: /suppl/dl/dl2026
+  - title: divider
+
 ---
