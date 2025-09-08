@@ -15,7 +15,7 @@ toc:
 
 ---
 
-### [Notes on 2024-5 fall course](/suppl/rp/special2025)
+### [Notes on 2026 (5786 תשפ"ו) course](/suppl/rp/special2026)
 
 ---
 
