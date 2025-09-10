@@ -6,10 +6,10 @@ nav_order: 8
 dropdown: true
 children:
   - title: Random Processes
-    permalink: /rp
+    permalink: /teaching/rp
   - title: divider
   - title: Deep Learning
-    permalink: /suppl/dl/dl2026
+    permalink: /suppl/dl/2026/dl2026
   - title: divider
 
 ---
