@@ -4,7 +4,7 @@ toc:
   sidebar: left
 ---
 
-## [Deep learning course](/suppl/dl/2024/dl2024/), 2024
+## [Deep learning course](/suppl/dl/2024/dl2024/)
 
 ### Recommended reading
 
