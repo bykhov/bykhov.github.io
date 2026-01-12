@@ -2,13 +2,12 @@
 title: Review of Interpretability and Stability in Soft Sensors
 date: 2026-01-12
 layout: post
-importance: 1
-category: Soft Sensors, Machine Learning
-tags: Interpretability
-toc: sidebar: left
+importance: 2
+category: Soft-Sensors
+tags: ML/DL
+toc: 
+   sidebar: left
 ---
-
-# Short note about the review paper "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors"
 
 Recently, an interesting review paper on soft sensors was published.
 
