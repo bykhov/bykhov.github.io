@@ -5,8 +5,10 @@ toc:
 ---
 
 ### Python Course - Recordings
+#### Recordings 2026 - Practical Sessions 
+To be updated.
 
-#### Recordings 2024 - Practicals
+#### Recordings 2024 - Practical Sessions
 ##### Week1 - 06/06 - Introduction to Python
 * Introduction to programming
 * Algorithmic thinking
