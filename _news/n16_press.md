@@ -5,7 +5,7 @@ inline: false
 related_posts: true
 title: Press coverage
 categories: teaching
-tags: 
+tags:
 ---
 
 Press coverage of the recent Nvidia workshop, following the tragical death of [Itay](/news/n9_itay):
