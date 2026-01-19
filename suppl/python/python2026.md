@@ -9,7 +9,7 @@ toc:
 
 ---
 
-### [Recommended resources](/suppl/python/python_resources2024)
+### [Recommended resources](/suppl/python/python_resources2026)
 
 ---
 
