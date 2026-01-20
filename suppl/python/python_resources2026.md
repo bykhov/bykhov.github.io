@@ -31,6 +31,7 @@ toc:
 * Plotting importance - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article/file?id=10.1371%2Fjournal.pcbi.1003833&type=printable)
 * [Examples](https://matplotlib.org/stable/gallery/index.html)
+* IEEE format [module](https://github.com/garrettj403/SciencePlots)
 
 #### Advanced topics
 * Advanced list comprehensions [tutorial](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
