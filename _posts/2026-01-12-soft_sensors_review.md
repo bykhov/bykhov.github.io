@@ -3,7 +3,7 @@ title: Review of Interpretability and Stability in Soft Sensors
 date: 2026-01-12
 layout: post
 importance: 2
-category: Soft-Sensors
+categories: Soft-Sensors
 tags: ML/DL
 toc: 
    sidebar: left
@@ -72,4 +72,4 @@ The paper highlights several open-source libraries that practitioners can use to
 
 ## Reference
 
-L. Cao et al., "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors," IEEE Transactions on Instrumentation and Measurement, 2026.
+L. Cao et al., "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors," IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-17, 2025, doi: [10.1109/TIM.2025.3556830](https://doi.org/10.1109/TIM.2025.3556830)
