@@ -18,6 +18,15 @@ toc:
 
 ---
 
+### GitHub
+* [GitHub Skills](https://learn.github.com/skills) - GitHub's official learning platform with interactive courses on Git, GitHub, and Copilor. Particularl interest:
+  * Introduction to GitHub
+  * Communicate using Markdown
+
+
+
+---
+
 ### Recommended reading
 * Python Data Science Handbook [online](https://jakevdp.github.io/PythonDataScienceHandbook/) - Chapters 2, 3, 4 are recommended for this course.
 
