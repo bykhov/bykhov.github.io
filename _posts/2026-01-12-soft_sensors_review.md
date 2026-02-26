@@ -53,23 +53,30 @@ The paper highlights several open-source libraries that practitioners can use to
 
 ### Summary of Recommended Tools
 
-| Domain | Tool | Description | Source |
-|--------|------|-------------|--------|
-| **Interpretability** | InterpretML | Microsoft's toolkit integrating glass-box models (e.g., EBM) and post-hoc explanations like SHAP/LIME | [GitHub](https://github.com/interpretml/interpret) |
-| | Alibi | Python library for diverse explanation methods including counterfactuals and contrastive explanations | [GitHub](https://github.com/SeldonIO/alibi) |
-| | Captum | Library specifically for interpreting PyTorch models, featuring Integrated Gradients and DeepLIFT | [GitHub](https://github.com/pytorch/captum) |
-| | AIX360 | IBM's toolkit providing comprehensive algorithms for data, model, and prediction explanations, plus fairness detection | [GitHub](https://github.com/Trusted-AI/AIX360) |
-| | DALEX | Tools for visualizing and understanding complex models (available in R and Python) | [GitHub](https://github.com/ModelOriented/DALEX) |
-| | Eli5 | Simplifies debugging and explanation of classifiers; compatible with scikit-learn | [GitHub](https://github.com/TeamHG-Memex/eli5) |
-| | Fairlearn | Focuses on assessing and mitigating fairness issues in machine learning models | [GitHub](https://github.com/fairlearn/fairlearn) |
-| **Causal ML** | DoWhy | Microsoft's library for principled causal inference, combining causal graphs with statistical estimation | [GitHub](https://github.com/py-why/dowhy) |
-| | CausalML | Uber's package for estimating heterogeneous treatment effects and uplift modeling | [GitHub](https://github.com/uber/causalml) |
-| | EconML | Microsoft's library bridging econometrics and ML for heterogeneous treatment effects (e.g., Causal Forests) | [GitHub](https://github.com/py-why/EconML) |
-| | CausalNex | QuantumBlack's library combining causal discovery with probabilistic modeling and visualization | [GitHub](https://github.com/quantumblacklabs/causalnex) |
-| | Tigramite | Specialized library for causal discovery in time-series data | [GitHub](https://github.com/jakobrunge/tigramite) |
-| | Causal Discovery Toolbox | Comprehensive suite of algorithms (constraint-based, score-based, functional) for various data types | [GitHub](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) |
-| | CausalPy | User-friendly API for causal analysis, effect estimation, and counterfactual reasoning | [GitHub](https://github.com/pyro-ppl/causalpyro) |
+| Domain | Tool | Description                                                                                                                            | Source |
+|--------|------|----------------------------------------------------------------------------------------------------------------------------------------|--------|
+| **Interpretability** | InterpretML | Microsoft's toolkit integrating glass-box models (e.g., EBM) and post-hoc explanations like SHAP/LIME                                  | [GitHub](https://github.com/interpretml/interpret) |
+| | Alibi | Python library for diverse explanation methods including counterfactuals and contrastive explanations                                  | [GitHub](https://github.com/SeldonIO/alibi) |
+| | Captum | Library specifically for interpreting PyTorch models, featuring Integrated Gradients and DeepLIFT                                      | [GitHub](https://github.com/pytorch/captum) |
+| | AIX360 | IBM's toolkit providing comprehensive algorithms for data, model, and prediction explanations, plus fairness detection                 | [GitHub](https://github.com/Trusted-AI/AIX360) |
+| | DALEX | Tools for visualizing and understanding complex models (available in R and Python)                                                     | [GitHub](https://github.com/ModelOriented/DALEX) |
+| | Eli5 | Simplifies debugging and explanation of classifiers; compatible with scikit-learn (ELI5 stands for "Explain Like I'm 5", _unmaintained_) | [GitHub](https://github.com/TeamHG-Memex/eli5) |
+| | Fairlearn | Focuses on assessing and mitigating fairness issues in machine learning models                                                         | [GitHub](https://github.com/fairlearn/fairlearn) |
+| **Causal ML** | DoWhy | Microsoft's library for principled causal inference, combining causal graphs with statistical estimation                               | [GitHub](https://github.com/py-why/dowhy) |
+| | CausalML | Uber's package for estimating heterogeneous treatment effects and uplift modeling                                                      | [GitHub](https://github.com/uber/causalml) |
+| | EconML | Microsoft's library bridging econometrics and ML for heterogeneous treatment effects (e.g., Causal Forests)                            | [GitHub](https://github.com/py-why/EconML) |
+| | CausalNex | QuantumBlack's library combining causal discovery with probabilistic modeling and visualization                                        | [GitHub](https://github.com/quantumblacklabs/causalnex) |
+| | Tigramite | Specialized library for causal discovery in time-series data                                                                           | [GitHub](https://github.com/jakobrunge/tigramite) |
+| | Causal Discovery Toolbox | Comprehensive suite of algorithms (constraint-based, score-based, functional) for various data types                                   | [GitHub](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) |
+| | CausalPy | User-friendly API for causal analysis, effect estimation, and counterfactual reasoning                                                 | [GitHub](https://github.com/pyro-ppl/causalpyro) |
 
 ## Reference
 
 L. Cao et al., "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors," IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-17, 2025, doi: [10.1109/TIM.2025.3556830](https://doi.org/10.1109/TIM.2025.3556830)
+
+### Additional resources:
+- Book: [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+- Model agnostic interpretability:
+  - [SHAP](https://shap.readthedocs.io/en/latest/) package
+  - [LIME](https://github.com/marcotcr/lime) package (_unmaintained_)
+- [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam) package for visual explanations of PyTorch CNNs
