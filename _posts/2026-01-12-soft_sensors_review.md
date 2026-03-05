@@ -75,8 +75,9 @@ The paper highlights several open-source libraries that practitioners can use to
 L. Cao et al., "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors," IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-17, 2025, doi: [10.1109/TIM.2025.3556830](https://doi.org/10.1109/TIM.2025.3556830)
 
 ### Additional resources:
-- Book: [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+- Book: [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) ([repo](https://github.com/christophM/interpretable-ml-book))
 - Model agnostic interpretability:
   - [SHAP](https://shap.readthedocs.io/en/latest/) package
   - [LIME](https://github.com/marcotcr/lime) package (_unmaintained_)
+  - [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://github.com/eclique/RISE) paper code (_unmaintained_)
 - [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam) package for visual explanations of PyTorch CNNs
