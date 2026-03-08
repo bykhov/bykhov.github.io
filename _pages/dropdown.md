@@ -8,8 +8,8 @@ children:
   - title: Random Processes
     permalink: /teaching/rp
   - title: divider
-  - title: Deep Learning
-    permalink: /suppl/dl/2026/dl2026
+  - title: Machine Learning
+    permalink: /data-driven
   - title: divider
 
 ---
