@@ -12,6 +12,7 @@ img:
 * New graduate course started in 2024 (תשפ"ד)
 * [2024](/suppl/ts1/ts1_main2024) - First-time
 * 2025
+* [2026](/suppl/ts1/ts1_main2026)
 
 ---
 

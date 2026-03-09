@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-[Lecture notes](https://bykhov.github.io/data-driven/)
+### [Lecture notes](https://bykhov.github.io/data-driven/)
 
 ---
 
@@ -18,7 +18,7 @@ layout: default
 * [recording](https://sce-ac-il.zoom.us/rec/share/9Qt4y5iL3xSv-g7zm93Btfrz7qTHTBRFBOP-BRbI-lgtv6IffLnrAwRGfi945tUq.wJRHqAnCW_vZLTBm?startTime=1773075079000)
 * classwork: 
   * [dataset](https://www.kaggle.com/datasets/saranpannasuriyaporn/male-female-height-and-weight)
-  * [report](Lec1-Height_Weight_Report.pdf)
+  * [report](/suppl/ts1/Lec2026/Lec1-Height_Weight_Report.pdf)
 * homework: reproduce the classwork report with the following [dataset](/suppl/ts1/Lec2026/Lec1_hw_dataset.csv) from [here](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex)
   * Submission in PDF format
   * Moodle upload
