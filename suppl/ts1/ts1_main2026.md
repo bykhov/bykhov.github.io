@@ -15,7 +15,7 @@ toc:
 ---
 
 ### Meetings
-##### Week 1 (09/03) - Descriptive Statistics Basics (Ch. 1)
+#### Week 1 (09/03) - Descriptive Statistics Basics (Ch. 1)
 * [whiteboard](/suppl/ts1/Lec2026/Lec1.pdf)
 * [recording](https://sce-ac-il.zoom.us/rec/share/9Qt4y5iL3xSv-g7zm93Btfrz7qTHTBRFBOP-BRbI-lgtv6IffLnrAwRGfi945tUq.wJRHqAnCW_vZLTBm?startTime=1773075079000)
 * classwork: 
