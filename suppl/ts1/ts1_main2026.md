@@ -1,5 +1,7 @@
 ---
 layout: default
+toc: 
+   sidebar: left
 ---
 
 ## Selected Topics on Machine and Deep Learning, 2026
