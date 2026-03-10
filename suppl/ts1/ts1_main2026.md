@@ -26,3 +26,13 @@ toc:
   * Moodle upload
 
 ---
+
+### AI tools
+Recommended AI tools for the course:
+* Web-based AI assistants:
+  - Claude, Gemini, ChatGPT, Grok
+* CLI tools: 
+    - Claude CLI, Gemini CLI, Codex CLI (by ChatGPT), Grok CLI
+* Tools with free access for students:
+  * Web-based: [Perplexity](https://www.perplexity.ai/)
+  * Code-oriented: [GitHub Copilot](https://copilot.github.com/) and GitHub Copilot CLI
