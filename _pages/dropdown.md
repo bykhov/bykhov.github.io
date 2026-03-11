@@ -13,6 +13,7 @@ children:
   - title: divider
   - title: Python (TA)
     permalink: /suppl/python/python2026
+  - title: divider
   - title: Random Processes
     permalink: /teaching/rp
   - title: divider        
