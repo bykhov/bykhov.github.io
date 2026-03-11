@@ -9,10 +9,15 @@ toc:
 
 ---
 
+### Meetings
+Week 1 (12/03) - Course introduction and Python basics
+
+---
+
 ### [Recommended resources](/suppl/python/python_resources2026)
 
 ---
 
-### [Recordings](/suppl/python/recordings)
+### [Old Recordings](/suppl/python/recordings)
 
 ---
