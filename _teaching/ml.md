@@ -14,5 +14,6 @@ img:
 * 2021, 2022, 2023
 * [2024 edition](/suppl/ml/ml2024)
 * [2025 edition](/suppl/ml/ml2025)
+* [2026 edition](/suppl/ml/ml2026)
 
 ---
