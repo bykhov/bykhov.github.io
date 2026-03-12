@@ -11,12 +11,15 @@ toc:
 
 ### Meetings
 #### Week 1 (12/03) 
-* Course introduction
+* Topic: Course introduction, GitHub and Markdown basics
 * [whiteboard](/suppl/python/ta2026/Week1_diagram.pdf)
-* [Github Skill](https://learn.github.com/skills) 
+* [Github Skill](https://learn.github.com/skills) mini-courses: 
   * [Introduction to GitHub](https://github.com/skills/introduction-to-github)
   * [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
 * [recording](https://sce-ac-il.zoom.us/rec/share/zVfcJfuqgl4tCh9NvVc5BSS9dJP9aEl2-7sCVKLcJS_4zQs5IBR6S6L88EE2n3hd.eKL7YJ8eMAYwg-W2?startTime=1773299567000)
+
+#### Week 2 (19/03)
+* Topic: Local Python setup, Anaconda, IDEs
 
 
 ---
