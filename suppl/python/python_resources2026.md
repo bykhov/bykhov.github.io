@@ -4,7 +4,7 @@ toc:
   sidebar: left
 ---
 
-## Python [course](/suppl/python/python2024), 2026
+## Python [course](/suppl/python/python2026), 2026
 
 ---
 

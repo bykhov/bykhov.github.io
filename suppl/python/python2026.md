@@ -2,9 +2,6 @@
 layout: default
 toc:
   sidebar: left
-mermaid:
-  enabled: true
-  zoomable: true
 ---
 
 ## Python course, 2026
@@ -15,44 +12,17 @@ mermaid:
 ### Meetings
 #### Week 1 (12/03) 
 * Course introduction
+* [whiteboard](/suppl/python/ta2026/Week1_diagram.pdf)
 * [Github Skill](https://learn.github.com/skills) 
   * [Introduction to GitHub](https://github.com/skills/introduction-to-github)
   * [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
-```mermaid
-graph LR
-    subgraph main["סביבת עבודה"]
-        lang["שפת תכנות"]
-        ide["סביבת פיתוח תוכנה<br/>IDE<br/>• Visual Studio Code<br/>(Cursor, Antigravity, ...)<br/>• JetBrains: PyCharm,<br/>Dataspell"]
-        libs["ספריות נלוות"]
-        collab["עבודה משותפת<br/>Github<br/>Markdown"]
+* [recording](https://sce-ac-il.zoom.us/rec/share/zVfcJfuqgl4tCh9NvVc5BSS9dJP9aEl2-7sCVKLcJS_4zQs5IBR6S6L88EE2n3hd.eKL7YJ8eMAYwg-W2?startTime=1773299567000)
 
-        lang <--> ide
-        lang <--> libs
-        libs <--> collab
-        ide <--> collab
-    end
-
-    ai["AI tools<br/>• Github Copilot<br/>• Gemini CLI"]
-    anaconda["כלי ניהול גרסות של<br/>ספריות<br/>Anaconda"]
-    colab["Colab קצת מהכל"]
-
-    lang --> ai
-    ide <-.-> ai
-    anaconda --> lang
-    anaconda --> libs
-    colab <--> collab
-
-    style ai fill:#a8c4f0,stroke:#333
-    style anaconda fill:#e0e0e0,stroke:#333
-    style colab fill:#7ecfa0,stroke:#333
-    style main fill:#fde8a0,stroke:#f0c040,stroke-width:2px
-```
 
 ---
 
 ### Project
 The project will be presented at the end of the course 11/06. More details will be provided during the course.
-* [Guidelines](/suppl/python/ta2026/Python_Project.pdf)
 
 ---
 
