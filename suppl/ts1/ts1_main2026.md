@@ -27,7 +27,23 @@ Topic: Descriptive Statistics Basics (Ch. 1)
   * Moodle upload
 
 #### Week 2 (16/03)
-Topic: Linear LS Basics
+* Topics: 
+  * Linear LS Basics (Ch. 2, except (*)-marked section, Ch. 3.1, 3.2.1, 3.3.3)
+  * Agentic AI
+* Files:
+  * [Ch. 2](/suppl/ts1/Lec2026/Lec2-Data-Driven%20Time-Series%20Prediction%20—%20Uni-Variate%20Linear%20Least-Squares_annotated.pdf)
+  * [Ch. 3](/suppl/ts1/Lec2026/Lec2-Data-Driven%20Time-Series%20Prediction%20—%20Linear%20Least-Squares_annotated.pdf)
+  * [Agentic AI](/suppl/ts1/Lec2026/Lec2-AI-notes_annotated.pdf)
+* [recording](https://sce-ac-il.zoom.us/rec/share/bUJbkAQ5T-_f0ZJK2cYzCPxNJz2F9HXiYP-vQ7OMshYgg49qMZgPqU8Q_BZ5aXmY.7g__3t7WZjbvkB7z?startTime=1773679913000)
+* homework: install and test one of the recommended CLI AI tools
+
+#### Week 3 (23/03)
+* Topics:
+  * Multivariate LS with agentic AI
+
+#### Week 4 (30/03)
+* Topics:
+  * Model characterization (Ch. 4) 
 
 
 ---
@@ -40,4 +56,4 @@ Recommended AI tools for the course:
     - Claude CLI, Gemini CLI, Codex CLI (by ChatGPT), Grok CLI
 * Tools with free access for students:
   * Web-based: [Perplexity](https://www.perplexity.ai/)
-  * Code-oriented: [GitHub Copilot](https://copilot.github.com/) and GitHub Copilot CLI
+  * Code-oriented: [GitHub Copilot](https://copilot.github.com/) and GitHub Copilot CLI (reduced functionality for students starting from 12-03-26)
