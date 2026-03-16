@@ -15,7 +15,8 @@ toc:
 ---
 
 ### Meetings
-#### Week 1 (09/03) - Descriptive Statistics Basics (Ch. 1)
+#### Week 1 (09/03)
+Topic: Descriptive Statistics Basics (Ch. 1)
 * [whiteboard](/suppl/ts1/Lec2026/Lec1.pdf)
 * [recording](https://sce-ac-il.zoom.us/rec/share/9Qt4y5iL3xSv-g7zm93Btfrz7qTHTBRFBOP-BRbI-lgtv6IffLnrAwRGfi945tUq.wJRHqAnCW_vZLTBm?startTime=1773075079000)
 * classwork: 
@@ -24,6 +25,10 @@ toc:
 * homework: reproduce the classwork report with the following [dataset](/suppl/ts1/Lec2026/Lec1_hw_dataset.csv) from [here](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex)
   * Submission in PDF format
   * Moodle upload
+
+#### Week 2 (16/03)
+Topic: Linear LS Basics
+
 
 ---
 
