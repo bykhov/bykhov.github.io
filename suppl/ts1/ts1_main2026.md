@@ -11,6 +11,7 @@ toc:
 ---
 
 ### [Lecture notes](https://bykhov.github.io/data-driven/)
+* [Recommended AI tools](/suppl/ts1/Lec2026/ai_tools_2026a)
 
 ---
 
@@ -47,13 +48,3 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 
 ---
-
-### AI tools
-Recommended AI tools for the course:
-* Web-based AI assistants:
-  - Claude, Gemini, ChatGPT, Grok
-* CLI tools: 
-    - Claude CLI, Gemini CLI, Codex CLI (by ChatGPT), Grok CLI
-* Tools with free access for students:
-  * Web-based: [Perplexity](https://www.perplexity.ai/)
-  * Code-oriented: [GitHub Copilot](https://copilot.github.com/) and GitHub Copilot CLI (reduced functionality for students starting from 12-03-26)
