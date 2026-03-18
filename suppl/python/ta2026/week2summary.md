@@ -11,15 +11,13 @@ Week 2 summary: Local Python installation and AI tools
     * conda package management
 * IDEs:
 
-| IDE                         | Free AI (for students) | Notes                                               |
-|-----------------------------|-------------------------------------|-----------------------------------------------------|
-| Spyder                      | No                                  | Basic Python IDE, included in Anaconda distribution |
-| PyCharm                     | GitHub Copilot                      | JetBrains IDE                                       |
-| DataSpell                   | GitHub Copilot                      | JetBrains IDE                                       |
-| Visual Studio Code (VSCode) | GitHub Copilot                      | Microsoft IDE                                       |
-| Cursor                      | Claude/GPT-based                    | VSCode-based                                        |
-| Antigravity                 | Gemini                              | VSCode-based                                        |
+| IDE                         | Free AI (for students) | Notes                                              |
+|-----------------------------|-------------------------------------|----------------------------------------------------|
+| Spyder                      | No                                  | Anaconda distribution                              |
+| PyCharm                     | GitHub Copilot                      | JetBrains IDE                                      |
+| DataSpell                   | GitHub Copilot                      | JetBrains IDE                                      |
+| Visual Studio Code (VSCode) | GitHub Copilot                      | Microsoft IDE                                      |
+| Cursor                      | Claude/GPT-based                    | VSCode-based                                       |
+| Antigravity                 | Gemini                              | VSCode-based                                       |
+| GitHub Codespaces           | GitHub Copilot                      | Cloud-based VSCode, 180 hours-per-month (14-03-26) |
 
-* AI CLI tools (can be used in terminal or integrated into IDEs):
-  * Claude CLI, Gemini CLI, Codex CLI (by ChatGPT), Grok CLI
-  * GitHub Copilot CLI (Claude/GPT-based code assistant) - free for students
