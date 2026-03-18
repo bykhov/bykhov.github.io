@@ -11,15 +11,18 @@ toc:
 
 #### Week2 (18/03)
 * Material: Multivariate LS (Ch. 3)
+* [notes](/suppl/ml/Lec2026/ML2026Lec2.pdf)
+* [AI example](/suppl/ml/Lec2026/ML2026Lec2_classwork.zip)
+* [recording](https://sce-ac-il.zoom.us/rec/share/ymyRfWgWdRizYp_fAOAPVx3-DX_j32lVxfkGFbtc39BJEN0nTJMAV1QJe72xzKM.sjz2mmN-kniIRlbk?startTime=1773832552000)
 
 #### Week3 (25/03)
-* Material: Model characterization (Ch. 4)
+* Material: Model characterization (Ch. 4, 7)
 
 #### Week4 (15/04)
-* Material: Logistic regression (Ch. ?)
+* Material: Logistic regression (Ch. 8)
 
 #### Week5 (29/04)
-* Material: Classification performance evaluation (Ch. ?)
+* Material: Classification performance evaluation (Ch. 9)
 
 #### Week6 (06/05)
 * Material: Hands-on sesssion with [Accelerating End-to-End Data Science Workflows](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-DS-01+V2)
