@@ -22,6 +22,9 @@ toc:
 
 #### Week 2 (19/03)
 * Topic: Local Python installation ([summary](/suppl/python/ta2026/week2summary))
+* [notes](/suppl/python/ta2026/Week2PythonInstallation.pdf)
+* [recording](https://sce-ac-il.zoom.us/rec/share/leGZUVg2xmJ4eQQ6a_UeifZwZwxtucF8sQTeOlTWw6yJ5SR9Ps2D4XnreGCH0dGO.dyvy79RkI3venrD2?startTime=1773904712000) - part 1 (local installation), part 2 (IDE installation) occasionally was not recorded, but the material is covered in the notes.
+
 
 ---
 
