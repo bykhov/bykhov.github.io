@@ -29,7 +29,7 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 #### Week 2 (16/03)
 * Topics: 
-  * Linear LS Basics (Ch. 2, except (*)-marked section, Ch. 3.1, 3.2.1, 3.3.3)
+  * Linear LS Basics and multivariate LS (Ch. 2, except (*)-marked section, Ch. 3.1, 3.2.1, 3.3.3)
   * Agentic AI
 * Files:
   * [Ch. 2](/suppl/ts1/Lec2026/Lec2-Data-Driven%20Time-Series%20Prediction%20—%20Uni-Variate%20Linear%20Least-Squares_annotated.pdf)
@@ -40,11 +40,16 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 #### Week 3 (23/03)
 * Topics:
-  * Multivariate LS with agentic AI
+  * Model characterization (Ch. 4, except (*)-marked sections)
+  * Agentic AI (cont.)
+* File [Ch. 4](/suppl/ts1/Lec2026/Lec3_annotated.pdf)
+* [recording](https://sce-ac-il.zoom.us/rec/share/IAyD4vqyu-2b-XPsfCAhBM-QyoYZW71M6_uyhn0PHDEC-xveAfRC4QvOJqL96I_L.42VpVOkDCf08syoK)
 
 #### Week 4 (30/03)
 * Topics:
-  * Model characterization (Ch. 4) 
+  * Regression loss functions (Ch. 6, except (*)-marked sections)
+  * Learning systems engineering (Ch. 7)
+  * Agentic AI (cont.)
 
 
 ---
