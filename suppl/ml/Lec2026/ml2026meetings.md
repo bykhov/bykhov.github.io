@@ -16,7 +16,11 @@ toc:
 * [recording](https://sce-ac-il.zoom.us/rec/share/ymyRfWgWdRizYp_fAOAPVx3-DX_j32lVxfkGFbtc39BJEN0nTJMAV1QJe72xzKM.sjz2mmN-kniIRlbk?startTime=1773832552000)
 
 #### Week3 (25/03)
-* Material: Model characterization (Ch. 4, 7)
+* Material: Model characterization (Ch. 4  _except (*)-marked sections_, 7.1.1)
+* [Ch. 4 notes](/suppl/ml/Lec2026/Week3/Data-Driven%20Time-Series%20Prediction%20—%20Model%20Characterization_annotated.pdf)
+* [Ch. 4 example](/suppl/ml/Lec2026/Week3/vb-t_annotated.pdf)
+* [Ch. 7 notes](/suppl/ml/Lec2026/Week3/Data-Driven%20Time-Series%20Prediction%20—%20Model%20Characterization_annotated.pdf)
+* [recording](https://sce-ac-il.zoom.us/rec/share/T3_uVTtPc-HzxNToEfLjRyWK3LMSGyXc1sIdmalwUMzocXsxWfhekphOKUEafe4s.FWJYNfE6nAJlPVGu?startTime=1774437199000)
 
 #### Week4 (15/04)
 * Material: Logistic regression (Ch. 8)

@@ -47,6 +47,7 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 #### Week 4 (30/03)
 * Topics:
+  * Gradient descent (Ch. 3.4) 
   * Regression loss functions (Ch. 6, except (*)-marked sections)
   * Learning systems engineering (Ch. 7)
   * Agentic AI (cont.)
