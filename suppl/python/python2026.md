@@ -27,7 +27,9 @@ toc:
 
 #### Week 3 (26/03)
 * Topic: Python basics (variables, data types, control flow)
-
+* [notes](/suppl/python/ta2026/week3_python_basics_annotated.pdf)
+* [code examples](/suppl/python/ta2026/week3.py)
+* [recording](https://sce-ac-il.zoom.us/rec/share/9PQUuWu23T3aNMh2xXTBqWVd9_9DyTN7KCCXDdmwIwio7Kdlu3vZX495K5GBB29d.vRsFG-8H8DeuSFTL?startTime=1774509567000)
 
 ---
 
@@ -40,6 +42,7 @@ The project will be presented at the end of the course 11/06. More details will 
 ### Resources 
 * [Recommended resources](/suppl/python/python_resources2026)
 * [Recommended AI tools](/suppl/ts1/Lec2026/ai_tools_2026a)
+
 ---
 
 ### [Old Recordings](/suppl/python/recordings)

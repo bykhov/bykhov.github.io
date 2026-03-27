@@ -10,7 +10,8 @@ toc:
 
 ---
 
-### [Lecture notes](https://bykhov.github.io/data-driven/)
+### Materials 
+* [Lecture notes](https://bykhov.github.io/data-driven/)
 * [Recommended AI tools](/suppl/ts1/Lec2026/ai_tools_2026a)
 
 ---
