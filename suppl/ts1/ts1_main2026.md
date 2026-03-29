@@ -48,10 +48,25 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 #### Week 4 (30/03)
 * Topics:
+  * Agentic AI (cont.)
+  * Homework presentation
+
+* _Note_: 
+  * 06/04 - no class (Passover), 
+  * 13/04 - no class (יום השואה), 
+  * 20/04 - no class (יום הזיכרון)
+
+#### Week 5 (27/04)
+* Topics:
   * Gradient descent (Ch. 3.4) 
   * Regression loss functions (Ch. 6, except (*)-marked sections)
   * Learning systems engineering (Ch. 7)
-  * Agentic AI (cont.)
 
+#### Week 6 (04/05)
+#### Week 7 (11/05)
+#### Week 8 (18/05)
+#### Week 9 (25/05)
+#### Week 10 (01/06)
+#### Week 11 (08/06)
 
 ---
