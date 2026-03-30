@@ -54,7 +54,7 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 * Files:
   * [Ch. 6](/suppl/ts1/Lec2026/Lec4_annotated.pdf)
   * [recording](https://sce-ac-il.zoom.us/rec/share/WUeSBebo1yRz7uEX7sNwCbkX-61aPUs1Q477giWUiXdt9N3m8XYxZAKEemhuUQg0.X26PF_DacewjR29b)
-  * [dataset for homework](/suppl/ts1/Lec2026/dataset_hw_Lec4.csv)
+  * [dataset for homework](/suppl/ts1/Lec2026/dataset_hw2.csv)
 
 * _Note_: 
   * 06/04 - no class (Passover), 
