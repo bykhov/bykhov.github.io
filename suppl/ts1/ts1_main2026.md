@@ -48,8 +48,13 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 #### Week 4 (30/03)
 * Topics:
-  * Agentic AI (cont.)
-  * Homework presentation
+  * Regression losses and metrics (Ch. 6, except (*)-marked sections)
+  * Homework presentation (during the lecture)
+  * Agentic AI (prompt engineering and plan mode)
+* Files:
+  * [Ch. 6](/suppl/ts1/Lec2026/Lec4_annotated.pdf)
+  * [recording](https://sce-ac-il.zoom.us/rec/share/WUeSBebo1yRz7uEX7sNwCbkX-61aPUs1Q477giWUiXdt9N3m8XYxZAKEemhuUQg0.X26PF_DacewjR29b)
+  * [dataset for homework](/suppl/ts1/Lec2026/dataset_hw_Lec4.csv)
 
 * _Note_: 
   * 06/04 - no class (Passover), 
@@ -58,9 +63,8 @@ Topic: Descriptive Statistics Basics (Ch. 1)
 
 #### Week 5 (27/04)
 * Topics:
-  * Gradient descent (Ch. 3.4) 
-  * Regression loss functions (Ch. 6, except (*)-marked sections)
   * Learning systems engineering (Ch. 7)
+  * Agentic AI (cont.)
 
 #### Week 6 (04/05)
 #### Week 7 (11/05)

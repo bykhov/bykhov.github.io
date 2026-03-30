@@ -31,11 +31,22 @@ toc:
 * [code examples](/suppl/python/ta2026/week3.py)
 * [recording](https://sce-ac-il.zoom.us/rec/share/9PQUuWu23T3aNMh2xXTBqWVd9_9DyTN7KCCXDdmwIwio7Kdlu3vZX495K5GBB29d.vRsFG-8H8DeuSFTL?startTime=1774509567000)
 
----
+#### Week 4 (09/04)
+* Topic: tuples, functions
 
-### Project
+#### Week 5 (16/04)
+#### Week 6 (23/04)
+#### Week 7 (30/04)
+#### Week 8 (07/05)
+#### Week 9 (14/05)
+#### Week 10 (28/05)
 
-The project will be presented at the end of the course 11/06. More details will be provided during the course.
+#### Week 11 (04/06)
+* Recap and Q&A session before the project presentations.
+
+#### Week 12 (11/06) - project presentations
+* Details about the project will be provided during the course.
+
 
 ---
 
